@@ -1,0 +1,399 @@
+{
+  "as_in_ts": {
+    "Bluestone, George": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "BLUESTONE, G": 1
+      }
+    },
+    "McFarlane, Brian": {
+      "references": 4,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.028,
+      "variants_matched": {
+        "MCFARLANE, B": 4
+      }
+    },
+    "Stam, Robert": {
+      "references": 25,
+      "citing_documents": 20,
+      "pct_of_corpus": 0.14,
+      "variants_matched": {
+        "STAM, R": 25
+      }
+    },
+    "Hutcheon, Linda": {
+      "references": 72,
+      "citing_documents": 68,
+      "pct_of_corpus": 0.477,
+      "variants_matched": {
+        "HUTCHEON, L": 72
+      }
+    },
+    "Leitch, Thomas": {
+      "references": 12,
+      "citing_documents": 11,
+      "pct_of_corpus": 0.077,
+      "variants_matched": {
+        "LEITCH, T": 12
+      }
+    },
+    "Sanders, Julie": {
+      "references": 17,
+      "citing_documents": 15,
+      "pct_of_corpus": 0.105,
+      "variants_matched": {
+        "SANDERS, J": 17
+      }
+    },
+    "Cattrysse, Patrick": {
+      "references": 31,
+      "citing_documents": 26,
+      "pct_of_corpus": 0.182,
+      "variants_matched": {
+        "CATTRYSSE, P": 31
+      }
+    },
+    "Elliott, Kamilla": {
+      "references": 9,
+      "citing_documents": 6,
+      "pct_of_corpus": 0.042,
+      "variants_matched": {
+        "ELLIOTT, K": 9
+      }
+    },
+    "Naremore, James": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.014,
+      "variants_matched": {
+        "NAREMORE, J": 2
+      }
+    },
+    "Cardwell, Sarah": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "CARDWELL, S": 1
+      }
+    },
+    "Andrew, Dudley": {
+      "references": 7,
+      "citing_documents": 6,
+      "pct_of_corpus": 0.042,
+      "variants_matched": {
+        "ANDREW, D": 7
+      }
+    },
+    "Geraghty, Christine": {
+      "references": 0,
+      "citing_documents": 0,
+      "pct_of_corpus": 0.0,
+      "variants_matched": {}
+    },
+    "Murray, Simone": {
+      "references": 8,
+      "citing_documents": 8,
+      "pct_of_corpus": 0.056,
+      "variants_matched": {
+        "MURRAY, S": 8
+      }
+    },
+    "Corrigan, Timothy": {
+      "references": 7,
+      "citing_documents": 6,
+      "pct_of_corpus": 0.042,
+      "variants_matched": {
+        "CORRIGAN, T": 7
+      }
+    },
+    "Bruhn, Jorgen": {
+      "references": 5,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.021,
+      "variants_matched": {
+        "BRUHN, J": 5
+      }
+    },
+    "Hermansson, Casie": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "HERMANSSON, C": 1
+      }
+    },
+    "Boozer, Jack": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "BOOZER, J": 1
+      }
+    },
+    "Cohen, Keith": {
+      "references": 3,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.021,
+      "variants_matched": {
+        "COHEN, K": 3
+      }
+    },
+    "Aragay, Mireia": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.014,
+      "variants_matched": {
+        "ARAGAY, M": 2
+      }
+    },
+    "Whelehan, Imelda": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.014,
+      "variants_matched": {
+        "WHELEHAN, I": 2
+      }
+    }
+  },
+  "ts_in_as": {
+    "Jakobson, Roman": {
+      "references": 18,
+      "citing_documents": 17,
+      "pct_of_corpus": 0.615,
+      "variants_matched": {
+        "JAKOBSON, R": 18
+      }
+    },
+    "Toury, Gideon": {
+      "references": 11,
+      "citing_documents": 10,
+      "pct_of_corpus": 0.362,
+      "variants_matched": {
+        "TOURY, G": 11
+      }
+    },
+    "Venuti, Lawrence": {
+      "references": 29,
+      "citing_documents": 21,
+      "pct_of_corpus": 0.76,
+      "variants_matched": {
+        "VENUTI, L": 29
+      }
+    },
+    "Bassnett, Susan": {
+      "references": 9,
+      "citing_documents": 8,
+      "pct_of_corpus": 0.29,
+      "variants_matched": {
+        "BASSNETT, S": 8,
+        "BASSNETT-MCGUIRE, S": 1
+      }
+    },
+    "Nida, Eugene": {
+      "references": 4,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.109,
+      "variants_matched": {
+        "NIDA, E": 4
+      }
+    },
+    "Baker, Mona": {
+      "references": 4,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.145,
+      "variants_matched": {
+        "BAKER, M": 4
+      }
+    },
+    "Chesterman, Andrew": {
+      "references": 7,
+      "citing_documents": 5,
+      "pct_of_corpus": 0.181,
+      "variants_matched": {
+        "CHESTERMAN, A": 7
+      }
+    },
+    "Pym, Anthony": {
+      "references": 3,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.109,
+      "variants_matched": {
+        "PYM, A": 3
+      }
+    },
+    "Lefevere, Andre": {
+      "references": 15,
+      "citing_documents": 13,
+      "pct_of_corpus": 0.471,
+      "variants_matched": {
+        "LEFEVERE, A": 15
+      }
+    },
+    "Holmes, James": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "HOLMES, J": 1
+      }
+    },
+    "Snell-Hornby, Mary": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.072,
+      "variants_matched": {
+        "SNELL-HORNBY, M": 2
+      }
+    },
+    "Vermeer, Hans": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "VERMEER, H": 1
+      }
+    },
+    "Reiss, Katharina": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "REISS, K": 1
+      }
+    },
+    "Hermans, Theo": {
+      "references": 7,
+      "citing_documents": 5,
+      "pct_of_corpus": 0.181,
+      "variants_matched": {
+        "HERMANS, T": 7
+      }
+    },
+    "Gentzler, Edwin": {
+      "references": 4,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.145,
+      "variants_matched": {
+        "GENTZLER, E": 4
+      }
+    },
+    "Tymoczko, Maria": {
+      "references": 7,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.145,
+      "variants_matched": {
+        "TYMOCZKO, M": 7
+      }
+    },
+    "Munday, Jeremy": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.072,
+      "variants_matched": {
+        "MUNDAY, J": 2
+      }
+    },
+    "Vinay, Jean-Paul": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.072,
+      "variants_matched": {
+        "VINAY, J": 2
+      }
+    },
+    "Catford, John": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "CATFORD, J": 1
+      }
+    },
+    "Steiner, George": {
+      "references": 8,
+      "citing_documents": 8,
+      "pct_of_corpus": 0.29,
+      "variants_matched": {
+        "STEINER, G": 8
+      }
+    },
+    "Delabastita, Dirk": {
+      "references": 3,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.109,
+      "variants_matched": {
+        "DELABASTITA, D": 3
+      }
+    },
+    "Gambier, Yves": {
+      "references": 6,
+      "citing_documents": 5,
+      "pct_of_corpus": 0.181,
+      "variants_matched": {
+        "GAMBIER, Y": 6
+      }
+    },
+    "van Doorslaer, Luc": {
+      "references": 0,
+      "citing_documents": 0,
+      "pct_of_corpus": 0.0,
+      "variants_matched": {}
+    }
+  },
+  "benchmarks": {
+    "Sociology of translation": {
+      "references": 1547,
+      "citing_documents": 737,
+      "pct_of_corpus_documents": 5.17,
+      "per_10k_references": 48.6
+    },
+    "Film & media studies": {
+      "references": 100,
+      "citing_documents": 81,
+      "pct_of_corpus_documents": 0.57,
+      "per_10k_references": 3.1
+    },
+    "Cognitive science / psychology": {
+      "references": 2186,
+      "citing_documents": 1178,
+      "pct_of_corpus_documents": 8.26,
+      "per_10k_references": 68.6
+    },
+    "Linguistics & pragmatics": {
+      "references": 1179,
+      "citing_documents": 742,
+      "pct_of_corpus_documents": 5.2,
+      "per_10k_references": 37.0
+    },
+    "Postcolonial & decolonial theory": {
+      "references": 460,
+      "citing_documents": 339,
+      "pct_of_corpus_documents": 2.38,
+      "per_10k_references": 14.4
+    },
+    "Adaptation Studies canon": {
+      "references": 210,
+      "citing_documents": 134,
+      "pct_of_corpus_documents": 0.94,
+      "per_10k_references": 6.6
+    }
+  },
+  "totals": {
+    "AS_canon_in_TSJ": {
+      "references": 210,
+      "citing_documents": 134,
+      "pct_of_corpus_documents": 0.94,
+      "per_10k_references": 6.6
+    },
+    "TS_canon_in_ASJ": {
+      "references": 145,
+      "citing_documents": 68,
+      "pct_of_corpus_documents": 2.46,
+      "per_10k_references": 32.9
+    }
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "file": "D1_annual_indexed_output.png",
+    "caption": "Records indexed per year. This is indexed output, NOT the growth of either field: journals enter the database at different dates, and the shaded band marks the Emerging Sources Citation Index expansion, which admitted large numbers of humanities journals at once."
+  },
+  {
+    "file": "D2_ts_journal_composition.png",
+    "caption": "Every journal in TS-J by record count. Counts are case-insensitive: six journals also appear under a mixed-case duplicate source string, and counting raw strings gives a spurious twenty-six 'journals'."
+  },
+  {
+    "file": "D3_bradford_concentration.png",
+    "caption": "Cumulative share of records against journal rank. TS-J is a closed set of twenty venues by construction; AS-T is dispersed across hundreds of other disciplines' journals, which is the shape of ceded practice."
+  },
+  {
+    "file": "D4_lotka_author_productivity.png",
+    "caption": "The share of each field's authors publishing one, two, three\u2026 documents in the corpus. Both fields show the steep distribution typical of academic literatures: most authors appear once."
+  },
+  {
+    "file": "D5_most_cited_authors.png",
+    "caption": "The fifteen most-cited first authors inside each corpus. Names are normalised to surname plus first initial, so the database's four renderings of the same person are merged."
+  },
+  {
+    "file": "D6_most_cited_sources.png",
+    "caption": "The fifteen most-cited sources within each corpus. Web of Science truncates these strings at twenty characters, so book titles appear abbreviated; journal abbreviations and book titles share the field."
+  },
+  {
+    "file": "D7_document_types.png",
+    "caption": "Document types in TS-J. Book reviews (orange) are 27% of the corpus and are retained deliberately: which books a discipline reviews is jurisdictional behaviour."
+  },
+  {
+    "file": "D8_author_countries.png",
+    "caption": "Author locations in each corpus. This describes the INDEXED record, not the fields: Web of Science's own coverage bias toward Anglophone and European venues shapes it directly, which is itself the point."
+  }
+]

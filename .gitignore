@@ -1,0 +1,8 @@
+# raw Web of Science exports: never committed (Clarivate licence)
+data/
+# frozen copy that run_all.py makes on first run
+analysis_outputs_frozen/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

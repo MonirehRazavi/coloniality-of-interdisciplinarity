@@ -1,0 +1,47 @@
+{
+  "TS-J -> AS journals": {
+    "references": 40,
+    "per_10k_parsed_references": 1.26,
+    "citing_documents": 35,
+    "pct_of_corpus_documents": 0.25,
+    "by_journal": {
+      "J ADAPT FILM PERFORM": 17,
+      "ADAPTATION-UK": 16,
+      "LIT-FILM QUART": 7
+    }
+  },
+  "AS-J -> TS journals": {
+    "references": 74,
+    "per_10k_parsed_references": 16.77,
+    "citing_documents": 36,
+    "pct_of_corpus_documents": 1.3,
+    "by_journal": {
+      "TARGET-NETH": 20,
+      "TRANSL STUD": 18,
+      "TRANSLATOR": 12,
+      "META": 6,
+      "J SPEC TRANSL": 5,
+      "PERSPECT STUD TRANSL": 4,
+      "ACROSS LANG CULT": 3,
+      "TRANSLATION STUDIES": 2,
+      "TRANSLATION REV": 1,
+      "SENDEBAR": 1,
+      "LING ANTVERP NEW SER": 1,
+      "INTERPRET TRANSL TRA": 1
+    }
+  },
+  "AS-T -> TS journals": {
+    "references": 793,
+    "per_10k_parsed_references": 12.63,
+    "citing_documents": 331,
+    "pct_of_corpus_documents": 1.78
+  },
+  "asymmetry_ratio_AS_to_TS_over_TS_to_AS": 13.31,
+  "author_level": {
+    "AS canon per 10k TS-J refs": 6.59,
+    "TS canon per 10k AS-J refs": 32.86,
+    "TS canon per 10k AS-T refs": 20.97,
+    "AS canon per 10k AS-J refs (self-reference baseline)": 429.91,
+    "TS canon per 10k TS-J refs (self-reference baseline)": 490.95
+  }
+}

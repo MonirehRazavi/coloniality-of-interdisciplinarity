@@ -1,0 +1,115 @@
+{
+  "'translation' in TS-J": {
+    "documents_using_term": 9291,
+    "documents_with_modified_use": 2647,
+    "documents_with_bare_use": 8634,
+    "pct_bare": 92.9,
+    "pct_modified": 28.5,
+    "top_modifiers": {
+      "machine": 938,
+      "audiovisual": 848,
+      "literary": 843,
+      "legal": 417,
+      "self": 230,
+      "indirect": 218,
+      "news": 202,
+      "cultural": 178,
+      "collaborative": 159,
+      "sight": 149,
+      "intersemiotic": 139,
+      "intralingual": 117,
+      "medical": 115,
+      "literal": 110,
+      "specialized": 108
+    }
+  },
+  "'adaptation' in TS-J": {
+    "documents_using_term": 292,
+    "documents_with_modified_use": 65,
+    "documents_with_bare_use": 253,
+    "pct_bare": 86.6,
+    "pct_modified": 22.3,
+    "top_modifiers": {
+      "cultural": 41,
+      "film": 29,
+      "transmedia": 7,
+      "stage": 5,
+      "comic": 3,
+      "cinematic": 3,
+      "novel": 2,
+      "theatrical": 2,
+      "free": 2,
+      "television": 2,
+      "screen": 1,
+      "literary": 1,
+      "modern": 1,
+      "intermedial": 1
+    }
+  },
+  "'adaptation' in AS-J": {
+    "documents_using_term": 842,
+    "documents_with_modified_use": 309,
+    "documents_with_bare_use": 741,
+    "pct_bare": 88.0,
+    "pct_modified": 36.7,
+    "top_modifiers": {
+      "film": 201,
+      "screen": 42,
+      "cinematic": 28,
+      "literary": 26,
+      "television": 24,
+      "stage": 21,
+      "theatrical": 15,
+      "transmedia": 14,
+      "game": 13,
+      "cultural": 12,
+      "radio": 12,
+      "contemporary": 10,
+      "novel": 10,
+      "cross-media": 5,
+      "modern": 4
+    }
+  },
+  "'translation' in AS-J": {
+    "documents_using_term": 94,
+    "documents_with_modified_use": 16,
+    "documents_with_bare_use": 89,
+    "pct_bare": 94.7,
+    "pct_modified": 17.0,
+    "top_modifiers": {
+      "intersemiotic": 7,
+      "theatre": 5,
+      "indirect": 3,
+      "free": 2,
+      "audiovisual": 2,
+      "interlingual": 2,
+      "literal": 1,
+      "drama": 1,
+      "theater": 1
+    }
+  },
+  "'adaptation' in AS-T": {
+    "documents_using_term": 18521,
+    "documents_with_modified_use": 3471,
+    "documents_with_bare_use": 16423,
+    "pct_bare": 88.7,
+    "pct_modified": 18.7,
+    "top_modifiers": {
+      "film": 1695,
+      "cultural": 619,
+      "literary": 287,
+      "screen": 250,
+      "stage": 215,
+      "cinematic": 204,
+      "climate": 181,
+      "theatrical": 178,
+      "television": 168,
+      "contemporary": 93,
+      "musical": 89,
+      "tv": 80,
+      "modern": 76,
+      "novel": 68,
+      "graphic": 56
+    }
+  }
+}

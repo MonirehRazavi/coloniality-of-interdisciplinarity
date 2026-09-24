@@ -1,0 +1,134 @@
+[
+ {
+  "thesis_figure": "Figure 1.1",
+  "file": "figs_out/fig_1_01_adaptation_treemap.png",
+  "script": "make_chapter_figures.py",
+  "status": "same values as the thesis image; typesetting differs"
+ },
+ {
+  "thesis_figure": "Figure 1.2",
+  "file": "figs_out/fig_1_02_translation_treemap.png",
+  "script": "make_chapter_figures.py",
+  "status": "same values; typesetting differs"
+ },
+ {
+  "thesis_figure": "Figure 5.1",
+  "file": "figs_out/fig_5_02_grammars.png",
+  "script": "make_chapter_figures.py",
+  "status": "schematic; same content, typesetting differs"
+ },
+ {
+  "thesis_figure": "Figure 6.1",
+  "file": "figs_out/palette/fig_6_03_indexed_output.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.2",
+  "file": "figs_out/fig_4_01_mirror_canons.png",
+  "script": "make_chapter_figures.py",
+  "status": "same values; typesetting differs"
+ },
+ {
+  "thesis_figure": "Figure 6.3",
+  "file": "figs_out/fig_5_03_thematic_evolution.png",
+  "script": "make_chapter_figures.py",
+  "status": "REPLACES the thesis image (D17: corrected script, values changed)"
+ },
+ {
+  "thesis_figure": "Figure 6.4",
+  "file": "figs_out/thematic_maps/fig_themes_ASJ.png",
+  "script": "make_labelled_maps.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.5",
+  "file": "figs_out/thematic_maps/fig_themes_TSJ.png",
+  "script": "make_labelled_maps.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.6",
+  "file": "figs_out/thematic_maps/fig_themes_AST.png",
+  "script": "make_labelled_maps.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.7",
+  "file": "figs_out/palette/fig_6_10_two_sovereignties.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.8",
+  "file": "figs_out/palette/fig_6_11_two_clocks.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.9",
+  "file": "figs_out/palette/fig_6_12_two_archives.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.10",
+  "file": "figs_out/palette/fig_6_05_neighbouring_fields.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.11",
+  "file": "figs_out/palette/fig_6_04_who_each_field_reads.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.12",
+  "file": "figs_out/palette/fig_6_07_selfcitation_baselines.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.13",
+  "file": "figs_out/palette/fig_6_06_direction_of_flow.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.14",
+  "file": "figs_out/fig_5_05_ts_authors_in_asj.png",
+  "script": "make_chapter_figures.py",
+  "status": "REPLACES the thesis image (D18: rate per parsed references, 32.9)"
+ },
+ {
+  "thesis_figure": "Figure 6.15",
+  "file": "figs_out/palette/fig_6_08_frontier_vs_core.png",
+  "script": "make_figures_palette.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure 6.16",
+  "file": "figs_out/fig_5_04_geography.png",
+  "script": "make_chapter_figures.py",
+  "status": "REPLACES the thesis image (D17: corrected script, values changed)"
+ },
+ {
+  "thesis_figure": "Figure 6.17",
+  "file": "figs_out/fig_5_06_ast_research_areas.png",
+  "script": "make_chapter_figures.py",
+  "status": "same values; typesetting differs"
+ },
+ {
+  "thesis_figure": "Figure A.1",
+  "file": "figs_out/palette/fig_a1_rpys_unwindowed.png",
+  "script": "make_fig_a1_rpys.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ },
+ {
+  "thesis_figure": "Figure A.2",
+  "file": "figs_out/fig_a2_corpus_flow.png",
+  "script": "make_fig_a2_flow.py",
+  "status": "pixel-identical to the thesis image (22 Sep 2026 check)"
+ }
+]

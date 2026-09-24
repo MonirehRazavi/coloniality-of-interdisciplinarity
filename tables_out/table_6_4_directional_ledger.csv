@@ -1,0 +1,20 @@
+direction,journal,references,per_10k,citing_documents
+TS-J -> AS journals,TOTAL,40,1.26,35
+TS-J -> AS journals,J ADAPT FILM PERFORM,17,,
+TS-J -> AS journals,ADAPTATION-UK,16,,
+TS-J -> AS journals,LIT-FILM QUART,7,,
+AS-J -> TS journals,TOTAL,74,16.77,36
+AS-J -> TS journals,TARGET-NETH,20,,
+AS-J -> TS journals,TRANSL STUD,18,,
+AS-J -> TS journals,TRANSLATOR,12,,
+AS-J -> TS journals,META,6,,
+AS-J -> TS journals,J SPEC TRANSL,5,,
+AS-J -> TS journals,PERSPECT STUD TRANSL,4,,
+AS-J -> TS journals,ACROSS LANG CULT,3,,
+AS-J -> TS journals,TRANSLATION STUDIES,2,,
+AS-J -> TS journals,TRANSLATION REV,1,,
+AS-J -> TS journals,SENDEBAR,1,,
+AS-J -> TS journals,LING ANTVERP NEW SER,1,,
+AS-J -> TS journals,INTERPRET TRANSL TRA,1,,
+AS-T -> TS journals,TOTAL,793,12.63,331
+author_level,TOTAL,,,

@@ -1,0 +1,546 @@
+Frozen copy of analysis_outputs/ kept in /home/claude/rerun/pkg/analysis_outputs_frozen
+
+==============================================================================
+[01/13]  python3 scripts/analysis_cross_corpus.py
+==============================================================================
+==============================================================================
+STEP 0 — Loading corpora and re-verifying counts against the frozen searches
+==============================================================================
+  TS-J    files= 29  raw= 14259  unique= 14258
+  AS-J    files=  6  raw=  2763  unique=  2763
+  AS-T    files= 38  raw= 18566  unique= 18566
+  TS-J: loaded 14258 / expected 14258 -> OK
+  AS-J: loaded 2763 / expected 2763 -> OK
+  AS-T: loaded 18566 / expected 18566 -> OK
+
+==============================================================================
+STEP 1 — Deriving journal abbreviations from the corpora themselves
+==============================================================================
+  AS journal source forms (6):
+      ADAPTATION-THE JOURNAL OF LITERATURE ON SCREEN STUDIES  (n=511)
+      ADAPTATION-UK  (n=511)
+      J ADAPT FILM PERFORM  (n=480)
+      JOURNAL OF ADAPTATION IN FILM & PERFORMANCE  (n=480)
+      LIT-FILM QUART  (n=1772)
+      LITERATURE-FILM QUARTERLY  (n=1772)
+  TS journal source forms (36) — first 12 shown:
+      ACROSS LANG CULT  (n=353)
+      ACROSS LANGUAGES AND CULTURES  (n=353)
+      BABEL-AMSTERDAM  (n=768)
+      BABEL-REVUE INTERNATIONALE DE LA TRADUCTION-INTERNATIONAL JOURNAL OF TRANSLATION  (n=768)
+      CAD TRADUCAO  (n=1385)
+      CADERNOS DE TRADUCAO  (n=1385)
+      FORUM-REV INT INTERP  (n=408)
+      FORUM-REVUE INTERNATIONALE D INTERPRETATION ET DE TRADUCTION-INTERNATIONAL JOURNAL OF INTERPRETATION AND TRANSLATION  (n=408)
+      INTERPRET TRANSL TRA  (n=533)
+      INTERPRETER AND TRANSLATOR TRAINER  (n=533)
+      INTERPRETING  (n=614)
+      J SPEC TRANSL  (n=837)
+
+==============================================================================
+STEP 2 — Parsing cited references; reporting parse rate (§6.4 match rate)
+==============================================================================
+  TS-J: 318,442 of 333,707 references parsed (95.4%); 15,265 unparseable
+  AS-J: 44,126 of 48,954 references parsed (90.1%); 4,828 unparseable
+  AS-T: 627,992 of 660,554 references parsed (95.1%); 32,562 unparseable
+
+==============================================================================
+STEP 3 — §6.4(a) The term 'adaptation' in TS-J: title, abstract, keywords
+==============================================================================
+  TS-J records: 14,258
+  mentioning 'adaptation' anywhere (TI/AB/DE/ID): 293  (2.05%)
+  with 'adaptation' in title: 60  (0.42%)
+  with 'adaptation' as author keyword: 116  (0.81%)
+  mentioning the phrase 'adaptation studies': 11  (0.08%)
+  with 'adaptation studies' in title/abstract/keywords (vD&R replication): 11  (0.08%)
+
+==============================================================================
+STEP 4 — §6.4(b,c) Canon matching, with benchmark comparison classes
+==============================================================================
+
+  (b) AS canon inside TS-J:
+      Hutcheon, Linda            refs=   72  docs=   68  (0.48% of TS-J)
+      Cattrysse, Patrick         refs=   31  docs=   26  (0.18% of TS-J)
+      Stam, Robert               refs=   25  docs=   20  (0.14% of TS-J)
+      Sanders, Julie             refs=   17  docs=   15  (0.10% of TS-J)
+      Leitch, Thomas             refs=   12  docs=   11  (0.08% of TS-J)
+      Elliott, Kamilla           refs=    9  docs=    6  (0.04% of TS-J)
+      Murray, Simone             refs=    8  docs=    8  (0.06% of TS-J)
+      Andrew, Dudley             refs=    7  docs=    6  (0.04% of TS-J)
+      Corrigan, Timothy          refs=    7  docs=    6  (0.04% of TS-J)
+      Bruhn, Jorgen              refs=    5  docs=    3  (0.02% of TS-J)
+      McFarlane, Brian           refs=    4  docs=    4  (0.03% of TS-J)
+      Cohen, Keith               refs=    3  docs=    3  (0.02% of TS-J)
+      Naremore, James            refs=    2  docs=    2  (0.01% of TS-J)
+      Aragay, Mireia             refs=    2  docs=    2  (0.01% of TS-J)
+      Whelehan, Imelda           refs=    2  docs=    2  (0.01% of TS-J)
+      Bluestone, George          refs=    1  docs=    1  (0.01% of TS-J)
+      Cardwell, Sarah            refs=    1  docs=    1  (0.01% of TS-J)
+      Hermansson, Casie          refs=    1  docs=    1  (0.01% of TS-J)
+      Boozer, Jack               refs=    1  docs=    1  (0.01% of TS-J)
+      Geraghty, Christine        refs=    0  docs=    0  (0.00% of TS-J)
+    TOTAL: {'references': 210, 'citing_documents': 134, 'pct_of_corpus_documents': 0.94, 'per_10k_references': 6.6}
+
+  MIRROR — TS canon inside AS-J:
+      Venuti, Lawrence           refs=   29  docs=   21  (0.76% of AS-J)
+      Jakobson, Roman            refs=   18  docs=   17  (0.61% of AS-J)
+      Lefevere, Andre            refs=   15  docs=   13  (0.47% of AS-J)
+      Toury, Gideon              refs=   11  docs=   10  (0.36% of AS-J)
+      Bassnett, Susan            refs=    9  docs=    8  (0.29% of AS-J)
+      Steiner, George            refs=    8  docs=    8  (0.29% of AS-J)
+      Chesterman, Andrew         refs=    7  docs=    5  (0.18% of AS-J)
+      Hermans, Theo              refs=    7  docs=    5  (0.18% of AS-J)
+      Tymoczko, Maria            refs=    7  docs=    4  (0.14% of AS-J)
+      Gambier, Yves              refs=    6  docs=    5  (0.18% of AS-J)
+      Nida, Eugene               refs=    4  docs=    3  (0.11% of AS-J)
+      Baker, Mona                refs=    4  docs=    4  (0.14% of AS-J)
+    TOTAL: {'references': 145, 'citing_documents': 68, 'pct_of_corpus_documents': 2.46, 'per_10k_references': 32.9}
+
+  (c) BENCHMARK — comparison classes inside TS-J:
+      Sociology of translation           refs=  1547  docs=  737  (5.17% of TS-J)
+      Film & media studies               refs=   100  docs=   81  (0.57% of TS-J)
+      Cognitive science / psychology     refs=  2186  docs= 1178  (8.26% of TS-J)
+      Linguistics & pragmatics           refs=  1179  docs=  742  (5.20% of TS-J)
+      Postcolonial & decolonial theory   refs=   460  docs=  339  (2.38% of TS-J)
+      Adaptation Studies canon           refs=   210  docs=  134  (0.94% of TS-J)
+
+==============================================================================
+STEP 5 — §6.5 Directional cross-citation ledger (journal-level)
+==============================================================================
+  TS-J -> AS journals      refs=    40  per10k=    1.26  docs=   35 (0.25%)
+  AS-J -> TS journals      refs=    74  per10k=   16.77  docs=   36 (1.30%)
+  AS-T -> TS journals      refs=   793  per10k=   12.63  docs=  331 (1.78%)
+
+  Asymmetry ratio (AS->TS : TS->AS) = 13.31 : 1
+
+  Author-level, per 10,000 parsed references:
+      AS canon per 10k TS-J refs                                   6.59
+      TS canon per 10k AS-J refs                                  32.86
+      TS canon per 10k AS-T refs                                  20.97
+      AS canon per 10k AS-J refs (self-reference baseline)       429.91
+      TS canon per 10k TS-J refs (self-reference baseline)       490.95
+
+==============================================================================
+STEP 6 — §6.5(b) Kind of citation: definitional apparatus vs case material
+==============================================================================
+  AS-J citing TS: canon=145, journals=74, canon share=66.2%
+  TS-J citing AS: canon=210, journals=40, canon share=84.0%
+
+==============================================================================
+STEP 7 — §6.7 Markedness: bare vs modified forms of each field's own term
+==============================================================================
+  'translation' in TS-J      n=  9291  bare= 92.9%  modified= 28.5%
+      top modifiers: machine, audiovisual, literary, legal, self, indirect
+  'adaptation' in TS-J       n=   292  bare= 86.6%  modified= 22.3%
+      top modifiers: cultural, film, transmedia, stage, comic, cinematic
+  'adaptation' in AS-J       n=   842  bare= 88.0%  modified= 36.7%
+      top modifiers: film, screen, cinematic, literary, television, stage
+  'translation' in AS-J      n=    94  bare= 94.7%  modified= 17.0%
+      top modifiers: intersemiotic, theatre, indirect, free, audiovisual, interlingual
+  'adaptation' in AS-T       n= 18521  bare= 88.7%  modified= 18.7%
+      top modifiers: film, cultural, literary, screen, stage, cinematic
+
+==============================================================================
+STEP 8 — §6.3.4 Estimating residual non-humanities noise in AS-T
+==============================================================================
+  Sample n=400 (seed 20260806)
+  Clearly non-humanities: 19 (4.8%)
+  Clearly humanities/media: 202
+  Ambiguous: 179
+  Estimated noise rate: 4.8% (upper bound incl. ambiguous: 49.5%)
+  Examples classified as non-humanities:
+      - The showcase of salt rocks from Cardona in the Barcelona Natural Sciences Museum: conservation and adaptation 
+      - WHO CONTROLS THE VOICE? The journalistic use and the informational domain in vocal transactors
+      - Community Education for Climate Change Adaptation in Coastal Settlements. Isabela de Sagua
+      - Climate action versus inaction: balancing the costs for Gulf energy exporters
+      - Climates of Change in Northern Kenya and Southern Ethiopia: From Scientific Data to Applied Knowledge
+      - Evolution in Extremist Climate Change Adaptation in Don DeLillo's The Word for Snow
+
+==============================================================================
+STEP 9 — §6.6 Frontier vs core: citation within TS-J's own reference record
+==============================================================================
+  CORE (institutional defaults):
+      Baker, Mona                refs= 1813  docs= 1214
+      Venuti, Lawrence           refs= 1678  docs= 1271
+      Pym, Anthony               refs= 1675  docs= 1212
+      Toury, Gideon              refs= 1351  docs= 1117
+      Chesterman, Andrew         refs= 1064  docs=  807
+      Snell-Hornby, Mary         refs=  412  docs=  349
+      Holmes, James              refs=  263  docs=  245
+  FRONTIER (expansionist critics):
+      Tymoczko, Maria            refs=  700  docs=  521
+      Robinson, Douglas          refs=  478  docs=  365
+      Gentzler, Edwin            refs=  348  docs=  304
+      Marais, Kobus              refs=  226  docs=  127
+      Zwischenberger, Cornelia   refs=  116  docs=   90
+      Blumczynski, Piotr         refs=  102  docs=   79
+      Bennett, Karen             refs=   96  docs=   67
+  REPORTED SEPARATELY (classification ambiguous — see canon.py note):
+      Bassnett, Susan            refs=  818  docs=  643
+
+  Core mean 1179.4 refs/author vs frontier mean 295.1 -> ratio 4.0:1
+
+==============================================================================
+STEP 10 — §6.8 term trajectories and §6.9 reference-year spectroscopy
+==============================================================================
+  TS-J fidelity/faithfulness       median year = 2018  (n=171)
+  TS-J equivalence                 median year = 2016  (n=374)
+  AS-J fidelity/faithfulness       median year = 2015  (n=78)
+  AS-J equivalence                 median year = 2016  (n=5)
+
+  Fidelity lag (AS median - TS median) = -3 years
+
+  RPYS TS-J — top reference-year peaks (deviation from 5-yr median):
+      2000:  8510 refs  (deviation +862)
+      2012: 10694 refs  (deviation +633)
+      1992:  4754 refs  (deviation +591)
+      1998:  7117 refs  (deviation +492)
+      1995:  5812 refs  (deviation +442)
+      1978:  1824 refs  (deviation +391)
+      2009: 10834 refs  (deviation +387)
+      2017:  9157 refs  (deviation +298)
+      1981:  2055 refs  (deviation +222)
+      1959:   666 refs  (deviation +211)
+
+  RPYS AS-J — top reference-year peaks (deviation from 5-yr median):
+      2000:  1139 refs  (deviation +198)
+      2007:  1231 refs  (deviation +167)
+      1997:   923 refs  (deviation +110)
+      2002:   951 refs  (deviation +81)
+      1977:   554 refs  (deviation +80)
+      1996:   813 refs  (deviation +79)
+      1984:   573 refs  (deviation +76)
+      1957:   199 refs  (deviation +73)
+      2017:   809 refs  (deviation +67)
+      2014:  1030 refs  (deviation +57)
+
+==============================================================================
+STEP 11 — §6.9(b) Structural separation: author and cited-source overlap
+==============================================================================
+  TS-J unique authors: 8984
+  AS-J unique authors: 1991
+  authors appearing in both: 107
+  pct_of_AS-J_authors_also_in_TS-J: 5.37
+  pct_of_TS-J_authors_also_in_AS-J: 1.19
+  Top-300 cited-source overlap: 18 of 300
+
+==============================================================================
+Writing consolidated results
+==============================================================================
+  Table 6.1 (founders across corpora) written to 13_founders_across_corpora.json
+Done. Results in ../analysis_outputs/
+
+==============================================================================
+[02/13]  python3 scripts/analysis_refined.py
+==============================================================================
+Loading corpora ...
+
+R1 — token-level markedness
+  translation in TS-J      n= 36,116  bare= 84.3%  marked= 15.7%   top: machine, audiovisual, literary, legal
+  adaptation in TS-J       n=    549  bare= 81.8%  marked= 18.2%   top: cultural, film, transmedia, stage
+  adaptation in AS-J       n=  2,513  bare= 81.9%  marked= 18.1%   top: film, screen, cinematic, literary
+  translation in AS-J      n=    238  bare= 89.9%  marked= 10.1%   top: intersemiotic, theatre, indirect, free
+  adaptation in AS-T       n= 29,450  bare= 83.9%  marked= 16.1%   top: film, cultural, literary, screen
+  Mirror grid (% of occurrences used BARE):
+      TS-J: own term (translation) = 84.3%  other term (adaptation) = 81.8%
+      AS-J: own term (adaptation) = 81.9%  other term (translation) = 89.9%
+
+R2 — rate-normalised term trajectories (§6.8)
+  TS-J fidelity/faithfulness     rate peaks 2008 at 1.92%  (mean 0.92%)
+  AS-J fidelity/faithfulness     rate peaks 2021 at 8.28%  (mean 2.2%)
+  TS-J equivalence               rate peaks 2001 at 4.76%  (mean 2.01%)
+  AS-J equivalence               rate peaks 2022 at 1.15%  (mean 0.14%)
+  TS-J adaptation                rate peaks 2003 at 3.47%  (mean 1.28%)
+  AS-J translation               rate peaks 2019 at 15.27%  (mean 2.65%)
+
+  FIDELITY LAG (AS peak - TS peak) = +13 years
+  (Positive = AS later than TS, the direction Chapter 5's 'temporal othering'
+   claim would predict. Negative or zero = no empirical substrate for it.)
+
+R3 — RPYS, foundational window 1900–1990 (§6.9)
+  TS-J — top foundational peaks:
+      1978:  1824 refs  (deviation +391)
+      1981:  2055 refs  (deviation +222)
+      1959:   666 refs  (deviation +211)
+      1986:  2684 refs  (deviation +202)
+      1972:  1067 refs  (deviation +178)
+      1985:  2482 refs  (deviation +140)
+      1964:   733 refs  (deviation +132)
+      1969:   929 refs  (deviation +127)
+  AS-J — top foundational peaks:
+      1977:   554 refs  (deviation +80)
+      1984:   573 refs  (deviation +76)
+      1957:   199 refs  (deviation +73)
+      1960:   187 refs  (deviation +39)
+      1948:   147 refs  (deviation +36)
+      1980:   542 refs  (deviation +36)
+      1974:   496 refs  (deviation +31)
+      1985:   542 refs  (deviation +30)
+
+  Most-cited works at the principal foundational peaks:
+    TS-J 1959: JAKOBSON R. (117); JAKOBSON ROMAN. (96); FERGUSON CA (12)
+    TS-J 1958: VINAY JEAN-PIERRE. (68); GOLDMANEISLER F (8); LOH D. -Y. (7)
+    TS-J 1972: HOLMES J.S. (42); VINAY JEAN-PAUL. (36); GOLDMANE.F (26)
+    TS-J 1978: HALLIDAY M.A.K. (62); MOSER B. (40); BROWN PENELOPE. (36)
+    AS-J 1957: BLUESTONE GEORGE. (34); FRYE NORTHROP. (8); KUROSAWA AKIRA (3)
+    AS-J 1975: WAGNER GEOFFREYATHELING. (24); BARTHES ROLAND. (6); ANDEREGG MA (4)
+    AS-J 1977: [ANONYMOUS] (29); BARTHES ROLAND (15); LUCAS G. (6)
+    AS-J 1984: ANDREW DUDLEY. (42); JAMESON F (10); LYOTARD JEAN-FRANCOIS. (7)
+
+Written: out/REFINED_RESULTS.json
+
+==============================================================================
+[03/13]  python3 scripts/analysis_networks.py
+==============================================================================
+Loading corpora ...
+
+==============================================================================
+§6.6 / §6.7 — Keyword networks and thematic maps
+==============================================================================
+
+TS-J: 7,015 documents with >=2 keywords; network 250 nodes / 2132 edges
+  12 themes detected (Louvain, seed 20260806)
+  quadrant                centr     dens  label
+  Basic/Transversal       10.80     2.03  translation, language, english
+  Motor                    8.80     3.99  audiovisual translation, subtitling, dubbing
+  Motor                   11.35     3.75  simultaneous interpreting, performance, translation process
+  Emerging/Declining       3.88     0.83  literary translation, multimodality, retranslation
+  Basic/Transversal        4.56     2.95  machine translation, translator training, quality
+  Basic/Transversal        6.73     2.66  translation competence, competence, interpreters
+  Emerging/Declining       3.23     2.08  ideology, discourse, news translation
+  Basic/Transversal        4.72     1.76  ethics, interpreter training, communication
+  Niche                    1.26     6.83  translation studies, sociology of translation, habitus
+  Niche                    0.81     4.49  legal translation, institutional translation, translation policy
+  Niche                    0.75     4.30  localization, transcreation, video games
+  Niche                    0.57    11.01  domestication, foreignization, cultural references
+  Placement of watched terms:
+      translation                  -> Basic/Transversal    (freq 1130, deg 0.8635, betw 0.4517)
+      adaptation                   -> Emerging/Declining   (freq 83, deg 0.1004, betw 0.0031)
+      equivalence                  -> Emerging/Declining   (freq 53, deg 0.0361, betw 0.0001)
+      interpreting                 -> Basic/Transversal    (freq 135, deg 0.253, betw 0.0183)
+      intersemiotic translation    -> Emerging/Declining   (freq 52, deg 0.0522, betw 0.0003)
+      multimodality                -> Emerging/Declining   (freq 89, deg 0.1245, betw 0.0061)
+      audiovisual translation      -> Motor                (freq 311, deg 0.3534, betw 0.0493)
+      corpus                       -> Basic/Transversal    (freq 107, deg 0.2048, betw 0.0122)
+  Top keywords by frequency: translation, audiovisual translation, language, literary translation, subtitling, english, machine translation, translation studies
+  Top keywords by betweenness: translation, language, audiovisual translation, english, literary translation, machine translation, performance, subtitling
+
+AS-J: 704 documents with >=2 keywords; network 78 nodes / 124 edges
+  11 themes detected (Louvain, seed 20260806)
+  quadrant                centr     dens  label
+  Basic/Transversal        3.49     1.19  adaptation, translation, intertextuality
+  Motor                    3.16     4.48  film, gender, television
+  Basic/Transversal        1.27     3.44  shakespeare, appropriation, hamlet
+  Basic/Transversal        0.87     2.07  adaptation studies, film adaptation, cinema
+  Emerging/Declining       0.32     3.71  nostalgia, intermediality, remediation
+  Motor                    0.90     4.44  horror, radio drama, film noir
+  Motor                    0.45    13.06  othello, william shakespeare, desdemona
+  Emerging/Declining       0.02     2.02  adaptation theory, jane austen
+  Niche                    0.13     4.08  screenwriting, authorship
+  Niche                    0.14     5.56  masculinity, kubrick
+  Niche                    0.00     8.00  vampire, dracula
+  Placement of watched terms:
+      translation                  -> Basic/Transversal    (freq 28, deg 0.0519, betw 0.0212)
+      adaptation                   -> Basic/Transversal    (freq 219, deg 0.7273, betw 0.5917)
+      fidelity                     -> Basic/Transversal    (freq 21, deg 0.0519, betw 0.0009)
+      film adaptation              -> Basic/Transversal    (freq 20, deg 0.039, betw 0.0013)
+      intermediality               -> Emerging/Declining   (freq 14, deg 0.026, betw 0.0)
+  Top keywords by frequency: adaptation, shakespeare, film, translation, intertextuality, gender, television, adaptation studies
+  Top keywords by betweenness: adaptation, othello, shakespeare, remediation, jane austen, translation, film, cinema
+
+Written: out/NETWORK_RESULTS.json
+
+==============================================================================
+[04/13]  python3 scripts/analysis_three_corpora.py
+==============================================================================
+
+============================================================================
+TS-J: 14,258 records, 7,015 usable (49.2%); 250 nodes / 2132 edges; 11 themes
+  DE 6,957 (48.8%)   ID 2,471 (17.3%)
+  Basic/Transversal   c=  10.99 d=  1.98 w=  3414 n= 50  translation, language, english
+  Motor               c=   9.15 d=  3.87 w=  2003 n= 39  audiovisual translation, subtitling, dubbing
+  Motor               c=  11.87 d=  3.74 w=  1669 n= 40  simultaneous interpreting, quality, performance
+  Emerging/Declining  c=   3.25 d=  0.87 w=  1109 n= 19  literary translation, multimodality, retranslation
+  Basic/Transversal   c=   5.70 d=  2.37 w=   910 n= 23  translator training, translation competence, competence
+  Motor               c=   3.69 d=  3.76 w=   770 n= 18  machine translation, post-editing, translation technology
+  Emerging/Declining  c=   3.23 d=  2.08 w=   750 n= 18  ideology, discourse, news translation
+  Basic/Transversal   c=   4.95 d=  1.98 w=   729 n= 22  ethics, interpreter training, communication
+  Niche               c=   1.67 d=  4.79 w=   537 n= 12  translation studies, translation history, sociology of translation
+  Niche               c=   0.81 d=  4.49 w=   229 n=  5  legal translation, institutional translation, translation policy
+  Niche               c=   0.57 d= 11.01 w=    89 n=  3  domestication, foreignization, cultural references
+
+============================================================================
+AS-J: 2,763 records, 704 usable (25.5%); 78 nodes / 124 edges; 11 themes
+  DE 692 (25.0%)   ID 175 (6.3%)
+  Basic/Transversal   c=   3.49 d=  1.19 w=   422 n= 23  adaptation, translation, intertextuality
+  Motor               c=   2.65 d=  4.11 w=   113 n=  7  gender, television, performance
+  Motor               c=   2.70 d=  4.04 w=   105 n=  9  film, theatre, race
+  Basic/Transversal   c=   1.27 d=  3.44 w=    87 n=  6  shakespeare, appropriation, hamlet
+  Basic/Transversal   c=   0.87 d=  2.07 w=    76 n=  5  adaptation studies, film adaptation, cinema
+  Emerging/Declining  c=   0.32 d=  3.71 w=    54 n=  5  intermediality, nostalgia, remediation
+  Motor               c=   0.45 d= 13.06 w=    23 n=  3  othello, william shakespeare, desdemona
+  Emerging/Declining  c=   0.02 d=  2.02 w=    20 n=  2  adaptation theory, jane austen
+  Niche               c=   0.13 d=  4.08 w=    14 n=  2  screenwriting, authorship
+  Niche               c=   0.14 d=  5.56 w=    12 n=  2  masculinity, kubrick
+  Niche               c=   0.00 d=  8.00 w=    10 n=  2  dracula, vampire
+
+============================================================================
+AS-T: 18,566 records, 12,425 usable (66.9%); 250 nodes / 3384 edges; 8 themes
+  DE 11,546 (62.2%)   ID 4,795 (25.8%)
+  Emerging/Declining  c=   7.65 d=  1.54 w=  7710 n= 80  adaptation, translation, film adaptation
+  Motor               c=  11.61 d=  3.38 w=  2998 n= 46  climate change, politics, resilience
+  Basic/Transversal   c=   8.37 d=  2.94 w=  1801 n= 24  communication, media, social media
+  Motor               c=   9.00 d=  3.06 w=  1613 n= 23  identity, migration, culture
+  Motor               c=  12.82 d=  3.56 w=  1587 n= 30  health, model, perceptions
+  Emerging/Declining  c=   6.96 d=  1.19 w=  1419 n= 24  gender, women, race
+  Emerging/Declining  c=   4.65 d=  1.03 w=  1251 n= 20  education, history, covid-19
+  Niche               c=   1.20 d=  7.08 w=    98 n=  3  scale, reliability, validity
+
+Written /home/claude/rerun/pkg/scripts/../analysis_outputs/THREE_CORPORA_THEMES.json
+
+  NETWORK_RESULTS.json: partition differs from the deposited one under networkx 3.6.1; fresh result kept as NETWORK_RESULTS_rerun_networkx3.6.1.json, deposited partition restored for the figures (see README).
+  THREE_CORPORA_THEMES.json: partition differs from the deposited one under networkx 3.6.1; fresh result kept as THREE_CORPORA_THEMES_rerun_networkx3.6.1.json, deposited partition restored for the figures (see README).
+==============================================================================
+[05/13]  python3 scripts/make_figures_palette.py
+==============================================================================
+  saved fig_6_03_indexed_output.png
+  saved fig_6_04_who_each_field_reads.png
+  saved fig_6_05_neighbouring_fields.png
+  saved fig_6_06_direction_of_flow.png
+  saved fig_6_07_selfcitation_baselines.png
+  saved fig_6_08_frontier_vs_core.png
+  saved fig_6_09_thematic_map.png
+  saved fig_6_10_two_sovereignties.png
+  saved fig_6_11_two_clocks.png
+  saved fig_6_12_two_archives.png
+  saved fig_6_13_author_countries.png
+
+All done: 11 figures
+
+==============================================================================
+[06/13]  python3 scripts/make_fig_a1_rpys.py
+==============================================================================
+saved fig_a1_rpys_unwindowed.png
+
+==============================================================================
+[07/13]  python3 scripts/make_labelled_maps.py
+==============================================================================
+saved fig_themes_TSJ.png
+saved fig_themes_ASJ.png
+saved fig_themes_AST.png
+saved fig_themes_combined_standardised.png
+
+==============================================================================
+[08/13]  python3 scripts/make_three_maps.py
+==============================================================================
+saved
+
+==============================================================================
+[09/13]  python3 scripts/make_chapter_figures.py
+==============================================================================
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_1_01_adaptation_treemap.png
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_1_02_translation_treemap.png
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_4_01_mirror_canons.png
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_01_landmarks.png
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_02_grammars.png
+  Fidelity                 1995=0.9% 2005=1.3% 2015=5.9% 2023=6.4%  peak=7.0% (2021)
+  Intertextuality          1995=0.0% 2005=0.9% 2015=8.8% 2023=14.6%  peak=14.6% (2023)
+  Cultural politics        1995=3.6% 2005=3.5% 2015=11.9% 2023=25.1%  peak=26.0% (2022)
+  Digital and transmedia   1995=0.0% 2005=0.0% 2015=7.9% 2023=21.3%  peak=21.3% (2023)
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_03_thematic_evolution.png
+  TS-J: 11,887 records with an affiliation; USA 8.2%; UK 14.6%; Spain 15.9%; China 12.4%; Brazil 8.0%; Canada 6.1%; Russia 0.2%; Turkey 1.1%; Belgium 4.4%; Germany 1.8%; Australia 2.6%; Brazil n=949; Global South share 30.0%
+  AS-J: 1,754 records with an affiliation; USA 46.8%; UK 21.7%; Spain 1.4%; China 1.5%; Brazil 0.3%; Canada 4.2%; Russia 0.0%; Turkey 4.7%; Belgium 1.8%; Germany 1.5%; Australia 3.9%; Brazil n=5; Global South share 8.7%
+  AS-T: 15,787 records with an affiliation; USA 22.5%; UK 12.4%; Spain 8.8%; China 5.0%; Brazil 2.9%; Canada 3.6%; Russia 4.5%; Turkey 2.2%; Belgium 1.5%; Germany 4.0%; Australia 3.6%; Brazil n=457; Global South share 23.3%
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_04_geography.png
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_05_ts_authors_in_asj.png
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_06_ast_research_areas.png
+
+==============================================================================
+[10/13]  python3 scripts/make_fig_a2_flow.py
+==============================================================================
+wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_a2_corpus_flow.png
+
+==============================================================================
+[11/13]  python3 scripts/make_tables.py
+==============================================================================
+wrote /home/claude/rerun/pkg/scripts/../tables_out/table_S1_ts_themes.csv
+wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_5_frontier_vs_core.csv
+wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_1_founders_across_corpora.csv
+wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_2_fidelity_clocks.csv
+wrote /home/claude/rerun/pkg/scripts/../tables_out/table_S2_term_presence_tsj.csv
+wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_4_directional_ledger.csv
+wrote /home/claude/rerun/pkg/scripts/../tables_out/table_A2_corpora_audit.csv
+
+==============================================================================
+[12/13]  python3 scripts/make_figures.py
+==============================================================================
+  saved fig_6_3_benchmarks.png
+  saved fig_6_4_asymmetry.png
+  saved fig_6_5_direction.png
+  saved fig_6_6_frontier_core.png
+  saved fig_6_7_thematic_map.png
+  saved fig_6_8_mirror_hub.png
+  saved fig_6_9_two_clocks.png
+  saved fig_6_10_rpys.png
+
+Figure manifest:
+  fig_6_3_benchmarks.png
+  fig_6_4_asymmetry.png
+  fig_6_5_direction.png
+  fig_6_6_frontier_core.png
+  fig_6_7_thematic_map.png
+  fig_6_8_mirror_hub.png
+  fig_6_9_two_clocks.png
+  fig_6_10_rpys.png
+
+==============================================================================
+[13/13]  python3 scripts/make_descriptive_figures.py
+==============================================================================
+Loading corpora ...
+  saved D1_annual_indexed_output.png
+  saved D2_ts_journal_composition.png
+  saved D3_bradford_concentration.png
+  saved D4_lotka_author_productivity.png
+  saved D5_most_cited_authors.png
+  saved D6_most_cited_sources.png
+  saved D7_document_types.png
+  saved D8_author_countries.png
+
+Manifest:
+  D1_annual_indexed_output.png
+  D2_ts_journal_composition.png
+  D3_bradford_concentration.png
+  D4_lotka_author_productivity.png
+  D5_most_cited_authors.png
+  D6_most_cited_sources.png
+  D7_document_types.png
+  D8_author_countries.png
+
+==============================================================================
+COMPARISON WITH THE FROZEN OUTPUTS
+==============================================================================
+  IDENTICAL  00_audit.json
+  IDENTICAL  01_journal_forms.json
+  IDENTICAL  02_term_presence.json
+  IDENTICAL  03_canon_matching.json
+  IDENTICAL  04_directional_ledger.json
+  IDENTICAL  05_citation_kind.json
+  IDENTICAL  06_markedness.json
+  IDENTICAL  07_noise_estimate.json
+  IDENTICAL  08_frontier_vs_core.json
+  IDENTICAL  09_two_clocks.json
+  IDENTICAL  10_rpys.json
+  IDENTICAL  11_structural_separation.json
+  IDENTICAL  12_raw_author_forms.json
+  IDENTICAL  ALL_RESULTS.json
+  DIFFERS    NETWORK_RESULTS_rerun_networkx3.6.1.json  (expected: Louvain partition is networkx-version-sensitive)
+  IDENTICAL  REFINED_RESULTS.json
+  DIFFERS    THREE_CORPORA_THEMES_rerun_networkx3.6.1.json  (expected: Louvain partition is networkx-version-sensitive)
+  IDENTICAL  t64_as_canon_in_TSJ.csv
+  IDENTICAL  t64_benchmarks.csv
+  IDENTICAL  t64_ts_canon_in_ASJ.csv
+  IDENTICAL  t66_frontier_vs_core.csv
+
+19 of 21 output files identical to the frozen copy.
+
+Done in 77 s.  Logs in /home/claude/rerun/pkg/logs/

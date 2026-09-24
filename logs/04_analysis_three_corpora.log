@@ -1,0 +1,44 @@
+
+============================================================================
+TS-J: 14,258 records, 7,015 usable (49.2%); 250 nodes / 2132 edges; 11 themes
+  DE 6,957 (48.8%)   ID 2,471 (17.3%)
+  Basic/Transversal   c=  10.99 d=  1.98 w=  3414 n= 50  translation, language, english
+  Motor               c=   9.15 d=  3.87 w=  2003 n= 39  audiovisual translation, subtitling, dubbing
+  Motor               c=  11.87 d=  3.74 w=  1669 n= 40  simultaneous interpreting, quality, performance
+  Emerging/Declining  c=   3.25 d=  0.87 w=  1109 n= 19  literary translation, multimodality, retranslation
+  Basic/Transversal   c=   5.70 d=  2.37 w=   910 n= 23  translator training, translation competence, competence
+  Motor               c=   3.69 d=  3.76 w=   770 n= 18  machine translation, post-editing, translation technology
+  Emerging/Declining  c=   3.23 d=  2.08 w=   750 n= 18  ideology, discourse, news translation
+  Basic/Transversal   c=   4.95 d=  1.98 w=   729 n= 22  ethics, interpreter training, communication
+  Niche               c=   1.67 d=  4.79 w=   537 n= 12  translation studies, translation history, sociology of translation
+  Niche               c=   0.81 d=  4.49 w=   229 n=  5  legal translation, institutional translation, translation policy
+  Niche               c=   0.57 d= 11.01 w=    89 n=  3  domestication, foreignization, cultural references
+
+============================================================================
+AS-J: 2,763 records, 704 usable (25.5%); 78 nodes / 124 edges; 11 themes
+  DE 692 (25.0%)   ID 175 (6.3%)
+  Basic/Transversal   c=   3.49 d=  1.19 w=   422 n= 23  adaptation, translation, intertextuality
+  Motor               c=   2.65 d=  4.11 w=   113 n=  7  gender, television, performance
+  Motor               c=   2.70 d=  4.04 w=   105 n=  9  film, theatre, race
+  Basic/Transversal   c=   1.27 d=  3.44 w=    87 n=  6  shakespeare, appropriation, hamlet
+  Basic/Transversal   c=   0.87 d=  2.07 w=    76 n=  5  adaptation studies, film adaptation, cinema
+  Emerging/Declining  c=   0.32 d=  3.71 w=    54 n=  5  intermediality, nostalgia, remediation
+  Motor               c=   0.45 d= 13.06 w=    23 n=  3  othello, william shakespeare, desdemona
+  Emerging/Declining  c=   0.02 d=  2.02 w=    20 n=  2  adaptation theory, jane austen
+  Niche               c=   0.13 d=  4.08 w=    14 n=  2  screenwriting, authorship
+  Niche               c=   0.14 d=  5.56 w=    12 n=  2  masculinity, kubrick
+  Niche               c=   0.00 d=  8.00 w=    10 n=  2  dracula, vampire
+
+============================================================================
+AS-T: 18,566 records, 12,425 usable (66.9%); 250 nodes / 3384 edges; 8 themes
+  DE 11,546 (62.2%)   ID 4,795 (25.8%)
+  Emerging/Declining  c=   7.65 d=  1.54 w=  7710 n= 80  adaptation, translation, film adaptation
+  Motor               c=  11.61 d=  3.38 w=  2998 n= 46  climate change, politics, resilience
+  Basic/Transversal   c=   8.37 d=  2.94 w=  1801 n= 24  communication, media, social media
+  Motor               c=   9.00 d=  3.06 w=  1613 n= 23  identity, migration, culture
+  Motor               c=  12.82 d=  3.56 w=  1587 n= 30  health, model, perceptions
+  Emerging/Declining  c=   6.96 d=  1.19 w=  1419 n= 24  gender, women, race
+  Emerging/Declining  c=   4.65 d=  1.03 w=  1251 n= 20  education, history, covid-19
+  Niche               c=   1.20 d=  7.08 w=    98 n=  3  scale, reliability, validity
+
+Written /home/claude/rerun/pkg/scripts/../analysis_outputs/THREE_CORPORA_THEMES.json

@@ -1,0 +1,34 @@
+[
+  {
+    "file": "fig_6_3_benchmarks.png",
+    "caption": "Cited references in TS-J to the canonical authors of five neighbouring fields. Adaptation Studies (orange) is cited less than sociology, cognitive science and linguistics, and more than the film-studies canon."
+  },
+  {
+    "file": "fig_6_4_asymmetry.png",
+    "caption": "Each field cites its own canon at almost the same intensity (491 vs 430 per 10,000 references), which rules out a difference in citation culture. Cross-citation is asymmetric by a factor of five."
+  },
+  {
+    "file": "fig_6_5_direction.png",
+    "caption": "Journal-to-journal citation, normalised by reference volume. Adaptation Studies journals cite Translation Studies journals 13.3 times more intensively than the reverse."
+  },
+  {
+    "file": "fig_6_6_frontier_core.png",
+    "caption": "Local citation of the seven expansionist critics named in Chapter 5 against seven institutional-core theorists, within TS-J itself. Bassnett is excluded as unclassifiable and reported separately (818)."
+  },
+  {
+    "file": "fig_6_7_thematic_map.png",
+    "caption": "Louvain themes plotted on Callon centrality x density. The applied clusters (audiovisual translation, interpreting, training, machine translation) hold the motor quadrant; equivalence, multimodality and intersemiotic translation sit in the emerging/declining quadrant."
+  },
+  {
+    "file": "fig_6_8_mirror_hub.png",
+    "caption": "Degree centrality of 'translation' and 'adaptation' in each field's own keyword co-occurrence network. Each term is near-total in its home network and peripheral in the other's."
+  },
+  {
+    "file": "fig_6_9_two_clocks.png",
+    "caption": "Rate-normalised, so corpus growth cannot generate the pattern. AS-J's fidelity discourse peaks 13 years after TS-J's \u2014 and at four times the intensity."
+  },
+  {
+    "file": "fig_6_10_rpys.png",
+    "caption": "Deviation of each year's cited-reference count from the surrounding 5-year median. TS-J spikes at 1959 (Jakobson) and 1972 (Holmes); AS-J at 1957 (Bluestone) and 1984 (Andrew). Neither peak appears in the other's spectrum."
+  }
+]

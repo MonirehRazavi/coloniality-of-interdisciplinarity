@@ -1,0 +1,55 @@
+Loading corpora ...
+
+R1 — token-level markedness
+  translation in TS-J      n= 36,116  bare= 84.3%  marked= 15.7%   top: machine, audiovisual, literary, legal
+  adaptation in TS-J       n=    549  bare= 81.8%  marked= 18.2%   top: cultural, film, transmedia, stage
+  adaptation in AS-J       n=  2,513  bare= 81.9%  marked= 18.1%   top: film, screen, cinematic, literary
+  translation in AS-J      n=    238  bare= 89.9%  marked= 10.1%   top: intersemiotic, theatre, indirect, free
+  adaptation in AS-T       n= 29,450  bare= 83.9%  marked= 16.1%   top: film, cultural, literary, screen
+  Mirror grid (% of occurrences used BARE):
+      TS-J: own term (translation) = 84.3%  other term (adaptation) = 81.8%
+      AS-J: own term (adaptation) = 81.9%  other term (translation) = 89.9%
+
+R2 — rate-normalised term trajectories (§6.8)
+  TS-J fidelity/faithfulness     rate peaks 2008 at 1.92%  (mean 0.92%)
+  AS-J fidelity/faithfulness     rate peaks 2021 at 8.28%  (mean 2.2%)
+  TS-J equivalence               rate peaks 2001 at 4.76%  (mean 2.01%)
+  AS-J equivalence               rate peaks 2022 at 1.15%  (mean 0.14%)
+  TS-J adaptation                rate peaks 2003 at 3.47%  (mean 1.28%)
+  AS-J translation               rate peaks 2019 at 15.27%  (mean 2.65%)
+
+  FIDELITY LAG (AS peak - TS peak) = +13 years
+  (Positive = AS later than TS, the direction Chapter 5's 'temporal othering'
+   claim would predict. Negative or zero = no empirical substrate for it.)
+
+R3 — RPYS, foundational window 1900–1990 (§6.9)
+  TS-J — top foundational peaks:
+      1978:  1824 refs  (deviation +391)
+      1981:  2055 refs  (deviation +222)
+      1959:   666 refs  (deviation +211)
+      1986:  2684 refs  (deviation +202)
+      1972:  1067 refs  (deviation +178)
+      1985:  2482 refs  (deviation +140)
+      1964:   733 refs  (deviation +132)
+      1969:   929 refs  (deviation +127)
+  AS-J — top foundational peaks:
+      1977:   554 refs  (deviation +80)
+      1984:   573 refs  (deviation +76)
+      1957:   199 refs  (deviation +73)
+      1960:   187 refs  (deviation +39)
+      1948:   147 refs  (deviation +36)
+      1980:   542 refs  (deviation +36)
+      1974:   496 refs  (deviation +31)
+      1985:   542 refs  (deviation +30)
+
+  Most-cited works at the principal foundational peaks:
+    TS-J 1959: JAKOBSON R. (117); JAKOBSON ROMAN. (96); FERGUSON CA (12)
+    TS-J 1958: VINAY JEAN-PIERRE. (68); GOLDMANEISLER F (8); LOH D. -Y. (7)
+    TS-J 1972: HOLMES J.S. (42); VINAY JEAN-PAUL. (36); GOLDMANE.F (26)
+    TS-J 1978: HALLIDAY M.A.K. (62); MOSER B. (40); BROWN PENELOPE. (36)
+    AS-J 1957: BLUESTONE GEORGE. (34); FRYE NORTHROP. (8); KUROSAWA AKIRA (3)
+    AS-J 1975: WAGNER GEOFFREYATHELING. (24); BARTHES ROLAND. (6); ANDEREGG MA (4)
+    AS-J 1977: [ANONYMOUS] (29); BARTHES ROLAND (15); LUCAS G. (6)
+    AS-J 1984: ANDREW DUDLEY. (42); JAMESON F (10); LYOTARD JEAN-FRANCOIS. (7)
+
+Written: out/REFINED_RESULTS.json

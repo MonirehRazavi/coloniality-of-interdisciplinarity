@@ -1,0 +1,1181 @@
+{
+  "TS-J": {
+    "network": {
+      "nodes": 250,
+      "edges": 2132,
+      "documents_with_keywords": 7015
+    },
+    "themes": [
+      {
+        "cluster": 7,
+        "label": "translation, language, english",
+        "keywords": [
+          "translation",
+          "language",
+          "english",
+          "interpreting",
+          "corpus",
+          "culture",
+          "terminology",
+          "chinese",
+          "explicitation",
+          "spanish",
+          "corpus-based translation studies",
+          "cultural translation",
+          "training",
+          "self-translation",
+          "metaphor",
+          "court interpreting",
+          "corpora",
+          "corpus linguistics",
+          "globalization",
+          "french",
+          "poetry",
+          "arabic",
+          "pragmatics",
+          "methodology",
+          "genre",
+          "translation techniques",
+          "interpretation",
+          "style",
+          "translation universals",
+          "interference",
+          "spain",
+          "legal interpreting",
+          "discourse analysis",
+          "german",
+          "specialized translation",
+          "orality",
+          "traduction",
+          "italian",
+          "parallel corpus",
+          "untranslatability",
+          "phraseology",
+          "parallel corpora",
+          "professionalization",
+          "speech",
+          "literature",
+          "food",
+          "covid-19",
+          "register"
+        ],
+        "size": 48,
+        "documents_weight": 3311,
+        "centrality": 10.801,
+        "density": 2.032,
+        "quadrant": "Basic/Transversal",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 6,
+        "label": "audiovisual translation, subtitling, dubbing",
+        "keywords": [
+          "audiovisual translation",
+          "subtitling",
+          "dubbing",
+          "audio description",
+          "reception",
+          "censorship",
+          "multilingualism",
+          "translation strategies",
+          "accessibility",
+          "media accessibility",
+          "china",
+          "creativity",
+          "history",
+          "subtitles",
+          "manipulation",
+          "deaf",
+          "norms",
+          "film",
+          "humour",
+          "television",
+          "interdisciplinarity",
+          "perception",
+          "fansubbing",
+          "audiovisual translation (avt)",
+          "children",
+          "emotions",
+          "sign language interpreting",
+          "song translation",
+          "screen translation",
+          "reception studies",
+          "films",
+          "metaphors",
+          "hong kong",
+          "words",
+          "translation norms",
+          "technical translation",
+          "emotion"
+        ],
+        "size": 37,
+        "documents_weight": 1957,
+        "centrality": 8.803,
+        "density": 3.994,
+        "quadrant": "Motor",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 0,
+        "label": "simultaneous interpreting, performance, translation process",
+        "keywords": [
+          "simultaneous interpreting",
+          "performance",
+          "translation process",
+          "cognitive load",
+          "impact",
+          "memory",
+          "consecutive interpreting",
+          "comprehension",
+          "eye tracking",
+          "eye-tracking",
+          "context",
+          "collaborative translation",
+          "strategies",
+          "text",
+          "model",
+          "information",
+          "sight translation",
+          "directionality",
+          "cognition",
+          "perceptions",
+          "experience",
+          "expertise",
+          "relevance theory",
+          "accuracy",
+          "translation process research",
+          "professional translators",
+          "working-memory",
+          "translation strategy",
+          "patterns",
+          "cognitive effort",
+          "bilingualism",
+          "ethnography",
+          "note-taking",
+          "telephone interpreting"
+        ],
+        "size": 34,
+        "documents_weight": 1428,
+        "centrality": 11.35,
+        "density": 3.748,
+        "quadrant": "Motor",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 2,
+        "label": "literary translation, multimodality, retranslation",
+        "keywords": [
+          "literary translation",
+          "multimodality",
+          "retranslation",
+          "adaptation",
+          "translation history",
+          "translation theory",
+          "equivalence",
+          "indirect translation",
+          "intersemiotic translation",
+          "intertextuality",
+          "children's literature",
+          "agency",
+          "paratext",
+          "history of translation",
+          "paratexts",
+          "poetry translation",
+          "rewriting",
+          "voice",
+          "intralingual translation",
+          "quality assessment",
+          "readability",
+          "shakespeare",
+          "bibliometrics",
+          "translation criticism",
+          "semiotics"
+        ],
+        "size": 25,
+        "documents_weight": 1363,
+        "centrality": 3.879,
+        "density": 0.829,
+        "quadrant": "Emerging/Declining",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 11,
+        "label": "machine translation, translator training, quality",
+        "keywords": [
+          "machine translation",
+          "translator training",
+          "quality",
+          "post-editing",
+          "translation technology",
+          "technology",
+          "translation quality",
+          "assessment",
+          "translation pedagogy",
+          "neural machine translation",
+          "revision",
+          "professional translation",
+          "survey",
+          "evaluation",
+          "artificial intelligence",
+          "translation quality assessment",
+          "interpreter education",
+          "translation memory",
+          "chinese-english translation"
+        ],
+        "size": 19,
+        "documents_weight": 988,
+        "centrality": 4.562,
+        "density": 2.948,
+        "quadrant": "Basic/Transversal",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 8,
+        "label": "translation competence, competence, interpreters",
+        "keywords": [
+          "translation competence",
+          "competence",
+          "interpreters",
+          "translator education",
+          "translators",
+          "skills",
+          "education",
+          "medical translation",
+          "students",
+          "translation teaching",
+          "translation training",
+          "motivation",
+          "employability",
+          "knowledge",
+          "acquisition",
+          "stress",
+          "translation practice",
+          "profession",
+          "aptitude",
+          "validation",
+          "pedagogy",
+          "curriculum",
+          "work",
+          "self-efficacy",
+          "translator competence",
+          "professionalisation",
+          "specialised translation",
+          "competences"
+        ],
+        "size": 28,
+        "documents_weight": 895,
+        "centrality": 6.733,
+        "density": 2.662,
+        "quadrant": "Basic/Transversal",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 9,
+        "label": "ideology, discourse, news translation",
+        "keywords": [
+          "ideology",
+          "discourse",
+          "news translation",
+          "gender",
+          "identity",
+          "theatre translation",
+          "politics",
+          "media",
+          "representation",
+          "critical discourse analysis",
+          "narrative",
+          "journalistic translation",
+          "activism",
+          "news",
+          "feminism",
+          "feminist translation",
+          "political discourse",
+          "narrative theory"
+        ],
+        "size": 18,
+        "documents_weight": 750,
+        "centrality": 3.226,
+        "density": 2.077,
+        "quadrant": "Emerging/Declining",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 4,
+        "label": "ethics, interpreter training, communication",
+        "keywords": [
+          "ethics",
+          "interpreter training",
+          "communication",
+          "community interpreting",
+          "translator",
+          "conference interpreting",
+          "migration",
+          "public service interpreting",
+          "power",
+          "interpreter",
+          "mediation",
+          "interpreting studies",
+          "intercultural communication",
+          "role",
+          "dialogue interpreting",
+          "visibility",
+          "situated learning",
+          "trust",
+          "translation ethics",
+          "collaboration"
+        ],
+        "size": 20,
+        "documents_weight": 687,
+        "centrality": 4.72,
+        "density": 1.765,
+        "quadrant": "Basic/Transversal",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 12,
+        "label": "translation studies, sociology of translation, habitus",
+        "keywords": [
+          "translation studies",
+          "sociology of translation",
+          "habitus",
+          "sociology",
+          "field",
+          "world literature",
+          "bourdieu",
+          "crime fiction"
+        ],
+        "size": 8,
+        "documents_weight": 386,
+        "centrality": 1.259,
+        "density": 6.827,
+        "quadrant": "Niche",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 5,
+        "label": "legal translation, institutional translation, translation policy",
+        "keywords": [
+          "legal translation",
+          "institutional translation",
+          "translation policy",
+          "law",
+          "language policy"
+        ],
+        "size": 5,
+        "documents_weight": 229,
+        "centrality": 0.806,
+        "density": 4.487,
+        "quadrant": "Niche",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 3,
+        "label": "localization, transcreation, video games",
+        "keywords": [
+          "localization",
+          "transcreation",
+          "video games",
+          "localisation"
+        ],
+        "size": 4,
+        "documents_weight": 126,
+        "centrality": 0.751,
+        "density": 4.299,
+        "quadrant": "Niche",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      },
+      {
+        "cluster": 10,
+        "label": "domestication, foreignization, cultural references",
+        "keywords": [
+          "domestication",
+          "foreignization",
+          "cultural references"
+        ],
+        "size": 3,
+        "documents_weight": 89,
+        "centrality": 0.575,
+        "density": 11.006,
+        "quadrant": "Niche",
+        "median_centrality": 4.562,
+        "median_density": 3.748
+      }
+    ],
+    "watched_term_placement": {
+      "translation": {
+        "quadrant": "Basic/Transversal",
+        "theme": "translation, language, english",
+        "frequency": 1130,
+        "degree_centrality": 0.8635,
+        "betweenness": 0.4517
+      },
+      "adaptation": {
+        "quadrant": "Emerging/Declining",
+        "theme": "literary translation, multimodality, retranslation",
+        "frequency": 83,
+        "degree_centrality": 0.1004,
+        "betweenness": 0.0031
+      },
+      "equivalence": {
+        "quadrant": "Emerging/Declining",
+        "theme": "literary translation, multimodality, retranslation",
+        "frequency": 53,
+        "degree_centrality": 0.0361,
+        "betweenness": 0.0001
+      },
+      "interpreting": {
+        "quadrant": "Basic/Transversal",
+        "theme": "translation, language, english",
+        "frequency": 135,
+        "degree_centrality": 0.253,
+        "betweenness": 0.0183
+      },
+      "intersemiotic translation": {
+        "quadrant": "Emerging/Declining",
+        "theme": "literary translation, multimodality, retranslation",
+        "frequency": 52,
+        "degree_centrality": 0.0522,
+        "betweenness": 0.0003
+      },
+      "multimodality": {
+        "quadrant": "Emerging/Declining",
+        "theme": "literary translation, multimodality, retranslation",
+        "frequency": 89,
+        "degree_centrality": 0.1245,
+        "betweenness": 0.0061
+      },
+      "audiovisual translation": {
+        "quadrant": "Motor",
+        "theme": "audiovisual translation, subtitling, dubbing",
+        "frequency": 311,
+        "degree_centrality": 0.3534,
+        "betweenness": 0.0493
+      },
+      "corpus": {
+        "quadrant": "Basic/Transversal",
+        "theme": "translation, language, english",
+        "frequency": 107,
+        "degree_centrality": 0.2048,
+        "betweenness": 0.0122
+      }
+    },
+    "top_keywords_by_frequency": [
+      {
+        "keyword": "translation",
+        "n": 1130
+      },
+      {
+        "keyword": "audiovisual translation",
+        "n": 311
+      },
+      {
+        "keyword": "language",
+        "n": 254
+      },
+      {
+        "keyword": "literary translation",
+        "n": 247
+      },
+      {
+        "keyword": "subtitling",
+        "n": 207
+      },
+      {
+        "keyword": "english",
+        "n": 206
+      },
+      {
+        "keyword": "machine translation",
+        "n": 182
+      },
+      {
+        "keyword": "translation studies",
+        "n": 164
+      },
+      {
+        "keyword": "dubbing",
+        "n": 139
+      },
+      {
+        "keyword": "interpreting",
+        "n": 135
+      },
+      {
+        "keyword": "translator training",
+        "n": 135
+      },
+      {
+        "keyword": "audio description",
+        "n": 118
+      },
+      {
+        "keyword": "ideology",
+        "n": 117
+      },
+      {
+        "keyword": "simultaneous interpreting",
+        "n": 112
+      },
+      {
+        "keyword": "quality",
+        "n": 111
+      },
+      {
+        "keyword": "corpus",
+        "n": 107
+      },
+      {
+        "keyword": "legal translation",
+        "n": 106
+      },
+      {
+        "keyword": "ethics",
+        "n": 97
+      },
+      {
+        "keyword": "reception",
+        "n": 96
+      },
+      {
+        "keyword": "translation competence",
+        "n": 92
+      }
+    ],
+    "top_keywords_by_betweenness": [
+      {
+        "keyword": "translation",
+        "betweenness": 0.4517
+      },
+      {
+        "keyword": "language",
+        "betweenness": 0.0851
+      },
+      {
+        "keyword": "audiovisual translation",
+        "betweenness": 0.0493
+      },
+      {
+        "keyword": "english",
+        "betweenness": 0.0318
+      },
+      {
+        "keyword": "literary translation",
+        "betweenness": 0.028
+      },
+      {
+        "keyword": "machine translation",
+        "betweenness": 0.024
+      },
+      {
+        "keyword": "performance",
+        "betweenness": 0.0204
+      },
+      {
+        "keyword": "subtitling",
+        "betweenness": 0.0204
+      },
+      {
+        "keyword": "interpreting",
+        "betweenness": 0.0183
+      },
+      {
+        "keyword": "competence",
+        "betweenness": 0.0168
+      },
+      {
+        "keyword": "translator training",
+        "betweenness": 0.0158
+      },
+      {
+        "keyword": "corpus",
+        "betweenness": 0.0122
+      },
+      {
+        "keyword": "ethics",
+        "betweenness": 0.0119
+      },
+      {
+        "keyword": "ideology",
+        "betweenness": 0.011
+      },
+      {
+        "keyword": "reception",
+        "betweenness": 0.0104
+      }
+    ],
+    "degree_centrality_top": [
+      {
+        "keyword": "translation",
+        "degree_centrality": 0.8635
+      },
+      {
+        "keyword": "language",
+        "degree_centrality": 0.506
+      },
+      {
+        "keyword": "audiovisual translation",
+        "degree_centrality": 0.3534
+      },
+      {
+        "keyword": "english",
+        "degree_centrality": 0.3494
+      },
+      {
+        "keyword": "subtitling",
+        "degree_centrality": 0.2851
+      },
+      {
+        "keyword": "machine translation",
+        "degree_centrality": 0.257
+      },
+      {
+        "keyword": "interpreting",
+        "degree_centrality": 0.253
+      },
+      {
+        "keyword": "performance",
+        "degree_centrality": 0.2329
+      },
+      {
+        "keyword": "literary translation",
+        "degree_centrality": 0.2209
+      },
+      {
+        "keyword": "corpus",
+        "degree_centrality": 0.2048
+      },
+      {
+        "keyword": "cognitive load",
+        "degree_centrality": 0.1968
+      },
+      {
+        "keyword": "reception",
+        "degree_centrality": 0.1807
+      },
+      {
+        "keyword": "dubbing",
+        "degree_centrality": 0.1727
+      },
+      {
+        "keyword": "quality",
+        "degree_centrality": 0.1727
+      },
+      {
+        "keyword": "audio description",
+        "degree_centrality": 0.1687
+      },
+      {
+        "keyword": "simultaneous interpreting",
+        "degree_centrality": 0.1687
+      },
+      {
+        "keyword": "impact",
+        "degree_centrality": 0.1566
+      },
+      {
+        "keyword": "translation studies",
+        "degree_centrality": 0.1566
+      },
+      {
+        "keyword": "competence",
+        "degree_centrality": 0.1566
+      },
+      {
+        "keyword": "ethics",
+        "degree_centrality": 0.1526
+      }
+    ]
+  },
+  "AS-J": {
+    "network": {
+      "nodes": 78,
+      "edges": 124,
+      "documents_with_keywords": 704
+    },
+    "themes": [
+      {
+        "cluster": 13,
+        "label": "adaptation, translation, intertextuality",
+        "keywords": [
+          "adaptation",
+          "translation",
+          "intertextuality",
+          "fidelity",
+          "genre",
+          "narrative",
+          "identity",
+          "transmedia",
+          "biopic",
+          "ecocriticism",
+          "authenticity",
+          "sherlock holmes",
+          "literature",
+          "poetry",
+          "convergence",
+          "digital",
+          "austen",
+          "children's literature",
+          "fan fiction",
+          "biography",
+          "women",
+          "hollywood",
+          "martin crimp"
+        ],
+        "size": 23,
+        "documents_weight": 422,
+        "centrality": 3.488,
+        "density": 1.193,
+        "quadrant": "Basic/Transversal",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 10,
+        "label": "film, gender, television",
+        "keywords": [
+          "film",
+          "gender",
+          "television",
+          "performance",
+          "history",
+          "theatre",
+          "feminism",
+          "race",
+          "drama",
+          "myth",
+          "politics",
+          "comics",
+          "novel"
+        ],
+        "size": 13,
+        "documents_weight": 194,
+        "centrality": 3.158,
+        "density": 4.48,
+        "quadrant": "Motor",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 21,
+        "label": "shakespeare, appropriation, hamlet",
+        "keywords": [
+          "shakespeare",
+          "appropriation",
+          "hamlet",
+          "music",
+          "bbc",
+          "macbeth"
+        ],
+        "size": 6,
+        "documents_weight": 87,
+        "centrality": 1.273,
+        "density": 3.436,
+        "quadrant": "Basic/Transversal",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 16,
+        "label": "adaptation studies, film adaptation, cinema",
+        "keywords": [
+          "adaptation studies",
+          "film adaptation",
+          "cinema",
+          "melodrama",
+          "censorship"
+        ],
+        "size": 5,
+        "documents_weight": 76,
+        "centrality": 0.866,
+        "density": 2.066,
+        "quadrant": "Basic/Transversal",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 9,
+        "label": "nostalgia, intermediality, remediation",
+        "keywords": [
+          "nostalgia",
+          "intermediality",
+          "remediation",
+          "memory",
+          "fandom"
+        ],
+        "size": 5,
+        "documents_weight": 54,
+        "centrality": 0.315,
+        "density": 3.714,
+        "quadrant": "Emerging/Declining",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 22,
+        "label": "horror, radio drama, film noir",
+        "keywords": [
+          "horror",
+          "radio drama",
+          "film noir"
+        ],
+        "size": 3,
+        "documents_weight": 24,
+        "centrality": 0.901,
+        "density": 4.444,
+        "quadrant": "Motor",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 20,
+        "label": "othello, william shakespeare, desdemona",
+        "keywords": [
+          "othello",
+          "william shakespeare",
+          "desdemona"
+        ],
+        "size": 3,
+        "documents_weight": 23,
+        "centrality": 0.445,
+        "density": 13.056,
+        "quadrant": "Motor",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 2,
+        "label": "adaptation theory, jane austen",
+        "keywords": [
+          "adaptation theory",
+          "jane austen"
+        ],
+        "size": 2,
+        "documents_weight": 20,
+        "centrality": 0.02,
+        "density": 2.02,
+        "quadrant": "Emerging/Declining",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 14,
+        "label": "screenwriting, authorship",
+        "keywords": [
+          "screenwriting",
+          "authorship"
+        ],
+        "size": 2,
+        "documents_weight": 14,
+        "centrality": 0.13,
+        "density": 4.082,
+        "quadrant": "Niche",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 1,
+        "label": "masculinity, kubrick",
+        "keywords": [
+          "masculinity",
+          "kubrick"
+        ],
+        "size": 2,
+        "documents_weight": 12,
+        "centrality": 0.137,
+        "density": 5.556,
+        "quadrant": "Niche",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      },
+      {
+        "cluster": 0,
+        "label": "vampire, dracula",
+        "keywords": [
+          "vampire",
+          "dracula"
+        ],
+        "size": 2,
+        "documents_weight": 10,
+        "centrality": 0,
+        "density": 8.0,
+        "quadrant": "Niche",
+        "median_centrality": 0.445,
+        "median_density": 4.082
+      }
+    ],
+    "watched_term_placement": {
+      "translation": {
+        "quadrant": "Basic/Transversal",
+        "theme": "adaptation, translation, intertextuality",
+        "frequency": 28,
+        "degree_centrality": 0.0519,
+        "betweenness": 0.0212
+      },
+      "adaptation": {
+        "quadrant": "Basic/Transversal",
+        "theme": "adaptation, translation, intertextuality",
+        "frequency": 219,
+        "degree_centrality": 0.7273,
+        "betweenness": 0.5917
+      },
+      "fidelity": {
+        "quadrant": "Basic/Transversal",
+        "theme": "adaptation, translation, intertextuality",
+        "frequency": 21,
+        "degree_centrality": 0.0519,
+        "betweenness": 0.0009
+      },
+      "film adaptation": {
+        "quadrant": "Basic/Transversal",
+        "theme": "adaptation studies, film adaptation, cinema",
+        "frequency": 20,
+        "degree_centrality": 0.039,
+        "betweenness": 0.0013
+      },
+      "intermediality": {
+        "quadrant": "Emerging/Declining",
+        "theme": "nostalgia, intermediality, remediation",
+        "frequency": 14,
+        "degree_centrality": 0.026,
+        "betweenness": 0.0
+      }
+    },
+    "top_keywords_by_frequency": [
+      {
+        "keyword": "adaptation",
+        "n": 219
+      },
+      {
+        "keyword": "shakespeare",
+        "n": 43
+      },
+      {
+        "keyword": "film",
+        "n": 33
+      },
+      {
+        "keyword": "translation",
+        "n": 28
+      },
+      {
+        "keyword": "intertextuality",
+        "n": 24
+      },
+      {
+        "keyword": "gender",
+        "n": 24
+      },
+      {
+        "keyword": "television",
+        "n": 23
+      },
+      {
+        "keyword": "adaptation studies",
+        "n": 22
+      },
+      {
+        "keyword": "fidelity",
+        "n": 21
+      },
+      {
+        "keyword": "film adaptation",
+        "n": 20
+      },
+      {
+        "keyword": "performance",
+        "n": 20
+      },
+      {
+        "keyword": "cinema",
+        "n": 18
+      },
+      {
+        "keyword": "history",
+        "n": 14
+      },
+      {
+        "keyword": "intermediality",
+        "n": 14
+      },
+      {
+        "keyword": "genre",
+        "n": 14
+      },
+      {
+        "keyword": "theatre",
+        "n": 14
+      },
+      {
+        "keyword": "nostalgia",
+        "n": 14
+      },
+      {
+        "keyword": "appropriation",
+        "n": 14
+      },
+      {
+        "keyword": "feminism",
+        "n": 13
+      },
+      {
+        "keyword": "race",
+        "n": 12
+      }
+    ],
+    "top_keywords_by_betweenness": [
+      {
+        "keyword": "adaptation",
+        "betweenness": 0.5917
+      },
+      {
+        "keyword": "othello",
+        "betweenness": 0.042
+      },
+      {
+        "keyword": "shakespeare",
+        "betweenness": 0.0245
+      },
+      {
+        "keyword": "remediation",
+        "betweenness": 0.0214
+      },
+      {
+        "keyword": "jane austen",
+        "betweenness": 0.0212
+      },
+      {
+        "keyword": "translation",
+        "betweenness": 0.0212
+      },
+      {
+        "keyword": "film",
+        "betweenness": 0.0127
+      },
+      {
+        "keyword": "cinema",
+        "betweenness": 0.0112
+      },
+      {
+        "keyword": "intertextuality",
+        "betweenness": 0.0094
+      },
+      {
+        "keyword": "censorship",
+        "betweenness": 0.0069
+      },
+      {
+        "keyword": "television",
+        "betweenness": 0.0063
+      },
+      {
+        "keyword": "theatre",
+        "betweenness": 0.002
+      },
+      {
+        "keyword": "gender",
+        "betweenness": 0.002
+      },
+      {
+        "keyword": "film adaptation",
+        "betweenness": 0.0013
+      },
+      {
+        "keyword": "performance",
+        "betweenness": 0.0013
+      }
+    ],
+    "degree_centrality_top": [
+      {
+        "keyword": "adaptation",
+        "degree_centrality": 0.7273
+      },
+      {
+        "keyword": "film",
+        "degree_centrality": 0.1688
+      },
+      {
+        "keyword": "shakespeare",
+        "degree_centrality": 0.1688
+      },
+      {
+        "keyword": "television",
+        "degree_centrality": 0.1429
+      },
+      {
+        "keyword": "theatre",
+        "degree_centrality": 0.1039
+      },
+      {
+        "keyword": "cinema",
+        "degree_centrality": 0.0909
+      },
+      {
+        "keyword": "gender",
+        "degree_centrality": 0.0779
+      },
+      {
+        "keyword": "drama",
+        "degree_centrality": 0.0779
+      },
+      {
+        "keyword": "performance",
+        "degree_centrality": 0.0779
+      },
+      {
+        "keyword": "intertextuality",
+        "degree_centrality": 0.0649
+      },
+      {
+        "keyword": "othello",
+        "degree_centrality": 0.0649
+      },
+      {
+        "keyword": "genre",
+        "degree_centrality": 0.0649
+      },
+      {
+        "keyword": "horror",
+        "degree_centrality": 0.0519
+      },
+      {
+        "keyword": "feminism",
+        "degree_centrality": 0.0519
+      },
+      {
+        "keyword": "translation",
+        "degree_centrality": 0.0519
+      },
+      {
+        "keyword": "nostalgia",
+        "degree_centrality": 0.0519
+      },
+      {
+        "keyword": "novel",
+        "degree_centrality": 0.0519
+      },
+      {
+        "keyword": "radio drama",
+        "degree_centrality": 0.0519
+      },
+      {
+        "keyword": "fidelity",
+        "degree_centrality": 0.0519
+      },
+      {
+        "keyword": "remediation",
+        "degree_centrality": 0.0519
+      }
+    ]
+  }
+}

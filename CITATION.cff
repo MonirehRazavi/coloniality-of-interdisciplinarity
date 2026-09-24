@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or these outputs, please cite the thesis and this repository."
+title: "Weighed and Found Wanting: supplementary code and outputs for the bibliometric analyses"
+authors:
+  - family-names: "Razavi Ganji"
+    given-names: "Monireh Sadat"
+    alias: "Moni Zavi"
+    affiliation: "School of Translation and Interpretation, University of Ottawa"
+    email: "monirazav@gmail.com"
+version: "1.0"
+date-released: "2026-09-24"
+repository-code: "https://github.com/MonirehRazavi/coloniality-of-interdisciplinarity"
+license: MIT
+keywords:
+  - Translation Studies
+  - Adaptation Studies
+  - interdisciplinarity
+  - bibliometrics
+  - Web of Science
+  - coloniality of knowledge
+references:
+  - type: thesis
+    title: "Weighed and Found Wanting: A Close and Distant Reading of the Coloniality of Interdisciplinarity: The Case of Translation Studies and Adaptation Studies"
+    authors:
+      - family-names: "Razavi Ganji"
+        given-names: "Monireh Sadat"
+    institution:
+      name: "University of Ottawa"
+    year: 2026
+    thesis-type: "PhD dissertation"

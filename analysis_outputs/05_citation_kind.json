@@ -1,0 +1,14 @@
+{
+  "AS-J citing TS": {
+    "to TS canonical theorists": 145,
+    "to TS journal articles": 74,
+    "total": 219,
+    "pct_to_canon": 66.2
+  },
+  "TS-J citing AS": {
+    "to AS canonical theorists": 210,
+    "to AS journal articles": 40,
+    "total": 250,
+    "pct_to_canon": 84.0
+  }
+}

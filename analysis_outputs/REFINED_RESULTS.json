@@ -1,0 +1,2320 @@
+{
+  "R1_markedness_tokens": {
+    "translation in TS-J": {
+      "total_occurrences": 36116,
+      "marked_occurrences": 5660,
+      "bare_occurrences": 30456,
+      "pct_bare": 84.3,
+      "pct_marked": 15.7,
+      "top_modifiers": {
+        "machine": 938,
+        "audiovisual": 848,
+        "literary": 843,
+        "legal": 417,
+        "self": 230,
+        "indirect": 218,
+        "news": 202,
+        "cultural": 178,
+        "collaborative": 159,
+        "sight": 149,
+        "intersemiotic": 139,
+        "intralingual": 117
+      }
+    },
+    "adaptation in TS-J": {
+      "total_occurrences": 549,
+      "marked_occurrences": 100,
+      "bare_occurrences": 449,
+      "pct_bare": 81.8,
+      "pct_marked": 18.2,
+      "top_modifiers": {
+        "cultural": 41,
+        "film": 29,
+        "transmedia": 7,
+        "stage": 5,
+        "comic": 3,
+        "cinematic": 3,
+        "novel": 2,
+        "theatrical": 2,
+        "free": 2,
+        "television": 2,
+        "screen": 1,
+        "literary": 1
+      }
+    },
+    "adaptation in AS-J": {
+      "total_occurrences": 2513,
+      "marked_occurrences": 454,
+      "bare_occurrences": 2059,
+      "pct_bare": 81.9,
+      "pct_marked": 18.1,
+      "top_modifiers": {
+        "film": 201,
+        "screen": 42,
+        "cinematic": 28,
+        "literary": 26,
+        "television": 24,
+        "stage": 21,
+        "theatrical": 15,
+        "transmedia": 14,
+        "game": 13,
+        "cultural": 12,
+        "radio": 12,
+        "contemporary": 10
+      }
+    },
+    "translation in AS-J": {
+      "total_occurrences": 238,
+      "marked_occurrences": 24,
+      "bare_occurrences": 214,
+      "pct_bare": 89.9,
+      "pct_marked": 10.1,
+      "top_modifiers": {
+        "intersemiotic": 7,
+        "theatre": 5,
+        "indirect": 3,
+        "free": 2,
+        "audiovisual": 2,
+        "interlingual": 2,
+        "literal": 1,
+        "drama": 1,
+        "theater": 1
+      }
+    },
+    "adaptation in AS-T": {
+      "total_occurrences": 29450,
+      "marked_occurrences": 4727,
+      "bare_occurrences": 24723,
+      "pct_bare": 83.9,
+      "pct_marked": 16.1,
+      "top_modifiers": {
+        "film": 1695,
+        "cultural": 619,
+        "literary": 287,
+        "screen": 250,
+        "stage": 215,
+        "cinematic": 204,
+        "climate": 181,
+        "theatrical": 178,
+        "television": 168,
+        "contemporary": 93,
+        "musical": 89,
+        "tv": 80
+      }
+    }
+  },
+  "R1_mirror_grid": {
+    "TS-J": {
+      "own term (translation)": 84.3,
+      "other term (adaptation)": 81.8
+    },
+    "AS-J": {
+      "own term (adaptation)": 81.9,
+      "other term (translation)": 89.9
+    }
+  },
+  "R2_clocks": {
+    "TS-J fidelity/faithfulness": {
+      "series": {
+        "1978": {
+          "documents": 43,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1980": {
+          "documents": 19,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1982": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1983": {
+          "documents": 34,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1984": {
+          "documents": 45,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1985": {
+          "documents": 23,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1986": {
+          "documents": 22,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1987": {
+          "documents": 15,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1988": {
+          "documents": 26,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1989": {
+          "documents": 23,
+          "with_term": 1,
+          "rate_pct": 4.35
+        },
+        "1990": {
+          "documents": 25,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1991": {
+          "documents": 22,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1992": {
+          "documents": 143,
+          "with_term": 1,
+          "rate_pct": 0.7
+        },
+        "1993": {
+          "documents": 139,
+          "with_term": 3,
+          "rate_pct": 2.16
+        },
+        "1994": {
+          "documents": 130,
+          "with_term": 1,
+          "rate_pct": 0.77
+        },
+        "1995": {
+          "documents": 114,
+          "with_term": 1,
+          "rate_pct": 0.88
+        },
+        "1996": {
+          "documents": 98,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1997": {
+          "documents": 100,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1998": {
+          "documents": 120,
+          "with_term": 1,
+          "rate_pct": 0.83
+        },
+        "1999": {
+          "documents": 89,
+          "with_term": 1,
+          "rate_pct": 1.12
+        },
+        "2000": {
+          "documents": 129,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2001": {
+          "documents": 106,
+          "with_term": 1,
+          "rate_pct": 0.94
+        },
+        "2002": {
+          "documents": 88,
+          "with_term": 2,
+          "rate_pct": 2.27
+        },
+        "2003": {
+          "documents": 98,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2004": {
+          "documents": 149,
+          "with_term": 2,
+          "rate_pct": 1.34
+        },
+        "2005": {
+          "documents": 286,
+          "with_term": 4,
+          "rate_pct": 1.4
+        },
+        "2006": {
+          "documents": 239,
+          "with_term": 3,
+          "rate_pct": 1.26
+        },
+        "2007": {
+          "documents": 322,
+          "with_term": 6,
+          "rate_pct": 1.86
+        },
+        "2008": {
+          "documents": 392,
+          "with_term": 9,
+          "rate_pct": 2.3
+        },
+        "2009": {
+          "documents": 503,
+          "with_term": 8,
+          "rate_pct": 1.59
+        },
+        "2010": {
+          "documents": 508,
+          "with_term": 5,
+          "rate_pct": 0.98
+        },
+        "2011": {
+          "documents": 626,
+          "with_term": 5,
+          "rate_pct": 0.8
+        },
+        "2012": {
+          "documents": 548,
+          "with_term": 7,
+          "rate_pct": 1.28
+        },
+        "2013": {
+          "documents": 486,
+          "with_term": 3,
+          "rate_pct": 0.62
+        },
+        "2014": {
+          "documents": 598,
+          "with_term": 6,
+          "rate_pct": 1.0
+        },
+        "2015": {
+          "documents": 664,
+          "with_term": 2,
+          "rate_pct": 0.3
+        },
+        "2016": {
+          "documents": 618,
+          "with_term": 5,
+          "rate_pct": 0.81
+        },
+        "2017": {
+          "documents": 632,
+          "with_term": 8,
+          "rate_pct": 1.27
+        },
+        "2018": {
+          "documents": 717,
+          "with_term": 10,
+          "rate_pct": 1.39
+        },
+        "2019": {
+          "documents": 694,
+          "with_term": 9,
+          "rate_pct": 1.3
+        },
+        "2020": {
+          "documents": 663,
+          "with_term": 8,
+          "rate_pct": 1.21
+        },
+        "2021": {
+          "documents": 685,
+          "with_term": 12,
+          "rate_pct": 1.75
+        },
+        "2022": {
+          "documents": 678,
+          "with_term": 6,
+          "rate_pct": 0.88
+        },
+        "2023": {
+          "documents": 756,
+          "with_term": 16,
+          "rate_pct": 2.12
+        },
+        "2024": {
+          "documents": 714,
+          "with_term": 6,
+          "rate_pct": 0.84
+        },
+        "2025": {
+          "documents": 703,
+          "with_term": 13,
+          "rate_pct": 1.85
+        }
+      },
+      "peak_year_of_rate": 2008,
+      "peak_rate_pct": 1.92,
+      "mean_rate_pct": 0.92
+    },
+    "AS-J fidelity/faithfulness": {
+      "series": {
+        "1975": {
+          "documents": 55,
+          "with_term": 1,
+          "rate_pct": 1.82
+        },
+        "1976": {
+          "documents": 53,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1977": {
+          "documents": 50,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1978": {
+          "documents": 47,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1979": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1980": {
+          "documents": 33,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1981": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1982": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1983": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1984": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1985": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1986": {
+          "documents": 37,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1987": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1988": {
+          "documents": 43,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1989": {
+          "documents": 42,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1990": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1991": {
+          "documents": 41,
+          "with_term": 1,
+          "rate_pct": 2.44
+        },
+        "1992": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1993": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1994": {
+          "documents": 41,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1995": {
+          "documents": 55,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1996": {
+          "documents": 65,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1997": {
+          "documents": 49,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1998": {
+          "documents": 50,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1999": {
+          "documents": 48,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2000": {
+          "documents": 54,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2001": {
+          "documents": 42,
+          "with_term": 1,
+          "rate_pct": 2.38
+        },
+        "2002": {
+          "documents": 46,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2003": {
+          "documents": 49,
+          "with_term": 2,
+          "rate_pct": 4.08
+        },
+        "2004": {
+          "documents": 49,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2005": {
+          "documents": 41,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2006": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2007": {
+          "documents": 54,
+          "with_term": 1,
+          "rate_pct": 1.85
+        },
+        "2008": {
+          "documents": 62,
+          "with_term": 1,
+          "rate_pct": 1.61
+        },
+        "2009": {
+          "documents": 87,
+          "with_term": 3,
+          "rate_pct": 3.45
+        },
+        "2010": {
+          "documents": 73,
+          "with_term": 4,
+          "rate_pct": 5.48
+        },
+        "2011": {
+          "documents": 96,
+          "with_term": 4,
+          "rate_pct": 4.17
+        },
+        "2012": {
+          "documents": 91,
+          "with_term": 4,
+          "rate_pct": 4.4
+        },
+        "2013": {
+          "documents": 91,
+          "with_term": 8,
+          "rate_pct": 8.79
+        },
+        "2014": {
+          "documents": 99,
+          "with_term": 5,
+          "rate_pct": 5.05
+        },
+        "2015": {
+          "documents": 78,
+          "with_term": 5,
+          "rate_pct": 6.41
+        },
+        "2016": {
+          "documents": 79,
+          "with_term": 3,
+          "rate_pct": 3.8
+        },
+        "2017": {
+          "documents": 50,
+          "with_term": 3,
+          "rate_pct": 6.0
+        },
+        "2018": {
+          "documents": 53,
+          "with_term": 5,
+          "rate_pct": 9.43
+        },
+        "2019": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2020": {
+          "documents": 56,
+          "with_term": 6,
+          "rate_pct": 10.71
+        },
+        "2021": {
+          "documents": 57,
+          "with_term": 5,
+          "rate_pct": 8.77
+        },
+        "2022": {
+          "documents": 56,
+          "with_term": 3,
+          "rate_pct": 5.36
+        },
+        "2023": {
+          "documents": 58,
+          "with_term": 4,
+          "rate_pct": 6.9
+        },
+        "2024": {
+          "documents": 53,
+          "with_term": 2,
+          "rate_pct": 3.77
+        },
+        "2025": {
+          "documents": 52,
+          "with_term": 3,
+          "rate_pct": 5.77
+        }
+      },
+      "peak_year_of_rate": 2021,
+      "peak_rate_pct": 8.28,
+      "mean_rate_pct": 2.2
+    },
+    "TS-J equivalence": {
+      "series": {
+        "1978": {
+          "documents": 43,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1980": {
+          "documents": 19,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1982": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1983": {
+          "documents": 34,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1984": {
+          "documents": 45,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1985": {
+          "documents": 23,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1986": {
+          "documents": 22,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1987": {
+          "documents": 15,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1988": {
+          "documents": 26,
+          "with_term": 1,
+          "rate_pct": 3.85
+        },
+        "1989": {
+          "documents": 23,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1990": {
+          "documents": 25,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1991": {
+          "documents": 22,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1992": {
+          "documents": 143,
+          "with_term": 3,
+          "rate_pct": 2.1
+        },
+        "1993": {
+          "documents": 139,
+          "with_term": 3,
+          "rate_pct": 2.16
+        },
+        "1994": {
+          "documents": 130,
+          "with_term": 1,
+          "rate_pct": 0.77
+        },
+        "1995": {
+          "documents": 114,
+          "with_term": 1,
+          "rate_pct": 0.88
+        },
+        "1996": {
+          "documents": 98,
+          "with_term": 1,
+          "rate_pct": 1.02
+        },
+        "1997": {
+          "documents": 100,
+          "with_term": 2,
+          "rate_pct": 2.0
+        },
+        "1998": {
+          "documents": 120,
+          "with_term": 1,
+          "rate_pct": 0.83
+        },
+        "1999": {
+          "documents": 89,
+          "with_term": 1,
+          "rate_pct": 1.12
+        },
+        "2000": {
+          "documents": 129,
+          "with_term": 5,
+          "rate_pct": 3.88
+        },
+        "2001": {
+          "documents": 106,
+          "with_term": 5,
+          "rate_pct": 4.72
+        },
+        "2002": {
+          "documents": 88,
+          "with_term": 5,
+          "rate_pct": 5.68
+        },
+        "2003": {
+          "documents": 98,
+          "with_term": 2,
+          "rate_pct": 2.04
+        },
+        "2004": {
+          "documents": 149,
+          "with_term": 5,
+          "rate_pct": 3.36
+        },
+        "2005": {
+          "documents": 286,
+          "with_term": 5,
+          "rate_pct": 1.75
+        },
+        "2006": {
+          "documents": 239,
+          "with_term": 8,
+          "rate_pct": 3.35
+        },
+        "2007": {
+          "documents": 322,
+          "with_term": 9,
+          "rate_pct": 2.8
+        },
+        "2008": {
+          "documents": 392,
+          "with_term": 19,
+          "rate_pct": 4.85
+        },
+        "2009": {
+          "documents": 503,
+          "with_term": 18,
+          "rate_pct": 3.58
+        },
+        "2010": {
+          "documents": 508,
+          "with_term": 9,
+          "rate_pct": 1.77
+        },
+        "2011": {
+          "documents": 626,
+          "with_term": 12,
+          "rate_pct": 1.92
+        },
+        "2012": {
+          "documents": 548,
+          "with_term": 15,
+          "rate_pct": 2.74
+        },
+        "2013": {
+          "documents": 486,
+          "with_term": 15,
+          "rate_pct": 3.09
+        },
+        "2014": {
+          "documents": 598,
+          "with_term": 16,
+          "rate_pct": 2.68
+        },
+        "2015": {
+          "documents": 664,
+          "with_term": 24,
+          "rate_pct": 3.61
+        },
+        "2016": {
+          "documents": 618,
+          "with_term": 17,
+          "rate_pct": 2.75
+        },
+        "2017": {
+          "documents": 632,
+          "with_term": 17,
+          "rate_pct": 2.69
+        },
+        "2018": {
+          "documents": 717,
+          "with_term": 20,
+          "rate_pct": 2.79
+        },
+        "2019": {
+          "documents": 694,
+          "with_term": 28,
+          "rate_pct": 4.03
+        },
+        "2020": {
+          "documents": 663,
+          "with_term": 15,
+          "rate_pct": 2.26
+        },
+        "2021": {
+          "documents": 685,
+          "with_term": 17,
+          "rate_pct": 2.48
+        },
+        "2022": {
+          "documents": 678,
+          "with_term": 17,
+          "rate_pct": 2.51
+        },
+        "2023": {
+          "documents": 756,
+          "with_term": 9,
+          "rate_pct": 1.19
+        },
+        "2024": {
+          "documents": 714,
+          "with_term": 15,
+          "rate_pct": 2.1
+        },
+        "2025": {
+          "documents": 703,
+          "with_term": 23,
+          "rate_pct": 3.27
+        }
+      },
+      "peak_year_of_rate": 2001,
+      "peak_rate_pct": 4.76,
+      "mean_rate_pct": 2.01
+    },
+    "AS-J equivalence": {
+      "series": {
+        "1975": {
+          "documents": 55,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1976": {
+          "documents": 53,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1977": {
+          "documents": 50,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1978": {
+          "documents": 47,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1979": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1980": {
+          "documents": 33,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1981": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1982": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1983": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1984": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1985": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1986": {
+          "documents": 37,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1987": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1988": {
+          "documents": 43,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1989": {
+          "documents": 42,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1990": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1991": {
+          "documents": 41,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1992": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1993": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1994": {
+          "documents": 41,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1995": {
+          "documents": 55,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1996": {
+          "documents": 65,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1997": {
+          "documents": 49,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1998": {
+          "documents": 50,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1999": {
+          "documents": 48,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2000": {
+          "documents": 54,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2001": {
+          "documents": 42,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2002": {
+          "documents": 46,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2003": {
+          "documents": 49,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2004": {
+          "documents": 49,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2005": {
+          "documents": 41,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2006": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2007": {
+          "documents": 54,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2008": {
+          "documents": 62,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2009": {
+          "documents": 87,
+          "with_term": 2,
+          "rate_pct": 2.3
+        },
+        "2010": {
+          "documents": 73,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2011": {
+          "documents": 96,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2012": {
+          "documents": 91,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2013": {
+          "documents": 91,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2014": {
+          "documents": 99,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2015": {
+          "documents": 78,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2016": {
+          "documents": 79,
+          "with_term": 1,
+          "rate_pct": 1.27
+        },
+        "2017": {
+          "documents": 50,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2018": {
+          "documents": 53,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2019": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2020": {
+          "documents": 56,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2021": {
+          "documents": 57,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2022": {
+          "documents": 56,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2023": {
+          "documents": 58,
+          "with_term": 2,
+          "rate_pct": 3.45
+        },
+        "2024": {
+          "documents": 53,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2025": {
+          "documents": 52,
+          "with_term": 0,
+          "rate_pct": 0.0
+        }
+      },
+      "peak_year_of_rate": 2022,
+      "peak_rate_pct": 1.15,
+      "mean_rate_pct": 0.14
+    },
+    "TS-J adaptation": {
+      "series": {
+        "1978": {
+          "documents": 43,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1980": {
+          "documents": 19,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1982": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1983": {
+          "documents": 34,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1984": {
+          "documents": 45,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1985": {
+          "documents": 23,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1986": {
+          "documents": 22,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1987": {
+          "documents": 15,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1988": {
+          "documents": 26,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1989": {
+          "documents": 23,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1990": {
+          "documents": 25,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1991": {
+          "documents": 22,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1992": {
+          "documents": 143,
+          "with_term": 1,
+          "rate_pct": 0.7
+        },
+        "1993": {
+          "documents": 139,
+          "with_term": 1,
+          "rate_pct": 0.72
+        },
+        "1994": {
+          "documents": 130,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1995": {
+          "documents": 114,
+          "with_term": 1,
+          "rate_pct": 0.88
+        },
+        "1996": {
+          "documents": 98,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1997": {
+          "documents": 100,
+          "with_term": 1,
+          "rate_pct": 1.0
+        },
+        "1998": {
+          "documents": 120,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1999": {
+          "documents": 89,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2000": {
+          "documents": 129,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2001": {
+          "documents": 106,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2002": {
+          "documents": 88,
+          "with_term": 2,
+          "rate_pct": 2.27
+        },
+        "2003": {
+          "documents": 98,
+          "with_term": 6,
+          "rate_pct": 6.12
+        },
+        "2004": {
+          "documents": 149,
+          "with_term": 3,
+          "rate_pct": 2.01
+        },
+        "2005": {
+          "documents": 286,
+          "with_term": 6,
+          "rate_pct": 2.1
+        },
+        "2006": {
+          "documents": 239,
+          "with_term": 6,
+          "rate_pct": 2.51
+        },
+        "2007": {
+          "documents": 322,
+          "with_term": 6,
+          "rate_pct": 1.86
+        },
+        "2008": {
+          "documents": 392,
+          "with_term": 7,
+          "rate_pct": 1.79
+        },
+        "2009": {
+          "documents": 503,
+          "with_term": 4,
+          "rate_pct": 0.8
+        },
+        "2010": {
+          "documents": 508,
+          "with_term": 7,
+          "rate_pct": 1.38
+        },
+        "2011": {
+          "documents": 626,
+          "with_term": 8,
+          "rate_pct": 1.28
+        },
+        "2012": {
+          "documents": 548,
+          "with_term": 11,
+          "rate_pct": 2.01
+        },
+        "2013": {
+          "documents": 486,
+          "with_term": 9,
+          "rate_pct": 1.85
+        },
+        "2014": {
+          "documents": 598,
+          "with_term": 11,
+          "rate_pct": 1.84
+        },
+        "2015": {
+          "documents": 664,
+          "with_term": 8,
+          "rate_pct": 1.2
+        },
+        "2016": {
+          "documents": 618,
+          "with_term": 17,
+          "rate_pct": 2.75
+        },
+        "2017": {
+          "documents": 632,
+          "with_term": 13,
+          "rate_pct": 2.06
+        },
+        "2018": {
+          "documents": 717,
+          "with_term": 31,
+          "rate_pct": 4.32
+        },
+        "2019": {
+          "documents": 694,
+          "with_term": 14,
+          "rate_pct": 2.02
+        },
+        "2020": {
+          "documents": 663,
+          "with_term": 11,
+          "rate_pct": 1.66
+        },
+        "2021": {
+          "documents": 685,
+          "with_term": 13,
+          "rate_pct": 1.9
+        },
+        "2022": {
+          "documents": 678,
+          "with_term": 20,
+          "rate_pct": 2.95
+        },
+        "2023": {
+          "documents": 756,
+          "with_term": 15,
+          "rate_pct": 1.98
+        },
+        "2024": {
+          "documents": 714,
+          "with_term": 18,
+          "rate_pct": 2.52
+        },
+        "2025": {
+          "documents": 703,
+          "with_term": 31,
+          "rate_pct": 4.41
+        }
+      },
+      "peak_year_of_rate": 2003,
+      "peak_rate_pct": 3.47,
+      "mean_rate_pct": 1.28
+    },
+    "AS-J translation": {
+      "series": {
+        "1975": {
+          "documents": 55,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1976": {
+          "documents": 53,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1977": {
+          "documents": 50,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1978": {
+          "documents": 47,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1979": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1980": {
+          "documents": 33,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1981": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1982": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1983": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1984": {
+          "documents": 40,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1985": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1986": {
+          "documents": 37,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1987": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1988": {
+          "documents": 43,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1989": {
+          "documents": 42,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1990": {
+          "documents": 38,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1991": {
+          "documents": 41,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1992": {
+          "documents": 44,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1993": {
+          "documents": 39,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1994": {
+          "documents": 41,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1995": {
+          "documents": 55,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1996": {
+          "documents": 65,
+          "with_term": 1,
+          "rate_pct": 1.54
+        },
+        "1997": {
+          "documents": 49,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1998": {
+          "documents": 50,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "1999": {
+          "documents": 48,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2000": {
+          "documents": 54,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2001": {
+          "documents": 42,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2002": {
+          "documents": 46,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2003": {
+          "documents": 49,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2004": {
+          "documents": 49,
+          "with_term": 1,
+          "rate_pct": 2.04
+        },
+        "2005": {
+          "documents": 41,
+          "with_term": 1,
+          "rate_pct": 2.44
+        },
+        "2006": {
+          "documents": 44,
+          "with_term": 2,
+          "rate_pct": 4.55
+        },
+        "2007": {
+          "documents": 54,
+          "with_term": 3,
+          "rate_pct": 5.56
+        },
+        "2008": {
+          "documents": 62,
+          "with_term": 0,
+          "rate_pct": 0.0
+        },
+        "2009": {
+          "documents": 87,
+          "with_term": 8,
+          "rate_pct": 9.2
+        },
+        "2010": {
+          "documents": 73,
+          "with_term": 4,
+          "rate_pct": 5.48
+        },
+        "2011": {
+          "documents": 96,
+          "with_term": 12,
+          "rate_pct": 12.5
+        },
+        "2012": {
+          "documents": 91,
+          "with_term": 2,
+          "rate_pct": 2.2
+        },
+        "2013": {
+          "documents": 91,
+          "with_term": 3,
+          "rate_pct": 3.3
+        },
+        "2014": {
+          "documents": 99,
+          "with_term": 6,
+          "rate_pct": 6.06
+        },
+        "2015": {
+          "documents": 78,
+          "with_term": 3,
+          "rate_pct": 3.85
+        },
+        "2016": {
+          "documents": 79,
+          "with_term": 10,
+          "rate_pct": 12.66
+        },
+        "2017": {
+          "documents": 50,
+          "with_term": 1,
+          "rate_pct": 2.0
+        },
+        "2018": {
+          "documents": 53,
+          "with_term": 8,
+          "rate_pct": 15.09
+        },
+        "2019": {
+          "documents": 40,
+          "with_term": 8,
+          "rate_pct": 20.0
+        },
+        "2020": {
+          "documents": 56,
+          "with_term": 6,
+          "rate_pct": 10.71
+        },
+        "2021": {
+          "documents": 57,
+          "with_term": 2,
+          "rate_pct": 3.51
+        },
+        "2022": {
+          "documents": 56,
+          "with_term": 4,
+          "rate_pct": 7.14
+        },
+        "2023": {
+          "documents": 58,
+          "with_term": 1,
+          "rate_pct": 1.72
+        },
+        "2024": {
+          "documents": 53,
+          "with_term": 1,
+          "rate_pct": 1.89
+        },
+        "2025": {
+          "documents": 52,
+          "with_term": 1,
+          "rate_pct": 1.92
+        }
+      },
+      "peak_year_of_rate": 2019,
+      "peak_rate_pct": 15.27,
+      "mean_rate_pct": 2.65
+    }
+  },
+  "R2_fidelity_lag_years": 13,
+  "R3_rpys": {
+    "TS-J": {
+      "foundational_peaks_1900_1990": [
+        {
+          "year": 1978,
+          "references": 1824,
+          "deviation": 391
+        },
+        {
+          "year": 1981,
+          "references": 2055,
+          "deviation": 222
+        },
+        {
+          "year": 1959,
+          "references": 666,
+          "deviation": 211
+        },
+        {
+          "year": 1986,
+          "references": 2684,
+          "deviation": 202
+        },
+        {
+          "year": 1972,
+          "references": 1067,
+          "deviation": 178
+        },
+        {
+          "year": 1985,
+          "references": 2482,
+          "deviation": 140
+        },
+        {
+          "year": 1964,
+          "references": 733,
+          "deviation": 132
+        },
+        {
+          "year": 1969,
+          "references": 929,
+          "deviation": 127
+        },
+        {
+          "year": 1975,
+          "references": 1297,
+          "deviation": 107
+        },
+        {
+          "year": 1935,
+          "references": 190,
+          "deviation": 59
+        },
+        {
+          "year": 1948,
+          "references": 228,
+          "deviation": 38
+        },
+        {
+          "year": 1968,
+          "references": 802,
+          "deviation": 27
+        }
+      ],
+      "full_series": {
+        "1900": 85,
+        "1901": 53,
+        "1902": 70,
+        "1903": 61,
+        "1904": 88,
+        "1905": 95,
+        "1906": 61,
+        "1907": 79,
+        "1908": 61,
+        "1909": 76,
+        "1910": 71,
+        "1911": 88,
+        "1912": 76,
+        "1913": 90,
+        "1914": 85,
+        "1915": 75,
+        "1916": 75,
+        "1917": 71,
+        "1918": 73,
+        "1919": 81,
+        "1920": 89,
+        "1921": 119,
+        "1922": 120,
+        "1923": 118,
+        "1924": 116,
+        "1925": 109,
+        "1926": 110,
+        "1927": 136,
+        "1928": 147,
+        "1929": 157,
+        "1930": 93,
+        "1931": 141,
+        "1932": 133,
+        "1933": 130,
+        "1934": 141,
+        "1935": 190,
+        "1936": 120,
+        "1937": 131,
+        "1938": 123,
+        "1939": 131,
+        "1940": 127,
+        "1941": 116,
+        "1942": 97,
+        "1943": 100,
+        "1944": 122,
+        "1945": 137,
+        "1946": 180,
+        "1947": 187,
+        "1948": 228,
+        "1949": 203,
+        "1950": 190,
+        "1951": 202,
+        "1952": 276,
+        "1953": 284,
+        "1954": 251,
+        "1955": 327,
+        "1956": 349,
+        "1957": 382,
+        "1958": 461,
+        "1959": 666,
+        "1960": 455,
+        "1961": 357,
+        "1962": 469,
+        "1963": 577,
+        "1964": 733,
+        "1965": 724,
+        "1966": 601,
+        "1967": 718,
+        "1968": 802,
+        "1969": 929,
+        "1970": 775,
+        "1971": 889,
+        "1972": 1067,
+        "1973": 993,
+        "1974": 886,
+        "1975": 1297,
+        "1976": 1190,
+        "1977": 1391,
+        "1978": 1824,
+        "1979": 1433,
+        "1980": 1833,
+        "1981": 2055,
+        "1982": 1843,
+        "1983": 1682,
+        "1984": 2342,
+        "1985": 2482,
+        "1986": 2684,
+        "1987": 2226,
+        "1988": 2902,
+        "1989": 3330,
+        "1990": 3878,
+        "1991": 4049,
+        "1992": 4754,
+        "1993": 4163,
+        "1994": 4281,
+        "1995": 5812,
+        "1996": 5370,
+        "1997": 6625,
+        "1998": 7117,
+        "1999": 6451,
+        "2000": 8510,
+        "2001": 7648,
+        "2002": 7989,
+        "2003": 8392,
+        "2004": 10007,
+        "2005": 10075,
+        "2006": 10179,
+        "2007": 10447,
+        "2008": 10339,
+        "2009": 10834,
+        "2010": 10639,
+        "2011": 10061,
+        "2012": 10694,
+        "2013": 9457,
+        "2014": 9455,
+        "2015": 8942,
+        "2016": 8859,
+        "2017": 9157,
+        "2018": 8126,
+        "2019": 7440,
+        "2020": 6793,
+        "2021": 5417,
+        "2022": 4563,
+        "2023": 3725,
+        "2024": 2415,
+        "2025": 912
+      },
+      "full_deviation": {
+        "1900": 15,
+        "1901": -8,
+        "1902": 0,
+        "1903": -9,
+        "1904": 18,
+        "1905": 16,
+        "1906": -18,
+        "1907": 3,
+        "1908": -10,
+        "1909": 0,
+        "1910": -5,
+        "1911": 12,
+        "1912": -9,
+        "1913": 5,
+        "1914": 9,
+        "1915": 0,
+        "1916": 0,
+        "1917": -4,
+        "1918": -2,
+        "1919": 0,
+        "1920": 0,
+        "1921": 1,
+        "1922": 2,
+        "1923": 0,
+        "1924": 0,
+        "1925": -7,
+        "1926": -6,
+        "1927": 0,
+        "1928": 11,
+        "1929": 16,
+        "1930": -48,
+        "1931": 8,
+        "1932": 0,
+        "1933": -11,
+        "1934": 8,
+        "1935": 59,
+        "1936": -11,
+        "1937": 0,
+        "1938": -4,
+        "1939": 4,
+        "1940": 4,
+        "1941": 0,
+        "1942": -19,
+        "1943": -16,
+        "1944": 0,
+        "1945": 0,
+        "1946": 0,
+        "1947": 0,
+        "1948": 38,
+        "1949": 1,
+        "1950": -13,
+        "1951": -1,
+        "1952": 25,
+        "1953": 8,
+        "1954": -33,
+        "1955": 0,
+        "1956": 0,
+        "1957": 0,
+        "1958": 6,
+        "1959": 211,
+        "1960": -6,
+        "1961": -112,
+        "1962": 0,
+        "1963": 0,
+        "1964": 132,
+        "1965": 6,
+        "1966": -123,
+        "1967": -6,
+        "1968": 27,
+        "1969": 127,
+        "1970": -114,
+        "1971": -40,
+        "1972": 178,
+        "1973": 0,
+        "1974": -181,
+        "1975": 107,
+        "1976": -107,
+        "1977": 0,
+        "1978": 391,
+        "1979": -391,
+        "1980": 0,
+        "1981": 222,
+        "1982": 0,
+        "1983": -373,
+        "1984": 0,
+        "1985": 140,
+        "1986": 202,
+        "1987": -458,
+        "1988": 0,
+        "1989": 0,
+        "1990": 0,
+        "1991": 0,
+        "1992": 591,
+        "1993": -118,
+        "1994": -473,
+        "1995": 442,
+        "1996": -442,
+        "1997": 174,
+        "1998": 492,
+        "1999": -666,
+        "2000": 862,
+        "2001": -341,
+        "2002": -403,
+        "2003": 0,
+        "2004": 0,
+        "2005": 0,
+        "2006": 0,
+        "2007": 108,
+        "2008": -108,
+        "2009": 387,
+        "2010": 0,
+        "2011": -578,
+        "2012": 633,
+        "2013": 0,
+        "2014": 0,
+        "2015": -215,
+        "2016": -83,
+        "2017": 298,
+        "2018": 0,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      }
+    },
+    "AS-J": {
+      "foundational_peaks_1900_1990": [
+        {
+          "year": 1977,
+          "references": 554,
+          "deviation": 80
+        },
+        {
+          "year": 1984,
+          "references": 573,
+          "deviation": 76
+        },
+        {
+          "year": 1957,
+          "references": 199,
+          "deviation": 73
+        },
+        {
+          "year": 1960,
+          "references": 187,
+          "deviation": 39
+        },
+        {
+          "year": 1948,
+          "references": 147,
+          "deviation": 36
+        },
+        {
+          "year": 1980,
+          "references": 542,
+          "deviation": 36
+        },
+        {
+          "year": 1974,
+          "references": 496,
+          "deviation": 31
+        },
+        {
+          "year": 1985,
+          "references": 542,
+          "deviation": 30
+        },
+        {
+          "year": 1968,
+          "references": 312,
+          "deviation": 27
+        },
+        {
+          "year": 1931,
+          "references": 102,
+          "deviation": 25
+        },
+        {
+          "year": 1944,
+          "references": 107,
+          "deviation": 25
+        },
+        {
+          "year": 1900,
+          "references": 33,
+          "deviation": 24
+        }
+      ],
+      "full_series": {
+        "1900": 33,
+        "1901": 9,
+        "1902": 10,
+        "1903": 8,
+        "1904": 7,
+        "1905": 13,
+        "1906": 12,
+        "1907": 12,
+        "1908": 22,
+        "1909": 17,
+        "1910": 18,
+        "1911": 13,
+        "1912": 13,
+        "1913": 15,
+        "1914": 19,
+        "1915": 34,
+        "1916": 26,
+        "1917": 8,
+        "1918": 18,
+        "1919": 20,
+        "1920": 42,
+        "1921": 14,
+        "1922": 50,
+        "1923": 28,
+        "1924": 35,
+        "1925": 54,
+        "1926": 57,
+        "1927": 53,
+        "1928": 40,
+        "1929": 50,
+        "1930": 52,
+        "1931": 102,
+        "1932": 77,
+        "1933": 94,
+        "1934": 101,
+        "1935": 104,
+        "1936": 85,
+        "1937": 73,
+        "1938": 67,
+        "1939": 73,
+        "1940": 68,
+        "1941": 91,
+        "1942": 75,
+        "1943": 77,
+        "1944": 107,
+        "1945": 82,
+        "1946": 103,
+        "1947": 107,
+        "1948": 147,
+        "1949": 146,
+        "1950": 111,
+        "1951": 135,
+        "1952": 109,
+        "1953": 120,
+        "1954": 138,
+        "1955": 126,
+        "1956": 116,
+        "1957": 199,
+        "1958": 123,
+        "1959": 142,
+        "1960": 187,
+        "1961": 148,
+        "1962": 179,
+        "1963": 167,
+        "1964": 221,
+        "1965": 225,
+        "1966": 246,
+        "1967": 285,
+        "1968": 312,
+        "1969": 285,
+        "1970": 320,
+        "1971": 470,
+        "1972": 448,
+        "1973": 465,
+        "1974": 496,
+        "1975": 474,
+        "1976": 462,
+        "1977": 554,
+        "1978": 455,
+        "1979": 522,
+        "1980": 542,
+        "1981": 506,
+        "1982": 497,
+        "1983": 454,
+        "1984": 573,
+        "1985": 542,
+        "1986": 490,
+        "1987": 512,
+        "1988": 615,
+        "1989": 614,
+        "1990": 625,
+        "1991": 666,
+        "1992": 716,
+        "1993": 694,
+        "1994": 665,
+        "1995": 706,
+        "1996": 813,
+        "1997": 923,
+        "1998": 734,
+        "1999": 941,
+        "2000": 1139,
+        "2001": 827,
+        "2002": 951,
+        "2003": 870,
+        "2004": 810,
+        "2005": 1050,
+        "2006": 1064,
+        "2007": 1231,
+        "2008": 1075,
+        "2009": 892,
+        "2010": 925,
+        "2011": 939,
+        "2012": 1018,
+        "2013": 973,
+        "2014": 1030,
+        "2015": 793,
+        "2016": 742,
+        "2017": 809,
+        "2018": 623,
+        "2019": 581,
+        "2020": 479,
+        "2021": 344,
+        "2022": 326,
+        "2023": 220,
+        "2024": 255,
+        "2025": 135
+      },
+      "full_deviation": {
+        "1900": 24,
+        "1901": 0,
+        "1902": 1,
+        "1903": -1,
+        "1904": -3,
+        "1905": 1,
+        "1906": 0,
+        "1907": -1,
+        "1908": 5,
+        "1909": 0,
+        "1910": 1,
+        "1911": -2,
+        "1912": -2,
+        "1913": 0,
+        "1914": 0,
+        "1915": 15,
+        "1916": 7,
+        "1917": -12,
+        "1918": -2,
+        "1919": 2,
+        "1920": 22,
+        "1921": -14,
+        "1922": 15,
+        "1923": -7,
+        "1924": -15,
+        "1925": 1,
+        "1926": 4,
+        "1927": 0,
+        "1928": -12,
+        "1929": -2,
+        "1930": 0,
+        "1931": 25,
+        "1932": -17,
+        "1933": -7,
+        "1934": 7,
+        "1935": 10,
+        "1936": 0,
+        "1937": 0,
+        "1938": -6,
+        "1939": 0,
+        "1940": -5,
+        "1941": 16,
+        "1942": -2,
+        "1943": -5,
+        "1944": 25,
+        "1945": -21,
+        "1946": -4,
+        "1947": 0,
+        "1948": 36,
+        "1949": 11,
+        "1950": -24,
+        "1951": 15,
+        "1952": -11,
+        "1953": -6,
+        "1954": 18,
+        "1955": 0,
+        "1956": -10,
+        "1957": 73,
+        "1958": -19,
+        "1959": -6,
+        "1960": 39,
+        "1961": -19,
+        "1962": 0,
+        "1963": -12,
+        "1964": 0,
+        "1965": 0,
+        "1966": 0,
+        "1967": 0,
+        "1968": 27,
+        "1969": -27,
+        "1970": 0,
+        "1971": 22,
+        "1972": -17,
+        "1973": -5,
+        "1974": 31,
+        "1975": 0,
+        "1976": -12,
+        "1977": 80,
+        "1978": -67,
+        "1979": 0,
+        "1980": 36,
+        "1981": 0,
+        "1982": -9,
+        "1983": -52,
+        "1984": 76,
+        "1985": 30,
+        "1986": -52,
+        "1987": -30,
+        "1988": 1,
+        "1989": -1,
+        "1990": 0,
+        "1991": 0,
+        "1992": 50,
+        "1993": 0,
+        "1994": -41,
+        "1995": 0,
+        "1996": 79,
+        "1997": 110,
+        "1998": -189,
+        "1999": 18,
+        "2000": 198,
+        "2001": -114,
+        "2002": 81,
+        "2003": 0,
+        "2004": -141,
+        "2005": 0,
+        "2006": 0,
+        "2007": 167,
+        "2008": 11,
+        "2009": -47,
+        "2010": -14,
+        "2011": 0,
+        "2012": 45,
+        "2013": 0,
+        "2014": 57,
+        "2015": -16,
+        "2016": -51,
+        "2017": 67,
+        "2018": 0,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": -35,
+        "2024": 35,
+        "2025": 0
+      }
+    }
+  },
+  "R3_peak_works": {
+    "TS-J": {
+      "1959": {
+        "JAKOBSON R. | LINGUISTIC ASPECTS T": 117,
+        "JAKOBSON ROMAN. | TRANSLATION": 96,
+        "FERGUSON CA | WORD": 12,
+        "BROWER R.A. | TRANSLATION": 9,
+        "[ANONYMOUS] | TRANSLATION": 9
+      },
+      "1958": {
+        "VINAY JEAN-PIERRE. | STYLISTIQUE COMPAREE": 68,
+        "GOLDMANEISLER F | LANG SPEECH": 8,
+        "LOH D. -Y. | TRANSLATION: ITS PRINCIPLES AND TECHNIQUES": 7,
+        "HOCKETT C. | A COURSE IN MODERN LINGUISTICS": 5,
+        "LEVI-STRAUSS CLAUDE. | ANTHR STRUCTURALE": 4
+      },
+      "1972": {
+        "HOLMES J.S. | TRANSLATED! PAPERS ON LITERARY TRANSLATION AND TRANSLATION STUDIES": 42,
+        "VINAY JEAN-PAUL. | STYLISTIQUE COMPAREE DU FRANCAIS ET DE L'ANGLAIS: METHODE DE TRADUCTION": 36,
+        "GOLDMANE.F | J PSYCHOLINGUIST RES": 26,
+        "HOLMES J. | THE NAME AND NATURE OF TRANSLATION STUDIES": 24,
+        "HOLMES J. | TRANSL STUD": 17
+      },
+      "1978": {
+        "HALLIDAY M.A.K. | LANGUAGE SOCIAL SEMI": 62,
+        "MOSER B. | LANGUAGE INTERPRETAT": 40,
+        "BROWN PENELOPE. | POLITENESS: SOME UNIVERSALS IN LANGUAGE USAGE": 36,
+        "HARRIS B. | LANGUAGE INTERPRETATION AND COMMUNICATION": 32,
+        "VYGOTSKY L.S. | MIND IN SOCIETY: THE DEVELOPMENT OF HIGHER PSYCHOLOGICAL PROCESSES": 26
+      }
+    },
+    "AS-J": {
+      "1957": {
+        "BLUESTONE GEORGE. | NOVELS FILM": 34,
+        "FRYE NORTHROP. | ANATOMY CRITICISM": 8,
+        "KUROSAWA AKIRA | ZENSHU KUROSAWA AKIR": 3,
+        "KIRSCHNER PAUL | Q FILM RADIO TELEVIS": 3,
+        "ROHMER ERIC. | HITCHCOCK": 3
+      },
+      "1975": {
+        "WAGNER GEOFFREYATHELING. | THE NOVEL AND THE CINEMA": 24,
+        "BARTHES ROLAND. | THE PLEASURE OF THE TEXT": 6,
+        "ANDEREGG MA | LIT-FILM QUART": 4,
+        "KERR WALTER. | SILENT CLOWNS": 4,
+        "TODOROV T. | THE FANTASTIC: A STRUCTURAL APPROACH TO A LITERARY GENRE": 3
+      },
+      "1977": {
+        "[ANONYMOUS] | SHAKESPEARE FILM": 29,
+        "BARTHES ROLAND | IMAGE MUSIC TEXT": 15,
+        "LUCAS G. | STAR WARS": 6,
+        "HARRINGTON J. | FILM AN AS LITERATURE": 6,
+        "JORGENS JACK. | SHAKESPEARE ON FILM": 5
+      },
+      "1984": {
+        "ANDREW DUDLEY. | CONCEPTS FILM THEORY": 42,
+        "JAMESON F | NEW LEFT REV": 10,
+        "LYOTARD JEAN-FRANCOIS. | POSTMODERN CONDITION": 7,
+        "DE LAURETIS TERESA. | ALICE DOESNT FEMINIS": 6,
+        "RICHIE D | FILMS A KUROSAWA": 6
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+corpus,author,references,citing_documents,pct_of_corpus,per_10k_parsed_references
+TS-J,"Jakobson, Roman",438,414,2.9,13.75
+TS-J,"Bluestone, George",1,1,0.01,0.03
+TS-J,"Hutcheon, Linda",72,68,0.48,2.26
+AS-J,"Jakobson, Roman",18,17,0.62,4.08
+AS-J,"Bluestone, George",79,77,2.79,17.9
+AS-J,"Hutcheon, Linda",346,321,11.62,78.41
+AS-T,"Jakobson, Roman",170,148,0.8,2.71
+AS-T,"Bluestone, George",175,175,0.94,2.79
+AS-T,"Hutcheon, Linda",1426,1321,7.12,22.71

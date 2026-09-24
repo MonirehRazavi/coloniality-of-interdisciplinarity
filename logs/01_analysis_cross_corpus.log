@@ -1,0 +1,226 @@
+==============================================================================
+STEP 0 — Loading corpora and re-verifying counts against the frozen searches
+==============================================================================
+  TS-J    files= 29  raw= 14259  unique= 14258
+  AS-J    files=  6  raw=  2763  unique=  2763
+  AS-T    files= 38  raw= 18566  unique= 18566
+  TS-J: loaded 14258 / expected 14258 -> OK
+  AS-J: loaded 2763 / expected 2763 -> OK
+  AS-T: loaded 18566 / expected 18566 -> OK
+
+==============================================================================
+STEP 1 — Deriving journal abbreviations from the corpora themselves
+==============================================================================
+  AS journal source forms (6):
+      ADAPTATION-THE JOURNAL OF LITERATURE ON SCREEN STUDIES  (n=511)
+      ADAPTATION-UK  (n=511)
+      J ADAPT FILM PERFORM  (n=480)
+      JOURNAL OF ADAPTATION IN FILM & PERFORMANCE  (n=480)
+      LIT-FILM QUART  (n=1772)
+      LITERATURE-FILM QUARTERLY  (n=1772)
+  TS journal source forms (36) — first 12 shown:
+      ACROSS LANG CULT  (n=353)
+      ACROSS LANGUAGES AND CULTURES  (n=353)
+      BABEL-AMSTERDAM  (n=768)
+      BABEL-REVUE INTERNATIONALE DE LA TRADUCTION-INTERNATIONAL JOURNAL OF TRANSLATION  (n=768)
+      CAD TRADUCAO  (n=1385)
+      CADERNOS DE TRADUCAO  (n=1385)
+      FORUM-REV INT INTERP  (n=408)
+      FORUM-REVUE INTERNATIONALE D INTERPRETATION ET DE TRADUCTION-INTERNATIONAL JOURNAL OF INTERPRETATION AND TRANSLATION  (n=408)
+      INTERPRET TRANSL TRA  (n=533)
+      INTERPRETER AND TRANSLATOR TRAINER  (n=533)
+      INTERPRETING  (n=614)
+      J SPEC TRANSL  (n=837)
+
+==============================================================================
+STEP 2 — Parsing cited references; reporting parse rate (§6.4 match rate)
+==============================================================================
+  TS-J: 318,442 of 333,707 references parsed (95.4%); 15,265 unparseable
+  AS-J: 44,126 of 48,954 references parsed (90.1%); 4,828 unparseable
+  AS-T: 627,992 of 660,554 references parsed (95.1%); 32,562 unparseable
+
+==============================================================================
+STEP 3 — §6.4(a) The term 'adaptation' in TS-J: title, abstract, keywords
+==============================================================================
+  TS-J records: 14,258
+  mentioning 'adaptation' anywhere (TI/AB/DE/ID): 293  (2.05%)
+  with 'adaptation' in title: 60  (0.42%)
+  with 'adaptation' as author keyword: 116  (0.81%)
+  mentioning the phrase 'adaptation studies': 11  (0.08%)
+  with 'adaptation studies' in title/abstract/keywords (vD&R replication): 11  (0.08%)
+
+==============================================================================
+STEP 4 — §6.4(b,c) Canon matching, with benchmark comparison classes
+==============================================================================
+
+  (b) AS canon inside TS-J:
+      Hutcheon, Linda            refs=   72  docs=   68  (0.48% of TS-J)
+      Cattrysse, Patrick         refs=   31  docs=   26  (0.18% of TS-J)
+      Stam, Robert               refs=   25  docs=   20  (0.14% of TS-J)
+      Sanders, Julie             refs=   17  docs=   15  (0.10% of TS-J)
+      Leitch, Thomas             refs=   12  docs=   11  (0.08% of TS-J)
+      Elliott, Kamilla           refs=    9  docs=    6  (0.04% of TS-J)
+      Murray, Simone             refs=    8  docs=    8  (0.06% of TS-J)
+      Andrew, Dudley             refs=    7  docs=    6  (0.04% of TS-J)
+      Corrigan, Timothy          refs=    7  docs=    6  (0.04% of TS-J)
+      Bruhn, Jorgen              refs=    5  docs=    3  (0.02% of TS-J)
+      McFarlane, Brian           refs=    4  docs=    4  (0.03% of TS-J)
+      Cohen, Keith               refs=    3  docs=    3  (0.02% of TS-J)
+      Naremore, James            refs=    2  docs=    2  (0.01% of TS-J)
+      Aragay, Mireia             refs=    2  docs=    2  (0.01% of TS-J)
+      Whelehan, Imelda           refs=    2  docs=    2  (0.01% of TS-J)
+      Bluestone, George          refs=    1  docs=    1  (0.01% of TS-J)
+      Cardwell, Sarah            refs=    1  docs=    1  (0.01% of TS-J)
+      Hermansson, Casie          refs=    1  docs=    1  (0.01% of TS-J)
+      Boozer, Jack               refs=    1  docs=    1  (0.01% of TS-J)
+      Geraghty, Christine        refs=    0  docs=    0  (0.00% of TS-J)
+    TOTAL: {'references': 210, 'citing_documents': 134, 'pct_of_corpus_documents': 0.94, 'per_10k_references': 6.6}
+
+  MIRROR — TS canon inside AS-J:
+      Venuti, Lawrence           refs=   29  docs=   21  (0.76% of AS-J)
+      Jakobson, Roman            refs=   18  docs=   17  (0.61% of AS-J)
+      Lefevere, Andre            refs=   15  docs=   13  (0.47% of AS-J)
+      Toury, Gideon              refs=   11  docs=   10  (0.36% of AS-J)
+      Bassnett, Susan            refs=    9  docs=    8  (0.29% of AS-J)
+      Steiner, George            refs=    8  docs=    8  (0.29% of AS-J)
+      Chesterman, Andrew         refs=    7  docs=    5  (0.18% of AS-J)
+      Hermans, Theo              refs=    7  docs=    5  (0.18% of AS-J)
+      Tymoczko, Maria            refs=    7  docs=    4  (0.14% of AS-J)
+      Gambier, Yves              refs=    6  docs=    5  (0.18% of AS-J)
+      Nida, Eugene               refs=    4  docs=    3  (0.11% of AS-J)
+      Baker, Mona                refs=    4  docs=    4  (0.14% of AS-J)
+    TOTAL: {'references': 145, 'citing_documents': 68, 'pct_of_corpus_documents': 2.46, 'per_10k_references': 32.9}
+
+  (c) BENCHMARK — comparison classes inside TS-J:
+      Sociology of translation           refs=  1547  docs=  737  (5.17% of TS-J)
+      Film & media studies               refs=   100  docs=   81  (0.57% of TS-J)
+      Cognitive science / psychology     refs=  2186  docs= 1178  (8.26% of TS-J)
+      Linguistics & pragmatics           refs=  1179  docs=  742  (5.20% of TS-J)
+      Postcolonial & decolonial theory   refs=   460  docs=  339  (2.38% of TS-J)
+      Adaptation Studies canon           refs=   210  docs=  134  (0.94% of TS-J)
+
+==============================================================================
+STEP 5 — §6.5 Directional cross-citation ledger (journal-level)
+==============================================================================
+  TS-J -> AS journals      refs=    40  per10k=    1.26  docs=   35 (0.25%)
+  AS-J -> TS journals      refs=    74  per10k=   16.77  docs=   36 (1.30%)
+  AS-T -> TS journals      refs=   793  per10k=   12.63  docs=  331 (1.78%)
+
+  Asymmetry ratio (AS->TS : TS->AS) = 13.31 : 1
+
+  Author-level, per 10,000 parsed references:
+      AS canon per 10k TS-J refs                                   6.59
+      TS canon per 10k AS-J refs                                  32.86
+      TS canon per 10k AS-T refs                                  20.97
+      AS canon per 10k AS-J refs (self-reference baseline)       429.91
+      TS canon per 10k TS-J refs (self-reference baseline)       490.95
+
+==============================================================================
+STEP 6 — §6.5(b) Kind of citation: definitional apparatus vs case material
+==============================================================================
+  AS-J citing TS: canon=145, journals=74, canon share=66.2%
+  TS-J citing AS: canon=210, journals=40, canon share=84.0%
+
+==============================================================================
+STEP 7 — §6.7 Markedness: bare vs modified forms of each field's own term
+==============================================================================
+  'translation' in TS-J      n=  9291  bare= 92.9%  modified= 28.5%
+      top modifiers: machine, audiovisual, literary, legal, self, indirect
+  'adaptation' in TS-J       n=   292  bare= 86.6%  modified= 22.3%
+      top modifiers: cultural, film, transmedia, stage, comic, cinematic
+  'adaptation' in AS-J       n=   842  bare= 88.0%  modified= 36.7%
+      top modifiers: film, screen, cinematic, literary, television, stage
+  'translation' in AS-J      n=    94  bare= 94.7%  modified= 17.0%
+      top modifiers: intersemiotic, theatre, indirect, free, audiovisual, interlingual
+  'adaptation' in AS-T       n= 18521  bare= 88.7%  modified= 18.7%
+      top modifiers: film, cultural, literary, screen, stage, cinematic
+
+==============================================================================
+STEP 8 — §6.3.4 Estimating residual non-humanities noise in AS-T
+==============================================================================
+  Sample n=400 (seed 20260806)
+  Clearly non-humanities: 19 (4.8%)
+  Clearly humanities/media: 202
+  Ambiguous: 179
+  Estimated noise rate: 4.8% (upper bound incl. ambiguous: 49.5%)
+  Examples classified as non-humanities:
+      - The showcase of salt rocks from Cardona in the Barcelona Natural Sciences Museum: conservation and adaptation 
+      - WHO CONTROLS THE VOICE? The journalistic use and the informational domain in vocal transactors
+      - Community Education for Climate Change Adaptation in Coastal Settlements. Isabela de Sagua
+      - Climate action versus inaction: balancing the costs for Gulf energy exporters
+      - Climates of Change in Northern Kenya and Southern Ethiopia: From Scientific Data to Applied Knowledge
+      - Evolution in Extremist Climate Change Adaptation in Don DeLillo's The Word for Snow
+
+==============================================================================
+STEP 9 — §6.6 Frontier vs core: citation within TS-J's own reference record
+==============================================================================
+  CORE (institutional defaults):
+      Baker, Mona                refs= 1813  docs= 1214
+      Venuti, Lawrence           refs= 1678  docs= 1271
+      Pym, Anthony               refs= 1675  docs= 1212
+      Toury, Gideon              refs= 1351  docs= 1117
+      Chesterman, Andrew         refs= 1064  docs=  807
+      Snell-Hornby, Mary         refs=  412  docs=  349
+      Holmes, James              refs=  263  docs=  245
+  FRONTIER (expansionist critics):
+      Tymoczko, Maria            refs=  700  docs=  521
+      Robinson, Douglas          refs=  478  docs=  365
+      Gentzler, Edwin            refs=  348  docs=  304
+      Marais, Kobus              refs=  226  docs=  127
+      Zwischenberger, Cornelia   refs=  116  docs=   90
+      Blumczynski, Piotr         refs=  102  docs=   79
+      Bennett, Karen             refs=   96  docs=   67
+  REPORTED SEPARATELY (classification ambiguous — see canon.py note):
+      Bassnett, Susan            refs=  818  docs=  643
+
+  Core mean 1179.4 refs/author vs frontier mean 295.1 -> ratio 4.0:1
+
+==============================================================================
+STEP 10 — §6.8 term trajectories and §6.9 reference-year spectroscopy
+==============================================================================
+  TS-J fidelity/faithfulness       median year = 2018  (n=171)
+  TS-J equivalence                 median year = 2016  (n=374)
+  AS-J fidelity/faithfulness       median year = 2015  (n=78)
+  AS-J equivalence                 median year = 2016  (n=5)
+
+  Fidelity lag (AS median - TS median) = -3 years
+
+  RPYS TS-J — top reference-year peaks (deviation from 5-yr median):
+      2000:  8510 refs  (deviation +862)
+      2012: 10694 refs  (deviation +633)
+      1992:  4754 refs  (deviation +591)
+      1998:  7117 refs  (deviation +492)
+      1995:  5812 refs  (deviation +442)
+      1978:  1824 refs  (deviation +391)
+      2009: 10834 refs  (deviation +387)
+      2017:  9157 refs  (deviation +298)
+      1981:  2055 refs  (deviation +222)
+      1959:   666 refs  (deviation +211)
+
+  RPYS AS-J — top reference-year peaks (deviation from 5-yr median):
+      2000:  1139 refs  (deviation +198)
+      2007:  1231 refs  (deviation +167)
+      1997:   923 refs  (deviation +110)
+      2002:   951 refs  (deviation +81)
+      1977:   554 refs  (deviation +80)
+      1996:   813 refs  (deviation +79)
+      1984:   573 refs  (deviation +76)
+      1957:   199 refs  (deviation +73)
+      2017:   809 refs  (deviation +67)
+      2014:  1030 refs  (deviation +57)
+
+==============================================================================
+STEP 11 — §6.9(b) Structural separation: author and cited-source overlap
+==============================================================================
+  TS-J unique authors: 8984
+  AS-J unique authors: 1991
+  authors appearing in both: 107
+  pct_of_AS-J_authors_also_in_TS-J: 5.37
+  pct_of_TS-J_authors_also_in_AS-J: 1.19
+  Top-300 cited-source overlap: 18 of 300
+
+==============================================================================
+Writing consolidated results
+==============================================================================
+  Table 6.1 (founders across corpora) written to 13_founders_across_corpora.json
+Done. Results in ../analysis_outputs/

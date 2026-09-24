@@ -1,0 +1,349 @@
+{
+ "seed": 20260806,
+ "python": "3.11.15",
+ "note": "analysis_three_corpora.py run under each networkx version; networks identical in all; Louvain partition differs. Rows report the cluster containing the other field's term.",
+ "runs": [
+  {
+   "run": "deposited (Aug/Sep 2026)",
+   "TS-J": {
+    "themes": 11,
+    "adaptation_cluster_size": 18,
+    "quadrant": "Emerging/Declining",
+    "density": 0.84,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 8,
+    "adaptation_cluster_size": 83,
+    "quadrant": "Emerging/Declining",
+    "density": 1.52,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.77,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.6.1 (22 Sep rerun)",
+   "TS-J": {
+    "themes": 11,
+    "adaptation_cluster_size": 18,
+    "quadrant": "Emerging/Declining",
+    "density": 0.84,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 8,
+    "adaptation_cluster_size": 81,
+    "quadrant": "Basic/Transversal",
+    "density": 1.54,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.59,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.1",
+   "TS-J": {
+    "themes": 11,
+    "adaptation_cluster_size": 30,
+    "quadrant": "Basic/Transversal",
+    "density": 0.82,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 8,
+    "adaptation_cluster_size": 82,
+    "quadrant": "Emerging/Declining",
+    "density": 1.53,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.74,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.2.1",
+   "TS-J": {
+    "themes": 11,
+    "adaptation_cluster_size": 19,
+    "quadrant": "Emerging/Declining",
+    "density": 0.87,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 9,
+    "adaptation_cluster_size": 77,
+    "quadrant": "Basic/Transversal",
+    "density": 1.57,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.51,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.3",
+   "TS-J": {
+    "themes": 10,
+    "adaptation_cluster_size": 25,
+    "quadrant": "Basic/Transversal",
+    "density": 0.89,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 8,
+    "adaptation_cluster_size": 82,
+    "quadrant": "Basic/Transversal",
+    "density": 1.57,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.58,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.4.1",
+   "TS-J": {
+    "themes": 10,
+    "adaptation_cluster_size": 18,
+    "quadrant": "Emerging/Declining",
+    "density": 0.84,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 8,
+    "adaptation_cluster_size": 80,
+    "quadrant": "Basic/Transversal",
+    "density": 1.54,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.57,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.4.2",
+   "TS-J": {
+    "themes": 11,
+    "adaptation_cluster_size": 18,
+    "quadrant": "Emerging/Declining",
+    "density": 0.84,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 9,
+    "adaptation_cluster_size": 77,
+    "quadrant": "Basic/Transversal",
+    "density": 1.57,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.67,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.5",
+   "TS-J": {
+    "themes": 11,
+    "adaptation_cluster_size": 18,
+    "quadrant": "Emerging/Declining",
+    "density": 0.84,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 9,
+    "adaptation_cluster_size": 76,
+    "quadrant": "Basic/Transversal",
+    "density": 1.57,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.65,
+    "other_sense_clusters": 4
+   }
+  },
+  {
+   "run": "networkx 3.6.0",
+   "TS-J": {
+    "themes": 11,
+    "adaptation_cluster_size": 18,
+    "quadrant": "Emerging/Declining",
+    "density": 0.84,
+    "is_lowest_density": true,
+    "contains": {
+     "literary translation": true,
+     "retranslation": true,
+     "equivalence": true,
+     "intersemiotic translation": true,
+     "rewriting": true,
+     "shakespeare": true
+    }
+   },
+   "AS-J": {
+    "themes": 11,
+    "translation_cluster_size": 23,
+    "quadrant": "Basic/Transversal",
+    "is_largest": true,
+    "contains": {
+     "adaptation": true,
+     "intertextuality": true,
+     "fidelity": true
+    }
+   },
+   "AS-T": {
+    "themes": 8,
+    "adaptation_cluster_size": 81,
+    "quadrant": "Basic/Transversal",
+    "density": 1.53,
+    "is_largest": true,
+    "ratio_to_second_largest": 1.59,
+    "other_sense_clusters": 4
+   }
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "sample_size": 400,
+  "seed": 20260806,
+  "clearly_non_humanities": 19,
+  "clearly_humanities_media": 202,
+  "ambiguous": 179,
+  "estimated_noise_rate_pct": 4.8,
+  "estimated_noise_rate_pct_upper_bound_incl_ambiguous": 49.5,
+  "example_non_humanities_titles": [
+    "The showcase of salt rocks from Cardona in the Barcelona Natural Sciences Museum: conservation and adaptation ",
+    "WHO CONTROLS THE VOICE? The journalistic use and the informational domain in vocal transactors",
+    "Community Education for Climate Change Adaptation in Coastal Settlements. Isabela de Sagua",
+    "Climate action versus inaction: balancing the costs for Gulf energy exporters",
+    "Climates of Change in Northern Kenya and Southern Ethiopia: From Scientific Data to Applied Knowledge",
+    "Evolution in Extremist Climate Change Adaptation in Don DeLillo's The Word for Snow",
+    "Adaptive Planning for Reducing Negative Impacts of Climate Change in Case of Hungarian Cities",
+    "Using Community Nutrition Gardening as Rural Re-Greening and Climate Change Adaptation Strategy",
+    "The trajectories of fervor: horses and non -human geometries in the Palio of Ronciglione",
+    "System of Indicators for the Design and Evaluation of Projects for Adaptation to Climate Change in Coastal Mun",
+    "Emergent methodology: Bridging the ocean tangibility gap with experimental design methods",
+    "Tourism and climate change in Africa"
+  ]
+}

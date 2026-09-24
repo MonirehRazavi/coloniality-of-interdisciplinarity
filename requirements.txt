@@ -1,0 +1,8 @@
+# Versions used for the 22 September 2026 rerun (Python 3.11.15).
+# networkx is pinned because Louvain community detection differs between
+# versions (README, "Reproducibility of the thematic maps"; decision log D19).
+matplotlib==3.10.9
+networkx==3.6.1
+numpy==2.4.4
+squarify==0.4.5
+Pillow==12.2.0

@@ -1,0 +1,57 @@
+Loading corpora ...
+
+==============================================================================
+§6.6 / §6.7 — Keyword networks and thematic maps
+==============================================================================
+
+TS-J: 7,015 documents with >=2 keywords; network 250 nodes / 2132 edges
+  12 themes detected (Louvain, seed 20260806)
+  quadrant                centr     dens  label
+  Basic/Transversal       10.80     2.03  translation, language, english
+  Motor                    8.80     3.99  audiovisual translation, subtitling, dubbing
+  Motor                   11.35     3.75  simultaneous interpreting, performance, translation process
+  Emerging/Declining       3.88     0.83  literary translation, multimodality, retranslation
+  Basic/Transversal        4.56     2.95  machine translation, translator training, quality
+  Basic/Transversal        6.73     2.66  translation competence, competence, interpreters
+  Emerging/Declining       3.23     2.08  ideology, discourse, news translation
+  Basic/Transversal        4.72     1.76  ethics, interpreter training, communication
+  Niche                    1.26     6.83  translation studies, sociology of translation, habitus
+  Niche                    0.81     4.49  legal translation, institutional translation, translation policy
+  Niche                    0.75     4.30  localization, transcreation, video games
+  Niche                    0.57    11.01  domestication, foreignization, cultural references
+  Placement of watched terms:
+      translation                  -> Basic/Transversal    (freq 1130, deg 0.8635, betw 0.4517)
+      adaptation                   -> Emerging/Declining   (freq 83, deg 0.1004, betw 0.0031)
+      equivalence                  -> Emerging/Declining   (freq 53, deg 0.0361, betw 0.0001)
+      interpreting                 -> Basic/Transversal    (freq 135, deg 0.253, betw 0.0183)
+      intersemiotic translation    -> Emerging/Declining   (freq 52, deg 0.0522, betw 0.0003)
+      multimodality                -> Emerging/Declining   (freq 89, deg 0.1245, betw 0.0061)
+      audiovisual translation      -> Motor                (freq 311, deg 0.3534, betw 0.0493)
+      corpus                       -> Basic/Transversal    (freq 107, deg 0.2048, betw 0.0122)
+  Top keywords by frequency: translation, audiovisual translation, language, literary translation, subtitling, english, machine translation, translation studies
+  Top keywords by betweenness: translation, language, audiovisual translation, english, literary translation, machine translation, performance, subtitling
+
+AS-J: 704 documents with >=2 keywords; network 78 nodes / 124 edges
+  11 themes detected (Louvain, seed 20260806)
+  quadrant                centr     dens  label
+  Basic/Transversal        3.49     1.19  adaptation, translation, intertextuality
+  Motor                    3.16     4.48  film, gender, television
+  Basic/Transversal        1.27     3.44  shakespeare, appropriation, hamlet
+  Basic/Transversal        0.87     2.07  adaptation studies, film adaptation, cinema
+  Emerging/Declining       0.32     3.71  nostalgia, intermediality, remediation
+  Motor                    0.90     4.44  horror, radio drama, film noir
+  Motor                    0.45    13.06  othello, william shakespeare, desdemona
+  Emerging/Declining       0.02     2.02  adaptation theory, jane austen
+  Niche                    0.13     4.08  screenwriting, authorship
+  Niche                    0.14     5.56  masculinity, kubrick
+  Niche                    0.00     8.00  vampire, dracula
+  Placement of watched terms:
+      translation                  -> Basic/Transversal    (freq 28, deg 0.0519, betw 0.0212)
+      adaptation                   -> Basic/Transversal    (freq 219, deg 0.7273, betw 0.5917)
+      fidelity                     -> Basic/Transversal    (freq 21, deg 0.0519, betw 0.0009)
+      film adaptation              -> Basic/Transversal    (freq 20, deg 0.039, betw 0.0013)
+      intermediality               -> Emerging/Declining   (freq 14, deg 0.026, betw 0.0)
+  Top keywords by frequency: adaptation, shakespeare, film, translation, intertextuality, gender, television, adaptation studies
+  Top keywords by betweenness: adaptation, othello, shakespeare, remediation, jane austen, translation, film, cinema
+
+Written: out/NETWORK_RESULTS.json

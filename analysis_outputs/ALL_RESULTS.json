@@ -1,0 +1,2363 @@
+{
+  "audit": {
+    "TS-J": {
+      "loaded": 14258,
+      "expected": 14258,
+      "match": true,
+      "records": 14258,
+      "records_with_references": 13104,
+      "total_cited_references": 333707,
+      "mean_refs_per_record": 23.4,
+      "mean_refs_per_referencing_record": 25.47,
+      "year_min": 1978,
+      "year_max": 2026,
+      "references_parsed": 318442,
+      "references_unparseable": 15265,
+      "parse_rate_pct": 95.43
+    },
+    "AS-J": {
+      "loaded": 2763,
+      "expected": 2763,
+      "match": true,
+      "records": 2763,
+      "records_with_references": 2654,
+      "total_cited_references": 48954,
+      "mean_refs_per_record": 17.72,
+      "mean_refs_per_referencing_record": 18.45,
+      "year_min": 1975,
+      "year_max": 2026,
+      "references_parsed": 44126,
+      "references_unparseable": 4828,
+      "parse_rate_pct": 90.14
+    },
+    "AS-T": {
+      "loaded": 18566,
+      "expected": 18566,
+      "match": true,
+      "records": 18566,
+      "records_with_references": 17676,
+      "total_cited_references": 660554,
+      "mean_refs_per_record": 35.58,
+      "mean_refs_per_referencing_record": 37.37,
+      "year_min": 1922,
+      "year_max": 2026,
+      "references_parsed": 627992,
+      "references_unparseable": 32562,
+      "parse_rate_pct": 95.07
+    }
+  },
+  "journal_forms": {
+    "AS": [
+      "ADAPTATION-THE JOURNAL OF LITERATURE ON SCREEN STUDIES",
+      "ADAPTATION-UK",
+      "J ADAPT FILM PERFORM",
+      "JOURNAL OF ADAPTATION IN FILM & PERFORMANCE",
+      "LIT-FILM QUART",
+      "LITERATURE-FILM QUARTERLY"
+    ],
+    "TS": [
+      "ACROSS LANG CULT",
+      "ACROSS LANGUAGES AND CULTURES",
+      "BABEL-AMSTERDAM",
+      "BABEL-REVUE INTERNATIONALE DE LA TRADUCTION-INTERNATIONAL JOURNAL OF TRANSLATION",
+      "CAD TRADUCAO",
+      "CADERNOS DE TRADUCAO",
+      "FORUM-REV INT INTERP",
+      "FORUM-REVUE INTERNATIONALE D INTERPRETATION ET DE TRADUCTION-INTERNATIONAL JOURNAL OF INTERPRETATION AND TRANSLATION",
+      "INTERPRET TRANSL TRA",
+      "INTERPRETER AND TRANSLATOR TRAINER",
+      "INTERPRETING",
+      "J SPEC TRANSL",
+      "JOURNAL OF SPECIALISED TRANSLATION",
+      "LING ANTVERP NEW SER",
+      "LINGUISTICA ANTVERPIENSIA NEW SERIES-THEMES IN TRANSLATION STUDIES",
+      "META",
+      "META-MONTREAL",
+      "MONTI",
+      "PERSPECT STUD TRANSL",
+      "PERSPECTIVES-STUDIES IN TRANSLATION THEORY AND PRACTICE",
+      "SENDEBAR",
+      "SENDEBAR-REVISTA DE TRADUCCION E INTERPRETACION",
+      "TARGET-INTERNATIONAL JOURNAL OF TRANSLATION STUDIES",
+      "TARGET-NETH",
+      "TRANSL INTERPRET STU",
+      "TRANSL LIT",
+      "TRANSL SPACES",
+      "TRANSL STUD",
+      "TRANSLATION AND INTERPRETING STUDIES",
+      "TRANSLATION AND LITERATURE",
+      "TRANSLATION IN THE ARAB WORLD: THE ABBASID GOLDEN AGE",
+      "TRANSLATION REV",
+      "TRANSLATION REVIEW",
+      "TRANSLATION SPACES",
+      "TRANSLATION STUDIES",
+      "TRANSLATOR"
+    ]
+  },
+  "6.4a_term_presence": {
+    "TS-J records": 14258,
+    "mentioning 'adaptation' anywhere (TI/AB/DE/ID)": 293,
+    "with 'adaptation' in title": 60,
+    "with 'adaptation' as author keyword": 116,
+    "mentioning the phrase 'adaptation studies'": 11,
+    "with 'adaptation studies' in title/abstract/keywords (vD&R replication)": 11
+  },
+  "6.4b_as_canon_in_TSJ": {
+    "Bluestone, George": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "BLUESTONE, G": 1
+      }
+    },
+    "McFarlane, Brian": {
+      "references": 4,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.028,
+      "variants_matched": {
+        "MCFARLANE, B": 4
+      }
+    },
+    "Stam, Robert": {
+      "references": 25,
+      "citing_documents": 20,
+      "pct_of_corpus": 0.14,
+      "variants_matched": {
+        "STAM, R": 25
+      }
+    },
+    "Hutcheon, Linda": {
+      "references": 72,
+      "citing_documents": 68,
+      "pct_of_corpus": 0.477,
+      "variants_matched": {
+        "HUTCHEON, L": 72
+      }
+    },
+    "Leitch, Thomas": {
+      "references": 12,
+      "citing_documents": 11,
+      "pct_of_corpus": 0.077,
+      "variants_matched": {
+        "LEITCH, T": 12
+      }
+    },
+    "Sanders, Julie": {
+      "references": 17,
+      "citing_documents": 15,
+      "pct_of_corpus": 0.105,
+      "variants_matched": {
+        "SANDERS, J": 17
+      }
+    },
+    "Cattrysse, Patrick": {
+      "references": 31,
+      "citing_documents": 26,
+      "pct_of_corpus": 0.182,
+      "variants_matched": {
+        "CATTRYSSE, P": 31
+      }
+    },
+    "Elliott, Kamilla": {
+      "references": 9,
+      "citing_documents": 6,
+      "pct_of_corpus": 0.042,
+      "variants_matched": {
+        "ELLIOTT, K": 9
+      }
+    },
+    "Naremore, James": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.014,
+      "variants_matched": {
+        "NAREMORE, J": 2
+      }
+    },
+    "Cardwell, Sarah": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "CARDWELL, S": 1
+      }
+    },
+    "Andrew, Dudley": {
+      "references": 7,
+      "citing_documents": 6,
+      "pct_of_corpus": 0.042,
+      "variants_matched": {
+        "ANDREW, D": 7
+      }
+    },
+    "Geraghty, Christine": {
+      "references": 0,
+      "citing_documents": 0,
+      "pct_of_corpus": 0.0,
+      "variants_matched": {}
+    },
+    "Murray, Simone": {
+      "references": 8,
+      "citing_documents": 8,
+      "pct_of_corpus": 0.056,
+      "variants_matched": {
+        "MURRAY, S": 8
+      }
+    },
+    "Corrigan, Timothy": {
+      "references": 7,
+      "citing_documents": 6,
+      "pct_of_corpus": 0.042,
+      "variants_matched": {
+        "CORRIGAN, T": 7
+      }
+    },
+    "Bruhn, Jorgen": {
+      "references": 5,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.021,
+      "variants_matched": {
+        "BRUHN, J": 5
+      }
+    },
+    "Hermansson, Casie": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "HERMANSSON, C": 1
+      }
+    },
+    "Boozer, Jack": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.007,
+      "variants_matched": {
+        "BOOZER, J": 1
+      }
+    },
+    "Cohen, Keith": {
+      "references": 3,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.021,
+      "variants_matched": {
+        "COHEN, K": 3
+      }
+    },
+    "Aragay, Mireia": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.014,
+      "variants_matched": {
+        "ARAGAY, M": 2
+      }
+    },
+    "Whelehan, Imelda": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.014,
+      "variants_matched": {
+        "WHELEHAN, I": 2
+      }
+    }
+  },
+  "6.4b_ts_canon_in_ASJ": {
+    "Jakobson, Roman": {
+      "references": 18,
+      "citing_documents": 17,
+      "pct_of_corpus": 0.615,
+      "variants_matched": {
+        "JAKOBSON, R": 18
+      }
+    },
+    "Toury, Gideon": {
+      "references": 11,
+      "citing_documents": 10,
+      "pct_of_corpus": 0.362,
+      "variants_matched": {
+        "TOURY, G": 11
+      }
+    },
+    "Venuti, Lawrence": {
+      "references": 29,
+      "citing_documents": 21,
+      "pct_of_corpus": 0.76,
+      "variants_matched": {
+        "VENUTI, L": 29
+      }
+    },
+    "Bassnett, Susan": {
+      "references": 9,
+      "citing_documents": 8,
+      "pct_of_corpus": 0.29,
+      "variants_matched": {
+        "BASSNETT, S": 8,
+        "BASSNETT-MCGUIRE, S": 1
+      }
+    },
+    "Nida, Eugene": {
+      "references": 4,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.109,
+      "variants_matched": {
+        "NIDA, E": 4
+      }
+    },
+    "Baker, Mona": {
+      "references": 4,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.145,
+      "variants_matched": {
+        "BAKER, M": 4
+      }
+    },
+    "Chesterman, Andrew": {
+      "references": 7,
+      "citing_documents": 5,
+      "pct_of_corpus": 0.181,
+      "variants_matched": {
+        "CHESTERMAN, A": 7
+      }
+    },
+    "Pym, Anthony": {
+      "references": 3,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.109,
+      "variants_matched": {
+        "PYM, A": 3
+      }
+    },
+    "Lefevere, Andre": {
+      "references": 15,
+      "citing_documents": 13,
+      "pct_of_corpus": 0.471,
+      "variants_matched": {
+        "LEFEVERE, A": 15
+      }
+    },
+    "Holmes, James": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "HOLMES, J": 1
+      }
+    },
+    "Snell-Hornby, Mary": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.072,
+      "variants_matched": {
+        "SNELL-HORNBY, M": 2
+      }
+    },
+    "Vermeer, Hans": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "VERMEER, H": 1
+      }
+    },
+    "Reiss, Katharina": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "REISS, K": 1
+      }
+    },
+    "Hermans, Theo": {
+      "references": 7,
+      "citing_documents": 5,
+      "pct_of_corpus": 0.181,
+      "variants_matched": {
+        "HERMANS, T": 7
+      }
+    },
+    "Gentzler, Edwin": {
+      "references": 4,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.145,
+      "variants_matched": {
+        "GENTZLER, E": 4
+      }
+    },
+    "Tymoczko, Maria": {
+      "references": 7,
+      "citing_documents": 4,
+      "pct_of_corpus": 0.145,
+      "variants_matched": {
+        "TYMOCZKO, M": 7
+      }
+    },
+    "Munday, Jeremy": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.072,
+      "variants_matched": {
+        "MUNDAY, J": 2
+      }
+    },
+    "Vinay, Jean-Paul": {
+      "references": 2,
+      "citing_documents": 2,
+      "pct_of_corpus": 0.072,
+      "variants_matched": {
+        "VINAY, J": 2
+      }
+    },
+    "Catford, John": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.036,
+      "variants_matched": {
+        "CATFORD, J": 1
+      }
+    },
+    "Steiner, George": {
+      "references": 8,
+      "citing_documents": 8,
+      "pct_of_corpus": 0.29,
+      "variants_matched": {
+        "STEINER, G": 8
+      }
+    },
+    "Delabastita, Dirk": {
+      "references": 3,
+      "citing_documents": 3,
+      "pct_of_corpus": 0.109,
+      "variants_matched": {
+        "DELABASTITA, D": 3
+      }
+    },
+    "Gambier, Yves": {
+      "references": 6,
+      "citing_documents": 5,
+      "pct_of_corpus": 0.181,
+      "variants_matched": {
+        "GAMBIER, Y": 6
+      }
+    },
+    "van Doorslaer, Luc": {
+      "references": 0,
+      "citing_documents": 0,
+      "pct_of_corpus": 0.0,
+      "variants_matched": {}
+    }
+  },
+  "6.4c_benchmarks_in_TSJ": {
+    "Sociology of translation": {
+      "references": 1547,
+      "citing_documents": 737,
+      "pct_of_corpus_documents": 5.17,
+      "per_10k_references": 48.6
+    },
+    "Film & media studies": {
+      "references": 100,
+      "citing_documents": 81,
+      "pct_of_corpus_documents": 0.57,
+      "per_10k_references": 3.1
+    },
+    "Cognitive science / psychology": {
+      "references": 2186,
+      "citing_documents": 1178,
+      "pct_of_corpus_documents": 8.26,
+      "per_10k_references": 68.6
+    },
+    "Linguistics & pragmatics": {
+      "references": 1179,
+      "citing_documents": 742,
+      "pct_of_corpus_documents": 5.2,
+      "per_10k_references": 37.0
+    },
+    "Postcolonial & decolonial theory": {
+      "references": 460,
+      "citing_documents": 339,
+      "pct_of_corpus_documents": 2.38,
+      "per_10k_references": 14.4
+    },
+    "Adaptation Studies canon": {
+      "references": 210,
+      "citing_documents": 134,
+      "pct_of_corpus_documents": 0.94,
+      "per_10k_references": 6.6
+    }
+  },
+  "6.4b_totals": {
+    "AS_canon_in_TSJ": {
+      "references": 210,
+      "citing_documents": 134,
+      "pct_of_corpus_documents": 0.94,
+      "per_10k_references": 6.6
+    },
+    "TS_canon_in_ASJ": {
+      "references": 145,
+      "citing_documents": 68,
+      "pct_of_corpus_documents": 2.46,
+      "per_10k_references": 32.9
+    }
+  },
+  "6.5_ledger": {
+    "TS-J -> AS journals": {
+      "references": 40,
+      "per_10k_parsed_references": 1.26,
+      "citing_documents": 35,
+      "pct_of_corpus_documents": 0.25,
+      "by_journal": {
+        "J ADAPT FILM PERFORM": 17,
+        "ADAPTATION-UK": 16,
+        "LIT-FILM QUART": 7
+      }
+    },
+    "AS-J -> TS journals": {
+      "references": 74,
+      "per_10k_parsed_references": 16.77,
+      "citing_documents": 36,
+      "pct_of_corpus_documents": 1.3,
+      "by_journal": {
+        "TARGET-NETH": 20,
+        "TRANSL STUD": 18,
+        "TRANSLATOR": 12,
+        "META": 6,
+        "J SPEC TRANSL": 5,
+        "PERSPECT STUD TRANSL": 4,
+        "ACROSS LANG CULT": 3,
+        "TRANSLATION STUDIES": 2,
+        "TRANSLATION REV": 1,
+        "SENDEBAR": 1,
+        "LING ANTVERP NEW SER": 1,
+        "INTERPRET TRANSL TRA": 1
+      }
+    },
+    "AS-T -> TS journals": {
+      "references": 793,
+      "per_10k_parsed_references": 12.63,
+      "citing_documents": 331,
+      "pct_of_corpus_documents": 1.78
+    },
+    "asymmetry_ratio_AS_to_TS_over_TS_to_AS": 13.31,
+    "author_level": {
+      "AS canon per 10k TS-J refs": 6.59,
+      "TS canon per 10k AS-J refs": 32.86,
+      "TS canon per 10k AS-T refs": 20.97,
+      "AS canon per 10k AS-J refs (self-reference baseline)": 429.91,
+      "TS canon per 10k TS-J refs (self-reference baseline)": 490.95
+    }
+  },
+  "6.5b_citation_kind": {
+    "AS-J citing TS": {
+      "to TS canonical theorists": 145,
+      "to TS journal articles": 74,
+      "total": 219,
+      "pct_to_canon": 66.2
+    },
+    "TS-J citing AS": {
+      "to AS canonical theorists": 210,
+      "to AS journal articles": 40,
+      "total": 250,
+      "pct_to_canon": 84.0
+    }
+  },
+  "6.7_markedness": {
+    "'translation' in TS-J": {
+      "documents_using_term": 9291,
+      "documents_with_modified_use": 2647,
+      "documents_with_bare_use": 8634,
+      "pct_bare": 92.9,
+      "pct_modified": 28.5,
+      "top_modifiers": {
+        "machine": 938,
+        "audiovisual": 848,
+        "literary": 843,
+        "legal": 417,
+        "self": 230,
+        "indirect": 218,
+        "news": 202,
+        "cultural": 178,
+        "collaborative": 159,
+        "sight": 149,
+        "intersemiotic": 139,
+        "intralingual": 117,
+        "medical": 115,
+        "literal": 110,
+        "specialized": 108
+      }
+    },
+    "'adaptation' in TS-J": {
+      "documents_using_term": 292,
+      "documents_with_modified_use": 65,
+      "documents_with_bare_use": 253,
+      "pct_bare": 86.6,
+      "pct_modified": 22.3,
+      "top_modifiers": {
+        "cultural": 41,
+        "film": 29,
+        "transmedia": 7,
+        "stage": 5,
+        "comic": 3,
+        "cinematic": 3,
+        "novel": 2,
+        "theatrical": 2,
+        "free": 2,
+        "television": 2,
+        "screen": 1,
+        "literary": 1,
+        "modern": 1,
+        "intermedial": 1
+      }
+    },
+    "'adaptation' in AS-J": {
+      "documents_using_term": 842,
+      "documents_with_modified_use": 309,
+      "documents_with_bare_use": 741,
+      "pct_bare": 88.0,
+      "pct_modified": 36.7,
+      "top_modifiers": {
+        "film": 201,
+        "screen": 42,
+        "cinematic": 28,
+        "literary": 26,
+        "television": 24,
+        "stage": 21,
+        "theatrical": 15,
+        "transmedia": 14,
+        "game": 13,
+        "cultural": 12,
+        "radio": 12,
+        "contemporary": 10,
+        "novel": 10,
+        "cross-media": 5,
+        "modern": 4
+      }
+    },
+    "'translation' in AS-J": {
+      "documents_using_term": 94,
+      "documents_with_modified_use": 16,
+      "documents_with_bare_use": 89,
+      "pct_bare": 94.7,
+      "pct_modified": 17.0,
+      "top_modifiers": {
+        "intersemiotic": 7,
+        "theatre": 5,
+        "indirect": 3,
+        "free": 2,
+        "audiovisual": 2,
+        "interlingual": 2,
+        "literal": 1,
+        "drama": 1,
+        "theater": 1
+      }
+    },
+    "'adaptation' in AS-T": {
+      "documents_using_term": 18521,
+      "documents_with_modified_use": 3471,
+      "documents_with_bare_use": 16423,
+      "pct_bare": 88.7,
+      "pct_modified": 18.7,
+      "top_modifiers": {
+        "film": 1695,
+        "cultural": 619,
+        "literary": 287,
+        "screen": 250,
+        "stage": 215,
+        "cinematic": 204,
+        "climate": 181,
+        "theatrical": 178,
+        "television": 168,
+        "contemporary": 93,
+        "musical": 89,
+        "tv": 80,
+        "modern": 76,
+        "novel": 68,
+        "graphic": 56
+      }
+    }
+  },
+  "6.3.4_noise_estimate": {
+    "sample_size": 400,
+    "seed": 20260806,
+    "clearly_non_humanities": 19,
+    "clearly_humanities_media": 202,
+    "ambiguous": 179,
+    "estimated_noise_rate_pct": 4.8,
+    "estimated_noise_rate_pct_upper_bound_incl_ambiguous": 49.5,
+    "example_non_humanities_titles": [
+      "The showcase of salt rocks from Cardona in the Barcelona Natural Sciences Museum: conservation and adaptation ",
+      "WHO CONTROLS THE VOICE? The journalistic use and the informational domain in vocal transactors",
+      "Community Education for Climate Change Adaptation in Coastal Settlements. Isabela de Sagua",
+      "Climate action versus inaction: balancing the costs for Gulf energy exporters",
+      "Climates of Change in Northern Kenya and Southern Ethiopia: From Scientific Data to Applied Knowledge",
+      "Evolution in Extremist Climate Change Adaptation in Don DeLillo's The Word for Snow",
+      "Adaptive Planning for Reducing Negative Impacts of Climate Change in Case of Hungarian Cities",
+      "Using Community Nutrition Gardening as Rural Re-Greening and Climate Change Adaptation Strategy",
+      "The trajectories of fervor: horses and non -human geometries in the Palio of Ronciglione",
+      "System of Indicators for the Design and Evaluation of Projects for Adaptation to Climate Change in Coastal Mun",
+      "Emergent methodology: Bridging the ocean tangibility gap with experimental design methods",
+      "Tourism and climate change in Africa"
+    ]
+  },
+  "6.6_frontier_vs_core": {
+    "core": {
+      "Toury, Gideon": {
+        "references": 1351,
+        "citing_documents": 1117,
+        "pct_of_corpus": 7.834,
+        "variants_matched": {
+          "TOURY, G": 1351
+        }
+      },
+      "Venuti, Lawrence": {
+        "references": 1678,
+        "citing_documents": 1271,
+        "pct_of_corpus": 8.914,
+        "variants_matched": {
+          "VENUTI, L": 1678
+        }
+      },
+      "Baker, Mona": {
+        "references": 1813,
+        "citing_documents": 1214,
+        "pct_of_corpus": 8.515,
+        "variants_matched": {
+          "BAKER, M": 1813
+        }
+      },
+      "Chesterman, Andrew": {
+        "references": 1064,
+        "citing_documents": 807,
+        "pct_of_corpus": 5.66,
+        "variants_matched": {
+          "CHESTERMAN, A": 1064
+        }
+      },
+      "Pym, Anthony": {
+        "references": 1675,
+        "citing_documents": 1212,
+        "pct_of_corpus": 8.5,
+        "variants_matched": {
+          "PYM, A": 1675
+        }
+      },
+      "Holmes, James": {
+        "references": 263,
+        "citing_documents": 245,
+        "pct_of_corpus": 1.718,
+        "variants_matched": {
+          "HOLMES, J": 263
+        }
+      },
+      "Snell-Hornby, Mary": {
+        "references": 412,
+        "citing_documents": 349,
+        "pct_of_corpus": 2.448,
+        "variants_matched": {
+          "SNELL-HORNBY, M": 412
+        }
+      }
+    },
+    "frontier": {
+      "Tymoczko, Maria": {
+        "references": 700,
+        "citing_documents": 521,
+        "pct_of_corpus": 3.654,
+        "variants_matched": {
+          "TYMOCZKO, M": 700
+        }
+      },
+      "Marais, Kobus": {
+        "references": 226,
+        "citing_documents": 127,
+        "pct_of_corpus": 0.891,
+        "variants_matched": {
+          "MARAIS, K": 226
+        }
+      },
+      "Blumczynski, Piotr": {
+        "references": 102,
+        "citing_documents": 79,
+        "pct_of_corpus": 0.554,
+        "variants_matched": {
+          "BLUMCZYNSKI, P": 102
+        }
+      },
+      "Gentzler, Edwin": {
+        "references": 348,
+        "citing_documents": 304,
+        "pct_of_corpus": 2.132,
+        "variants_matched": {
+          "GENTZLER, E": 348
+        }
+      },
+      "Robinson, Douglas": {
+        "references": 478,
+        "citing_documents": 365,
+        "pct_of_corpus": 2.56,
+        "variants_matched": {
+          "ROBINSON, D": 478
+        }
+      },
+      "Bennett, Karen": {
+        "references": 96,
+        "citing_documents": 67,
+        "pct_of_corpus": 0.47,
+        "variants_matched": {
+          "BENNETT, K": 96
+        }
+      },
+      "Zwischenberger, Cornelia": {
+        "references": 116,
+        "citing_documents": 90,
+        "pct_of_corpus": 0.631,
+        "variants_matched": {
+          "ZWISCHENBERGER, C": 116
+        }
+      }
+    },
+    "ambiguous": {
+      "Bassnett, Susan": {
+        "references": 818,
+        "citing_documents": 643,
+        "pct_of_corpus": 4.51,
+        "variants_matched": {
+          "BASSNETT, S": 745,
+          "BASSNETT-MCGUIRE, S": 73
+        }
+      }
+    },
+    "summary": {
+      "core_total": {
+        "references": 8256,
+        "citing_documents": 3922,
+        "pct_of_corpus_documents": 27.51,
+        "per_10k_references": 259.3
+      },
+      "frontier_total": {
+        "references": 2066,
+        "citing_documents": 1220,
+        "pct_of_corpus_documents": 8.56,
+        "per_10k_references": 64.9
+      },
+      "ambiguous_bassnett": {
+        "references": 818,
+        "citing_documents": 643,
+        "pct_of_corpus_documents": 4.51,
+        "per_10k_references": 25.7
+      },
+      "core_members": 7,
+      "frontier_members": 7,
+      "core_mean_refs_per_author": 1179.4,
+      "frontier_mean_refs_per_author": 295.1,
+      "core_to_frontier_ratio": 4.0
+    }
+  },
+  "6.8_two_clocks": {
+    "series": {
+      "TS-J fidelity/faithfulness": {
+        "1978": {
+          "documents": 43,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1980": {
+          "documents": 19,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1981": {
+          "documents": 10,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1982": {
+          "documents": 44,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1983": {
+          "documents": 34,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1984": {
+          "documents": 45,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1985": {
+          "documents": 23,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1986": {
+          "documents": 22,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1987": {
+          "documents": 15,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1988": {
+          "documents": 26,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1989": {
+          "documents": 23,
+          "with_term": 1,
+          "pct": 4.35
+        },
+        "1990": {
+          "documents": 25,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1991": {
+          "documents": 22,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1992": {
+          "documents": 143,
+          "with_term": 1,
+          "pct": 0.7
+        },
+        "1993": {
+          "documents": 139,
+          "with_term": 3,
+          "pct": 2.16
+        },
+        "1994": {
+          "documents": 130,
+          "with_term": 1,
+          "pct": 0.77
+        },
+        "1995": {
+          "documents": 114,
+          "with_term": 1,
+          "pct": 0.88
+        },
+        "1996": {
+          "documents": 98,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1997": {
+          "documents": 100,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1998": {
+          "documents": 120,
+          "with_term": 1,
+          "pct": 0.83
+        },
+        "1999": {
+          "documents": 89,
+          "with_term": 1,
+          "pct": 1.12
+        },
+        "2000": {
+          "documents": 129,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2001": {
+          "documents": 106,
+          "with_term": 1,
+          "pct": 0.94
+        },
+        "2002": {
+          "documents": 88,
+          "with_term": 2,
+          "pct": 2.27
+        },
+        "2003": {
+          "documents": 98,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2004": {
+          "documents": 149,
+          "with_term": 2,
+          "pct": 1.34
+        },
+        "2005": {
+          "documents": 286,
+          "with_term": 4,
+          "pct": 1.4
+        },
+        "2006": {
+          "documents": 239,
+          "with_term": 3,
+          "pct": 1.26
+        },
+        "2007": {
+          "documents": 322,
+          "with_term": 6,
+          "pct": 1.86
+        },
+        "2008": {
+          "documents": 392,
+          "with_term": 9,
+          "pct": 2.3
+        },
+        "2009": {
+          "documents": 503,
+          "with_term": 8,
+          "pct": 1.59
+        },
+        "2010": {
+          "documents": 508,
+          "with_term": 5,
+          "pct": 0.98
+        },
+        "2011": {
+          "documents": 626,
+          "with_term": 5,
+          "pct": 0.8
+        },
+        "2012": {
+          "documents": 548,
+          "with_term": 7,
+          "pct": 1.28
+        },
+        "2013": {
+          "documents": 486,
+          "with_term": 3,
+          "pct": 0.62
+        },
+        "2014": {
+          "documents": 598,
+          "with_term": 6,
+          "pct": 1.0
+        },
+        "2015": {
+          "documents": 664,
+          "with_term": 2,
+          "pct": 0.3
+        },
+        "2016": {
+          "documents": 618,
+          "with_term": 5,
+          "pct": 0.81
+        },
+        "2017": {
+          "documents": 632,
+          "with_term": 8,
+          "pct": 1.27
+        },
+        "2018": {
+          "documents": 717,
+          "with_term": 10,
+          "pct": 1.39
+        },
+        "2019": {
+          "documents": 694,
+          "with_term": 9,
+          "pct": 1.3
+        },
+        "2020": {
+          "documents": 663,
+          "with_term": 8,
+          "pct": 1.21
+        },
+        "2021": {
+          "documents": 685,
+          "with_term": 12,
+          "pct": 1.75
+        },
+        "2022": {
+          "documents": 678,
+          "with_term": 6,
+          "pct": 0.88
+        },
+        "2023": {
+          "documents": 756,
+          "with_term": 16,
+          "pct": 2.12
+        },
+        "2024": {
+          "documents": 714,
+          "with_term": 6,
+          "pct": 0.84
+        },
+        "2025": {
+          "documents": 703,
+          "with_term": 13,
+          "pct": 1.85
+        },
+        "2026": {
+          "documents": 364,
+          "with_term": 6,
+          "pct": 1.65
+        }
+      },
+      "TS-J equivalence": {
+        "1978": {
+          "documents": 43,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1980": {
+          "documents": 19,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1981": {
+          "documents": 10,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1982": {
+          "documents": 44,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1983": {
+          "documents": 34,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1984": {
+          "documents": 45,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1985": {
+          "documents": 23,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1986": {
+          "documents": 22,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1987": {
+          "documents": 15,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1988": {
+          "documents": 26,
+          "with_term": 1,
+          "pct": 3.85
+        },
+        "1989": {
+          "documents": 23,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1990": {
+          "documents": 25,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1991": {
+          "documents": 22,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1992": {
+          "documents": 143,
+          "with_term": 3,
+          "pct": 2.1
+        },
+        "1993": {
+          "documents": 139,
+          "with_term": 3,
+          "pct": 2.16
+        },
+        "1994": {
+          "documents": 130,
+          "with_term": 1,
+          "pct": 0.77
+        },
+        "1995": {
+          "documents": 114,
+          "with_term": 1,
+          "pct": 0.88
+        },
+        "1996": {
+          "documents": 98,
+          "with_term": 1,
+          "pct": 1.02
+        },
+        "1997": {
+          "documents": 100,
+          "with_term": 2,
+          "pct": 2.0
+        },
+        "1998": {
+          "documents": 120,
+          "with_term": 1,
+          "pct": 0.83
+        },
+        "1999": {
+          "documents": 89,
+          "with_term": 1,
+          "pct": 1.12
+        },
+        "2000": {
+          "documents": 129,
+          "with_term": 5,
+          "pct": 3.88
+        },
+        "2001": {
+          "documents": 106,
+          "with_term": 5,
+          "pct": 4.72
+        },
+        "2002": {
+          "documents": 88,
+          "with_term": 5,
+          "pct": 5.68
+        },
+        "2003": {
+          "documents": 98,
+          "with_term": 2,
+          "pct": 2.04
+        },
+        "2004": {
+          "documents": 149,
+          "with_term": 5,
+          "pct": 3.36
+        },
+        "2005": {
+          "documents": 286,
+          "with_term": 5,
+          "pct": 1.75
+        },
+        "2006": {
+          "documents": 239,
+          "with_term": 8,
+          "pct": 3.35
+        },
+        "2007": {
+          "documents": 322,
+          "with_term": 9,
+          "pct": 2.8
+        },
+        "2008": {
+          "documents": 392,
+          "with_term": 19,
+          "pct": 4.85
+        },
+        "2009": {
+          "documents": 503,
+          "with_term": 18,
+          "pct": 3.58
+        },
+        "2010": {
+          "documents": 508,
+          "with_term": 9,
+          "pct": 1.77
+        },
+        "2011": {
+          "documents": 626,
+          "with_term": 12,
+          "pct": 1.92
+        },
+        "2012": {
+          "documents": 548,
+          "with_term": 15,
+          "pct": 2.74
+        },
+        "2013": {
+          "documents": 486,
+          "with_term": 15,
+          "pct": 3.09
+        },
+        "2014": {
+          "documents": 598,
+          "with_term": 16,
+          "pct": 2.68
+        },
+        "2015": {
+          "documents": 664,
+          "with_term": 24,
+          "pct": 3.61
+        },
+        "2016": {
+          "documents": 618,
+          "with_term": 17,
+          "pct": 2.75
+        },
+        "2017": {
+          "documents": 632,
+          "with_term": 17,
+          "pct": 2.69
+        },
+        "2018": {
+          "documents": 717,
+          "with_term": 20,
+          "pct": 2.79
+        },
+        "2019": {
+          "documents": 694,
+          "with_term": 28,
+          "pct": 4.03
+        },
+        "2020": {
+          "documents": 663,
+          "with_term": 15,
+          "pct": 2.26
+        },
+        "2021": {
+          "documents": 685,
+          "with_term": 17,
+          "pct": 2.48
+        },
+        "2022": {
+          "documents": 678,
+          "with_term": 17,
+          "pct": 2.51
+        },
+        "2023": {
+          "documents": 756,
+          "with_term": 9,
+          "pct": 1.19
+        },
+        "2024": {
+          "documents": 714,
+          "with_term": 15,
+          "pct": 2.1
+        },
+        "2025": {
+          "documents": 703,
+          "with_term": 23,
+          "pct": 3.27
+        },
+        "2026": {
+          "documents": 364,
+          "with_term": 10,
+          "pct": 2.75
+        }
+      },
+      "AS-J fidelity/faithfulness": {
+        "1975": {
+          "documents": 55,
+          "with_term": 1,
+          "pct": 1.82
+        },
+        "1976": {
+          "documents": 53,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1977": {
+          "documents": 50,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1978": {
+          "documents": 47,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1979": {
+          "documents": 40,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1980": {
+          "documents": 33,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1981": {
+          "documents": 39,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1982": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1983": {
+          "documents": 39,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1984": {
+          "documents": 40,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1985": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1986": {
+          "documents": 37,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1987": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1988": {
+          "documents": 43,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1989": {
+          "documents": 42,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1990": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1991": {
+          "documents": 41,
+          "with_term": 1,
+          "pct": 2.44
+        },
+        "1992": {
+          "documents": 44,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1993": {
+          "documents": 39,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1994": {
+          "documents": 41,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1995": {
+          "documents": 55,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1996": {
+          "documents": 65,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1997": {
+          "documents": 49,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1998": {
+          "documents": 50,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1999": {
+          "documents": 48,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2000": {
+          "documents": 54,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2001": {
+          "documents": 42,
+          "with_term": 1,
+          "pct": 2.38
+        },
+        "2002": {
+          "documents": 46,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2003": {
+          "documents": 49,
+          "with_term": 2,
+          "pct": 4.08
+        },
+        "2004": {
+          "documents": 49,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2005": {
+          "documents": 41,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2006": {
+          "documents": 44,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2007": {
+          "documents": 54,
+          "with_term": 1,
+          "pct": 1.85
+        },
+        "2008": {
+          "documents": 62,
+          "with_term": 1,
+          "pct": 1.61
+        },
+        "2009": {
+          "documents": 87,
+          "with_term": 3,
+          "pct": 3.45
+        },
+        "2010": {
+          "documents": 73,
+          "with_term": 4,
+          "pct": 5.48
+        },
+        "2011": {
+          "documents": 96,
+          "with_term": 4,
+          "pct": 4.17
+        },
+        "2012": {
+          "documents": 91,
+          "with_term": 4,
+          "pct": 4.4
+        },
+        "2013": {
+          "documents": 91,
+          "with_term": 8,
+          "pct": 8.79
+        },
+        "2014": {
+          "documents": 99,
+          "with_term": 5,
+          "pct": 5.05
+        },
+        "2015": {
+          "documents": 78,
+          "with_term": 5,
+          "pct": 6.41
+        },
+        "2016": {
+          "documents": 79,
+          "with_term": 3,
+          "pct": 3.8
+        },
+        "2017": {
+          "documents": 50,
+          "with_term": 3,
+          "pct": 6.0
+        },
+        "2018": {
+          "documents": 53,
+          "with_term": 5,
+          "pct": 9.43
+        },
+        "2019": {
+          "documents": 40,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2020": {
+          "documents": 56,
+          "with_term": 6,
+          "pct": 10.71
+        },
+        "2021": {
+          "documents": 57,
+          "with_term": 5,
+          "pct": 8.77
+        },
+        "2022": {
+          "documents": 56,
+          "with_term": 3,
+          "pct": 5.36
+        },
+        "2023": {
+          "documents": 58,
+          "with_term": 4,
+          "pct": 6.9
+        },
+        "2024": {
+          "documents": 53,
+          "with_term": 2,
+          "pct": 3.77
+        },
+        "2025": {
+          "documents": 52,
+          "with_term": 3,
+          "pct": 5.77
+        },
+        "2026": {
+          "documents": 51,
+          "with_term": 4,
+          "pct": 7.84
+        }
+      },
+      "AS-J equivalence": {
+        "1975": {
+          "documents": 55,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1976": {
+          "documents": 53,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1977": {
+          "documents": 50,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1978": {
+          "documents": 47,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1979": {
+          "documents": 40,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1980": {
+          "documents": 33,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1981": {
+          "documents": 39,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1982": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1983": {
+          "documents": 39,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1984": {
+          "documents": 40,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1985": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1986": {
+          "documents": 37,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1987": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1988": {
+          "documents": 43,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1989": {
+          "documents": 42,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1990": {
+          "documents": 38,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1991": {
+          "documents": 41,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1992": {
+          "documents": 44,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1993": {
+          "documents": 39,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1994": {
+          "documents": 41,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1995": {
+          "documents": 55,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1996": {
+          "documents": 65,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1997": {
+          "documents": 49,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1998": {
+          "documents": 50,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "1999": {
+          "documents": 48,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2000": {
+          "documents": 54,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2001": {
+          "documents": 42,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2002": {
+          "documents": 46,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2003": {
+          "documents": 49,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2004": {
+          "documents": 49,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2005": {
+          "documents": 41,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2006": {
+          "documents": 44,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2007": {
+          "documents": 54,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2008": {
+          "documents": 62,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2009": {
+          "documents": 87,
+          "with_term": 2,
+          "pct": 2.3
+        },
+        "2010": {
+          "documents": 73,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2011": {
+          "documents": 96,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2012": {
+          "documents": 91,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2013": {
+          "documents": 91,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2014": {
+          "documents": 99,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2015": {
+          "documents": 78,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2016": {
+          "documents": 79,
+          "with_term": 1,
+          "pct": 1.27
+        },
+        "2017": {
+          "documents": 50,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2018": {
+          "documents": 53,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2019": {
+          "documents": 40,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2020": {
+          "documents": 56,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2021": {
+          "documents": 57,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2022": {
+          "documents": 56,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2023": {
+          "documents": 58,
+          "with_term": 2,
+          "pct": 3.45
+        },
+        "2024": {
+          "documents": 53,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2025": {
+          "documents": 52,
+          "with_term": 0,
+          "pct": 0.0
+        },
+        "2026": {
+          "documents": 51,
+          "with_term": 0,
+          "pct": 0.0
+        }
+      }
+    },
+    "summary": {
+      "TS-J fidelity/faithfulness": {
+        "median_year_of_use": 2018,
+        "total_documents_using_term": 171
+      },
+      "TS-J equivalence": {
+        "median_year_of_use": 2016,
+        "total_documents_using_term": 374
+      },
+      "AS-J fidelity/faithfulness": {
+        "median_year_of_use": 2015,
+        "total_documents_using_term": 78
+      },
+      "AS-J equivalence": {
+        "median_year_of_use": 2016,
+        "total_documents_using_term": 5
+      }
+    },
+    "fidelity_lag_years": -3
+  },
+  "6.9_rpys": {
+    "TS-J": {
+      "counts": {
+        "1900": 85,
+        "1901": 53,
+        "1902": 70,
+        "1903": 61,
+        "1904": 88,
+        "1905": 95,
+        "1906": 61,
+        "1907": 79,
+        "1908": 61,
+        "1909": 76,
+        "1910": 71,
+        "1911": 88,
+        "1912": 76,
+        "1913": 90,
+        "1914": 85,
+        "1915": 75,
+        "1916": 75,
+        "1917": 71,
+        "1918": 73,
+        "1919": 81,
+        "1920": 89,
+        "1921": 119,
+        "1922": 120,
+        "1923": 118,
+        "1924": 116,
+        "1925": 109,
+        "1926": 110,
+        "1927": 136,
+        "1928": 147,
+        "1929": 157,
+        "1930": 93,
+        "1931": 141,
+        "1932": 133,
+        "1933": 130,
+        "1934": 141,
+        "1935": 190,
+        "1936": 120,
+        "1937": 131,
+        "1938": 123,
+        "1939": 131,
+        "1940": 127,
+        "1941": 116,
+        "1942": 97,
+        "1943": 100,
+        "1944": 122,
+        "1945": 137,
+        "1946": 180,
+        "1947": 187,
+        "1948": 228,
+        "1949": 203,
+        "1950": 190,
+        "1951": 202,
+        "1952": 276,
+        "1953": 284,
+        "1954": 251,
+        "1955": 327,
+        "1956": 349,
+        "1957": 382,
+        "1958": 461,
+        "1959": 666,
+        "1960": 455,
+        "1961": 357,
+        "1962": 469,
+        "1963": 577,
+        "1964": 733,
+        "1965": 724,
+        "1966": 601,
+        "1967": 718,
+        "1968": 802,
+        "1969": 929,
+        "1970": 775,
+        "1971": 889,
+        "1972": 1067,
+        "1973": 993,
+        "1974": 886,
+        "1975": 1297,
+        "1976": 1190,
+        "1977": 1391,
+        "1978": 1824,
+        "1979": 1433,
+        "1980": 1833,
+        "1981": 2055,
+        "1982": 1843,
+        "1983": 1682,
+        "1984": 2342,
+        "1985": 2482,
+        "1986": 2684,
+        "1987": 2226,
+        "1988": 2902,
+        "1989": 3330,
+        "1990": 3878,
+        "1991": 4049,
+        "1992": 4754,
+        "1993": 4163,
+        "1994": 4281,
+        "1995": 5812,
+        "1996": 5370,
+        "1997": 6625,
+        "1998": 7117,
+        "1999": 6451,
+        "2000": 8510,
+        "2001": 7648,
+        "2002": 7989,
+        "2003": 8392,
+        "2004": 10007,
+        "2005": 10075,
+        "2006": 10179,
+        "2007": 10447,
+        "2008": 10339,
+        "2009": 10834,
+        "2010": 10639,
+        "2011": 10061,
+        "2012": 10694,
+        "2013": 9457,
+        "2014": 9455,
+        "2015": 8942,
+        "2016": 8859,
+        "2017": 9157,
+        "2018": 8126,
+        "2019": 7440,
+        "2020": 6793,
+        "2021": 5417,
+        "2022": 4563,
+        "2023": 3725,
+        "2024": 2415,
+        "2025": 912
+      },
+      "top_peaks_by_deviation": [
+        {
+          "year": 2000,
+          "deviation": 862,
+          "references": 8510
+        },
+        {
+          "year": 2012,
+          "deviation": 633,
+          "references": 10694
+        },
+        {
+          "year": 1992,
+          "deviation": 591,
+          "references": 4754
+        },
+        {
+          "year": 1998,
+          "deviation": 492,
+          "references": 7117
+        },
+        {
+          "year": 1995,
+          "deviation": 442,
+          "references": 5812
+        },
+        {
+          "year": 1978,
+          "deviation": 391,
+          "references": 1824
+        },
+        {
+          "year": 2009,
+          "deviation": 387,
+          "references": 10834
+        },
+        {
+          "year": 2017,
+          "deviation": 298,
+          "references": 9157
+        },
+        {
+          "year": 1981,
+          "deviation": 222,
+          "references": 2055
+        },
+        {
+          "year": 1959,
+          "deviation": 211,
+          "references": 666
+        },
+        {
+          "year": 1986,
+          "deviation": 202,
+          "references": 2684
+        },
+        {
+          "year": 1972,
+          "deviation": 178,
+          "references": 1067
+        },
+        {
+          "year": 1997,
+          "deviation": 174,
+          "references": 6625
+        },
+        {
+          "year": 1985,
+          "deviation": 140,
+          "references": 2482
+        },
+        {
+          "year": 1964,
+          "deviation": 132,
+          "references": 733
+        }
+      ]
+    },
+    "AS-J": {
+      "counts": {
+        "1900": 33,
+        "1901": 9,
+        "1902": 10,
+        "1903": 8,
+        "1904": 7,
+        "1905": 13,
+        "1906": 12,
+        "1907": 12,
+        "1908": 22,
+        "1909": 17,
+        "1910": 18,
+        "1911": 13,
+        "1912": 13,
+        "1913": 15,
+        "1914": 19,
+        "1915": 34,
+        "1916": 26,
+        "1917": 8,
+        "1918": 18,
+        "1919": 20,
+        "1920": 42,
+        "1921": 14,
+        "1922": 50,
+        "1923": 28,
+        "1924": 35,
+        "1925": 54,
+        "1926": 57,
+        "1927": 53,
+        "1928": 40,
+        "1929": 50,
+        "1930": 52,
+        "1931": 102,
+        "1932": 77,
+        "1933": 94,
+        "1934": 101,
+        "1935": 104,
+        "1936": 85,
+        "1937": 73,
+        "1938": 67,
+        "1939": 73,
+        "1940": 68,
+        "1941": 91,
+        "1942": 75,
+        "1943": 77,
+        "1944": 107,
+        "1945": 82,
+        "1946": 103,
+        "1947": 107,
+        "1948": 147,
+        "1949": 146,
+        "1950": 111,
+        "1951": 135,
+        "1952": 109,
+        "1953": 120,
+        "1954": 138,
+        "1955": 126,
+        "1956": 116,
+        "1957": 199,
+        "1958": 123,
+        "1959": 142,
+        "1960": 187,
+        "1961": 148,
+        "1962": 179,
+        "1963": 167,
+        "1964": 221,
+        "1965": 225,
+        "1966": 246,
+        "1967": 285,
+        "1968": 312,
+        "1969": 285,
+        "1970": 320,
+        "1971": 470,
+        "1972": 448,
+        "1973": 465,
+        "1974": 496,
+        "1975": 474,
+        "1976": 462,
+        "1977": 554,
+        "1978": 455,
+        "1979": 522,
+        "1980": 542,
+        "1981": 506,
+        "1982": 497,
+        "1983": 454,
+        "1984": 573,
+        "1985": 542,
+        "1986": 490,
+        "1987": 512,
+        "1988": 615,
+        "1989": 614,
+        "1990": 625,
+        "1991": 666,
+        "1992": 716,
+        "1993": 694,
+        "1994": 665,
+        "1995": 706,
+        "1996": 813,
+        "1997": 923,
+        "1998": 734,
+        "1999": 941,
+        "2000": 1139,
+        "2001": 827,
+        "2002": 951,
+        "2003": 870,
+        "2004": 810,
+        "2005": 1050,
+        "2006": 1064,
+        "2007": 1231,
+        "2008": 1075,
+        "2009": 892,
+        "2010": 925,
+        "2011": 939,
+        "2012": 1018,
+        "2013": 973,
+        "2014": 1030,
+        "2015": 793,
+        "2016": 742,
+        "2017": 809,
+        "2018": 623,
+        "2019": 581,
+        "2020": 479,
+        "2021": 344,
+        "2022": 326,
+        "2023": 220,
+        "2024": 255,
+        "2025": 135
+      },
+      "top_peaks_by_deviation": [
+        {
+          "year": 2000,
+          "deviation": 198,
+          "references": 1139
+        },
+        {
+          "year": 2007,
+          "deviation": 167,
+          "references": 1231
+        },
+        {
+          "year": 1997,
+          "deviation": 110,
+          "references": 923
+        },
+        {
+          "year": 2002,
+          "deviation": 81,
+          "references": 951
+        },
+        {
+          "year": 1977,
+          "deviation": 80,
+          "references": 554
+        },
+        {
+          "year": 1996,
+          "deviation": 79,
+          "references": 813
+        },
+        {
+          "year": 1984,
+          "deviation": 76,
+          "references": 573
+        },
+        {
+          "year": 1957,
+          "deviation": 73,
+          "references": 199
+        },
+        {
+          "year": 2017,
+          "deviation": 67,
+          "references": 809
+        },
+        {
+          "year": 2014,
+          "deviation": 57,
+          "references": 1030
+        },
+        {
+          "year": 1992,
+          "deviation": 50,
+          "references": 716
+        },
+        {
+          "year": 2012,
+          "deviation": 45,
+          "references": 1018
+        },
+        {
+          "year": 1960,
+          "deviation": 39,
+          "references": 187
+        },
+        {
+          "year": 1948,
+          "deviation": 36,
+          "references": 147
+        },
+        {
+          "year": 1980,
+          "deviation": 36,
+          "references": 542
+        }
+      ]
+    }
+  },
+  "6.9b_separation": {
+    "TS-J unique authors": 8984,
+    "AS-J unique authors": 1991,
+    "authors appearing in both": 107,
+    "pct_of_AS-J_authors_also_in_TS-J": 5.37,
+    "pct_of_TS-J_authors_also_in_AS-J": 1.19,
+    "example_overlapping_authors": [
+      "ACKER, R",
+      "ARNOLD, D",
+      "ATA, P",
+      "BARR, A",
+      "BECK, A",
+      "BESNARD-SCOTT, L",
+      "BRODIE, G",
+      "BROWN, A",
+      "BROWNLIE, S",
+      "BURTON, J",
+      "CAMPBELL, A",
+      "CARTER, S",
+      "CATTRYSSE, P",
+      "CHANG, H",
+      "CHANG, J",
+      "CHEN, Y",
+      "CHESTERMAN, A",
+      "COLLARD, C",
+      "COSTA CYNTHIA, B",
+      "DAVIS, T",
+      "DE FRANCISCI, E",
+      "DECKERT, M",
+      "DONG, L",
+      "EDWARDS, J",
+      "ELLIS, K"
+    ],
+    "top300_cited_source_overlap": 18,
+    "top300_overlapping_sources": [
+      "COMMUNICATION",
+      "CRIT INQUIRY",
+      "GUARDIAN",
+      "ILLUMINATIONS",
+      "INT J CULTURAL STUD",
+      "NEW LITERARY HIST",
+      "NY TIMES",
+      "PMLA",
+      "POETICS",
+      "POETICS TODAY",
+      "ROUTL COMPANIONS",
+      "SEMIOTICA",
+      "SIGNS",
+      "TARGET-NETH",
+      "THESIS",
+      "TRANSL STUD",
+      "TRANSLATION",
+      "TRANSLATOR"
+    ]
+  },
+  "raw_author_forms_TSJ_TOURY": {
+    "TOURY G.": 201,
+    "TOURY GIDEON.": 922,
+    "TOURY GIDEON": 161,
+    "TOURY G": 67
+  }
+}

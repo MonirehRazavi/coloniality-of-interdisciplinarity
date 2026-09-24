@@ -1,0 +1,68 @@
+{
+  "TS-J": {
+    "documents": 14258,
+    "parsed_references": 318442,
+    "Jakobson, Roman": {
+      "references": 438,
+      "citing_documents": 414,
+      "pct_of_corpus": 2.9,
+      "per_10k_parsed_references": 13.75
+    },
+    "Bluestone, George": {
+      "references": 1,
+      "citing_documents": 1,
+      "pct_of_corpus": 0.01,
+      "per_10k_parsed_references": 0.03
+    },
+    "Hutcheon, Linda": {
+      "references": 72,
+      "citing_documents": 68,
+      "pct_of_corpus": 0.48,
+      "per_10k_parsed_references": 2.26
+    }
+  },
+  "AS-J": {
+    "documents": 2763,
+    "parsed_references": 44126,
+    "Jakobson, Roman": {
+      "references": 18,
+      "citing_documents": 17,
+      "pct_of_corpus": 0.62,
+      "per_10k_parsed_references": 4.08
+    },
+    "Bluestone, George": {
+      "references": 79,
+      "citing_documents": 77,
+      "pct_of_corpus": 2.79,
+      "per_10k_parsed_references": 17.9
+    },
+    "Hutcheon, Linda": {
+      "references": 346,
+      "citing_documents": 321,
+      "pct_of_corpus": 11.62,
+      "per_10k_parsed_references": 78.41
+    }
+  },
+  "AS-T": {
+    "documents": 18566,
+    "parsed_references": 627992,
+    "Jakobson, Roman": {
+      "references": 170,
+      "citing_documents": 148,
+      "pct_of_corpus": 0.8,
+      "per_10k_parsed_references": 2.71
+    },
+    "Bluestone, George": {
+      "references": 175,
+      "citing_documents": 175,
+      "pct_of_corpus": 0.94,
+      "per_10k_parsed_references": 2.79
+    },
+    "Hutcheon, Linda": {
+      "references": 1426,
+      "citing_documents": 1321,
+      "pct_of_corpus": 7.12,
+      "per_10k_parsed_references": 22.71
+    }
+  }
+}
