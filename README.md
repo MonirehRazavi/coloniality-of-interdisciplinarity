@@ -92,6 +92,10 @@ The raw Web of Science exports (73 plain-text files; 35,587 records; 126 MB) are
 
 The analyses were first written up as a stand-alone chapter numbered §§6.3–6.9 (August 2026), then distributed across Chapters 1–5 (24 August), then gathered again into Chapter Six in its present form (13 September). Comments inside the older scripts refer to the August numbering; the mapping to the present thesis is: old §6.4 (term presence, canon matching, benchmarks) → §6.7 and §6.8; old §6.5 (ledger, baselines, citation kind) → §6.7 and §6.11; old §6.6 (networks) → §6.4; old §6.7 (markedness) → §6.11; old §6.8 (clocks) → §6.5; old §6.9 (RPYS) → §6.6; old §6.3.4 (noise) → §6.2 and Appendix A.1. The file names `t64_*` and `t66_*` keep their August prefixes; they are the same data.
 
+## Tooling note
+
+The scripts were written with the help of an AI coding assistant, used for drafting and debugging code. Every script was executed, checked and verified by the author; the corpus definitions, matching rules, inclusion and exclusion decisions and the interpretation of every result are the author's and are recorded, with their rationale, in `logs/Ch6_decision_log.md`. The 22 September 2026 rerun (`logs/`, Appendix A.9 of the thesis) is the record of that verification. Paths in the logs are shown relative to this folder.
+
 ## Licence
 
 Code (`scripts/`, `run_all.py`, `run_all.ipynb`): MIT (`LICENSE`). Outputs, figures, tables and logs: CC BY 4.0 (`LICENSE-OUTPUTS.md`). Please cite the thesis and this repository (`CITATION.cff`).

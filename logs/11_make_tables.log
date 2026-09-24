@@ -1,7 +1,7 @@
-wrote /home/claude/rerun/pkg/scripts/../tables_out/table_S1_ts_themes.csv
-wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_5_frontier_vs_core.csv
-wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_1_founders_across_corpora.csv
-wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_2_fidelity_clocks.csv
-wrote /home/claude/rerun/pkg/scripts/../tables_out/table_S2_term_presence_tsj.csv
-wrote /home/claude/rerun/pkg/scripts/../tables_out/table_6_4_directional_ledger.csv
-wrote /home/claude/rerun/pkg/scripts/../tables_out/table_A2_corpora_audit.csv
+wrote ./scripts/../tables_out/table_S1_ts_themes.csv
+wrote ./scripts/../tables_out/table_6_5_frontier_vs_core.csv
+wrote ./scripts/../tables_out/table_6_1_founders_across_corpora.csv
+wrote ./scripts/../tables_out/table_6_2_fidelity_clocks.csv
+wrote ./scripts/../tables_out/table_S2_term_presence_tsj.csv
+wrote ./scripts/../tables_out/table_6_4_directional_ledger.csv
+wrote ./scripts/../tables_out/table_A2_corpora_audit.csv

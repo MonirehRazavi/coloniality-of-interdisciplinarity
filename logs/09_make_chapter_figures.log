@@ -1,16 +1,16 @@
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_1_01_adaptation_treemap.png
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_1_02_translation_treemap.png
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_4_01_mirror_canons.png
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_01_landmarks.png
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_02_grammars.png
+wrote ./scripts/../figs_out/fig_1_01_adaptation_treemap.png
+wrote ./scripts/../figs_out/fig_1_02_translation_treemap.png
+wrote ./scripts/../figs_out/fig_4_01_mirror_canons.png
+wrote ./scripts/../figs_out/fig_5_01_landmarks.png
+wrote ./scripts/../figs_out/fig_5_02_grammars.png
   Fidelity                 1995=0.9% 2005=1.3% 2015=5.9% 2023=6.4%  peak=7.0% (2021)
   Intertextuality          1995=0.0% 2005=0.9% 2015=8.8% 2023=14.6%  peak=14.6% (2023)
   Cultural politics        1995=3.6% 2005=3.5% 2015=11.9% 2023=25.1%  peak=26.0% (2022)
   Digital and transmedia   1995=0.0% 2005=0.0% 2015=7.9% 2023=21.3%  peak=21.3% (2023)
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_03_thematic_evolution.png
+wrote ./scripts/../figs_out/fig_5_03_thematic_evolution.png
   TS-J: 11,887 records with an affiliation; USA 8.2%; UK 14.6%; Spain 15.9%; China 12.4%; Brazil 8.0%; Canada 6.1%; Russia 0.2%; Turkey 1.1%; Belgium 4.4%; Germany 1.8%; Australia 2.6%; Brazil n=949; Global South share 30.0%
   AS-J: 1,754 records with an affiliation; USA 46.8%; UK 21.7%; Spain 1.4%; China 1.5%; Brazil 0.3%; Canada 4.2%; Russia 0.0%; Turkey 4.7%; Belgium 1.8%; Germany 1.5%; Australia 3.9%; Brazil n=5; Global South share 8.7%
   AS-T: 15,787 records with an affiliation; USA 22.5%; UK 12.4%; Spain 8.8%; China 5.0%; Brazil 2.9%; Canada 3.6%; Russia 4.5%; Turkey 2.2%; Belgium 1.5%; Germany 4.0%; Australia 3.6%; Brazil n=457; Global South share 23.3%
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_04_geography.png
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_05_ts_authors_in_asj.png
-wrote /home/claude/rerun/pkg/scripts/../figs_out/fig_5_06_ast_research_areas.png
+wrote ./scripts/../figs_out/fig_5_04_geography.png
+wrote ./scripts/../figs_out/fig_5_05_ts_authors_in_asj.png
+wrote ./scripts/../figs_out/fig_5_06_ast_research_areas.png
