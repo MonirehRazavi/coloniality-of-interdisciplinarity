@@ -7,7 +7,9 @@ authors:
     alias: "Moni Zavi"
     affiliation: "School of Translation and Interpretation, University of Ottawa"
     email: "monirazav@gmail.com"
-version: "1.0"
+version: "1.0.1"
+doi: "10.5281/zenodo.22945938"
+
 date-released: "2026-09-24"
 repository-code: "https://github.com/MonirehRazavi/coloniality-of-interdisciplinarity"
 license: MIT
