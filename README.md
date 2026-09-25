@@ -1,13 +1,10 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22945938.svg)](https://doi.org/10.5281/zenodo.22945938)
-
-   ## How to cite
-   Razavi, M. (2026). *Weighed and found wanting: Supplementary code and outputs for the bibliometric analyses* (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22945938
-
 # Supplementary Electronic Files: The Bibliometric Analyses
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22945938.svg)](https://doi.org/10.5281/zenodo.22945938)
 
 **Thesis:** *Weighed and Found Wanting: A Close and Distant Reading of the Coloniality of Interdisciplinarity: The Case of Translation Studies and Adaptation Studies* — Monireh Sadat Razavi Ganji (Moni Zavi), PhD dissertation, School of Translation and Interpretation, University of Ottawa, 2026. Supervisor: Salah Basalamah.
 
-**Repository:** https://github.com/MonirehRazavi/coloniality-of-interdisciplinarity — release `v1.0-as-submitted` is the version deposited with the thesis (Appendix A.4 and Appendix B). Later commits, if any, are listed in the release notes and do not alter the deposited outputs.
+**Repository:** https://github.com/MonirehRazavi/coloniality-of-interdisciplinarity — release `v1.0.1-as-submitted` (identical in content to `v1.0-as-submitted`, commit 690af11) is the version deposited with the thesis (Appendix A.4 and Appendix B, which lists the scripts and what each produces), archived on Zenodo: https://doi.org/10.5281/zenodo.22945938. Later commits, if any, are listed in the release notes and do not alter the deposited outputs.
 
 **Version:** 22 September 2026 (the pre-submission rerun; supersedes the 24 August package).
 
@@ -105,6 +102,11 @@ The scripts were written with the help of an AI coding assistant, used for draft
 
 Code (`scripts/`, `run_all.py`, `run_all.ipynb`): MIT (`LICENSE`). Outputs, figures, tables and logs: CC BY 4.0 (`LICENSE-OUTPUTS.md`). Please cite the thesis and this repository (`CITATION.cff`).
 
+   ## How to cite
+   Razavi Ganji, M. S. (2026). *Weighed and found wanting: Supplementary code and outputs for the bibliometric analyses* (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22945938
+
 ## Contact
 
 Moni Zavi — monirazav@gmail.com
+
+
