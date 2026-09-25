@@ -1,3 +1,8 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22945938.svg)](https://doi.org/10.5281/zenodo.22945938)
+
+   ## How to cite
+   Razavi, M. (2026). *Weighed and found wanting: Supplementary code and outputs for the bibliometric analyses* (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22945938
+
 # Supplementary Electronic Files: The Bibliometric Analyses
 
 **Thesis:** *Weighed and Found Wanting: A Close and Distant Reading of the Coloniality of Interdisciplinarity: The Case of Translation Studies and Adaptation Studies* — Monireh Sadat Razavi Ganji (Moni Zavi), PhD dissertation, School of Translation and Interpretation, University of Ottawa, 2026. Supervisor: Salah Basalamah.
